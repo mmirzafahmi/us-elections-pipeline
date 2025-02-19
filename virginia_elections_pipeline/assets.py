@@ -121,6 +121,8 @@ def ingest_to_dwh() -> dg.MaterializeResult:
 
         if not os.path.exists(archived + file_name):
             os.rename(csv, archived + file_name)
+        else:
+            os.remove(csv)
     
     with dwh.connect() as conn:
         row_count = conn.execute(
