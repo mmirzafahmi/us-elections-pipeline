@@ -16,7 +16,10 @@ USER_AGENT = os.getenv('USER_AGENT')
 DOWNLOAD_DIR = os.getcwd() + '\\data'
 
 
-@dg.asset(group_name='extraction')
+@dg.asset(
+        group_name='extraction', 
+        automation_condition=dg.AutomationCondition.eager()
+)
 def get_data() -> dg.MaterializeResult:
 
     def get_browser():
@@ -95,7 +98,11 @@ def get_data() -> dg.MaterializeResult:
         )
 
 
-@dg.asset(deps=[get_data], group_name='ingestion')
+@dg.asset(
+        deps=[get_data], 
+        group_name='ingestion',
+        automation_condition=dg.AutomationCondition.eager()
+)
 def ingest_to_dwh() -> dg.MaterializeResult:
     
     dwh = create_engine(os.getenv('CONN_STRING'))
