@@ -5,7 +5,7 @@ import dagster as dg
 import pandas as pd
 from selenium import webdriver
 from bs4 import BeautifulSoup, SoupStrainer
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, text
 from datetime import datetime
 from selenium.webdriver.chrome.options import Options
 
@@ -119,16 +119,20 @@ def ingest_to_dwh() -> dg.MaterializeResult:
 
         df.to_sql(name='schedule_a', con=dwh, index=False, if_exists='append')
 
-        os.rename(csv, archived + file_name)
+        if not os.path.exists(archived + file_name):
+            os.rename(csv, archived + file_name)
     
     with dwh.connect() as conn:
         row_count = conn.execute(
-            """
-            SELECT COUNT(*)
-            FROM default.schedule_a
-            """
-        )
-        count = row_count[0] if row_count else 0
+            text(
+                """
+                SELECT COUNT(*)
+                FROM default.schedule_a
+                """
+            )
+        ).fetchall()
+        
+        count = row_count[0][0] if row_count else 0
 
         return dg.MaterializeResult(
             metadata={
