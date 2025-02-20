@@ -7,9 +7,10 @@ from selenium import webdriver
 from bs4 import BeautifulSoup, SoupStrainer
 from sqlalchemy import create_engine, text
 from datetime import datetime
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 
-
+NOW = datetime.now().strftime('%Y%m%d')
 BASE_URL = os.getenv('URL')
 FULL_URL = BASE_URL + os.getenv('END_POINT')
 USER_AGENT = os.getenv('USER_AGENT')
@@ -18,16 +19,17 @@ DOWNLOAD_DIR = os.getcwd() + '\\data'
 
 @dg.asset(
         group_name='extraction', 
+        compute_kind="python",
         automation_condition=dg.AutomationCondition.eager()
 )
-def get_data() -> dg.MaterializeResult:
+def get_data() -> None:
 
     def get_browser():
 
         user_agent = USER_AGENT
         default_dir = DOWNLOAD_DIR + '\\new'
         options = Options()
-        options.add_argument('--headless=new')
+        options.add_argument('--headless=NEW')
         options.add_argument(f'user-agent={user_agent}')
         options.add_experimental_option("prefs", {
             "download.default_directory": default_dir,
@@ -85,30 +87,19 @@ def get_data() -> dg.MaterializeResult:
             else:
                 time.sleep(1)
                 seconds += 1
-    
-    df = pd.concat(
-        [pd.read_csv(csv, encoding = "ISO-8859-1") for csv in glob.glob(downloadables + '\\*.csv')]
-    )
-
-    return dg.MaterializeResult(
-        metadata={
-                "row_count": dg.MetadataValue.int(len(df)),
-                "preview": dg.MetadataValue.md(df.to_markdown(index=False)),
-            }
-        )
 
 
 @dg.asset(
-        deps=[get_data], 
-        group_name='ingestion',
-        automation_condition=dg.AutomationCondition.eager()
+    deps=[get_data],
+    compute_kind="python",
+    group_name='transform',
+    automation_condition=dg.AutomationCondition.eager()
 )
-def ingest_to_dwh() -> dg.MaterializeResult:
-    
-    dwh = create_engine(os.getenv('CONN_STRING'))
+def combine_data() -> dg.MaterializeResult:
 
     csvs = glob.glob(DOWNLOAD_DIR + '\\new\\*.csv')
     archived = DOWNLOAD_DIR + '\\archived\\'
+    data = []
     for csv in csvs:
         
         file_name = csv.split('\\')[-1]
@@ -116,13 +107,41 @@ def ingest_to_dwh() -> dg.MaterializeResult:
         
         df['CommitteeContactId'] = df['CommitteeContactId'].astype('Int64')
         df['TransactionDate'] = df['TransactionDate'].apply(lambda r: datetime.strptime(r, '%m/%d/%Y'))
-
-        df.to_sql(name='schedule_a', con=dwh, index=False, if_exists='append')
+        data.append(df)
 
         if not os.path.exists(archived + file_name):
             os.rename(csv, archived + file_name)
         else:
             os.remove(csv)
+    
+    df = pd.concat(data)
+    row_count = len(df)
+    df.to_csv(DOWNLOAD_DIR + f'\\combined\\ScheduleA_{NOW}.csv', index=False)
+
+    return dg.MaterializeResult(
+        metadata={
+            "row_count": dg.MetadataValue.int(row_count),
+            "preview": dg.MetadataValue.md(df.astype(str).to_markdown(index=False)),
+        }
+    )
+
+@dg.asset(
+        deps=[combine_data],
+        compute_kind="python", 
+        group_name='ingestion',
+        automation_condition=dg.AutomationCondition.eager()
+)
+def ingest_to_dwh() -> dg.MaterializeResult:
+    
+    dwh = create_engine(os.getenv('CONN_STRING')) 
+    pd.read_csv(
+        DOWNLOAD_DIR + f'\\combined\\ScheduleA_{NOW}.csv'
+    ).to_sql(
+        name='schedule_a', 
+        con=dwh, 
+        index=False, 
+        if_exists='append'
+    )
     
     with dwh.connect() as conn:
         row_count = conn.execute(
