@@ -1,5 +1,5 @@
 # virginia_elections_pipeline
-
+![Dagster Pipeline](pipeline.png "Virginia Elections")
 This is a [Dagster](https://dagster.io/) project scaffolded with [`dagster project scaffold`](https://docs.dagster.io/guides/build/projects/creating-a-new-project).
 
 ## Getting started
