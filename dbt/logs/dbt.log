@@ -1,0 +1,616 @@
+[0m16:39:59.559141 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023AE98282E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023AEC412490>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023AEC4122E0>]}
+
+
+============================== 16:39:59.564486 | 367dae4f-eb2e-437f-b5ba-95a783666637 ==============================
+[0m16:39:59.564486 [info ] [MainThread]: Running with dbt=1.8.9
+[0m16:39:59.565485 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\muhammad.fahmi\\.dbt', 'debug': 'False', 'version_check': 'True', 'log_path': 'C:\\Users\\muhammad.fahmi\\upwork\\virginia-elections-pipeline\\virginia_elections_pipeline\\logs', 'fail_fast': 'False', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'log_format': 'default', 'introspect': 'True', 'static_parser': 'True', 'invocation_command': 'dbt debug', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'send_anonymous_usage_stats': 'True'}
+[0m16:39:59.592556 [info ] [MainThread]: dbt version: 1.8.9
+[0m16:39:59.593556 [info ] [MainThread]: python version: 3.9.21
+[0m16:39:59.593556 [info ] [MainThread]: python path: C:\Users\muhammad.fahmi\AppData\Local\miniconda3\envs\dagster\python.exe
+[0m16:39:59.594556 [info ] [MainThread]: os info: Windows-10-10.0.26100-SP0
+[0m16:39:59.695227 [info ] [MainThread]: Using profiles dir at C:\Users\muhammad.fahmi\.dbt
+[0m16:39:59.695659 [info ] [MainThread]: Using profiles.yml file at C:\Users\muhammad.fahmi\.dbt\profiles.yml
+[0m16:39:59.696675 [info ] [MainThread]: Using dbt_project.yml file at C:\Users\muhammad.fahmi\upwork\virginia-elections-pipeline\virginia_elections_pipeline\dbt_project.yml
+[0m16:39:59.698668 [info ] [MainThread]: adapter type: clickhouse
+[0m16:39:59.698668 [info ] [MainThread]: adapter version: 1.8.9
+[0m16:39:59.812088 [info ] [MainThread]: Configuration:
+[0m16:39:59.813158 [info ] [MainThread]:   profiles.yml file [[32mOK found and valid[0m]
+[0m16:39:59.814334 [info ] [MainThread]:   dbt_project.yml file [[32mOK found and valid[0m]
+[0m16:39:59.815619 [info ] [MainThread]: Required dependencies:
+[0m16:39:59.816630 [debug] [MainThread]: Executing "git --help"
+[0m16:39:59.867835 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\n           [--config-env=<name>=<envvar>] <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone     Clone a repository into a new directory\n   init      Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add       Add file contents to the index\n   mv        Move or rename a file, a directory, or a symlink\n   restore   Restore working tree files\n   rm        Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect    Use binary search to find the commit that introduced a bug\n   diff      Show changes between commits, commit and working tree, etc\n   grep      Print lines matching a pattern\n   log       Show commit logs\n   show      Show various types of objects\n   status    Show the working tree status\n\ngrow, mark and tweak your common history\n   branch    List, create, or delete branches\n   commit    Record changes to the repository\n   merge     Join two or more development histories together\n   rebase    Reapply commits on top of another base tip\n   reset     Reset current HEAD to the specified state\n   switch    Switch branches\n   tag       Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch     Download objects and refs from another repository\n   pull      Fetch from and integrate with another repository or a local branch\n   push      Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m16:39:59.868834 [debug] [MainThread]: STDERR: "b''"
+[0m16:39:59.870343 [info ] [MainThread]:  - git [[32mOK found[0m]
+
+[0m16:39:59.871351 [info ] [MainThread]: Connection:
+[0m16:39:59.872199 [info ] [MainThread]:   driver: None
+[0m16:39:59.873236 [info ] [MainThread]:   host: localhost
+[0m16:39:59.873236 [info ] [MainThread]:   port: 8123
+[0m16:39:59.874211 [info ] [MainThread]:   user: default
+[0m16:39:59.874211 [info ] [MainThread]:   schema: default
+[0m16:39:59.875244 [info ] [MainThread]:   retries: 1
+[0m16:39:59.876211 [info ] [MainThread]:   database_engine: None
+[0m16:39:59.876211 [info ] [MainThread]:   cluster_mode: False
+[0m16:39:59.877219 [info ] [MainThread]:   secure: False
+[0m16:39:59.878218 [info ] [MainThread]:   verify: True
+[0m16:39:59.880210 [info ] [MainThread]:   client_cert: None
+[0m16:39:59.880210 [info ] [MainThread]:   client_cert_key: None
+[0m16:39:59.881410 [info ] [MainThread]:   connect_timeout: 10
+[0m16:39:59.882411 [info ] [MainThread]:   send_receive_timeout: 300
+[0m16:39:59.882411 [info ] [MainThread]:   sync_request_timeout: 5
+[0m16:39:59.883410 [info ] [MainThread]:   compress_block_size: 1048576
+[0m16:39:59.884410 [info ] [MainThread]:   compression: 
+[0m16:39:59.884410 [info ] [MainThread]:   check_exchange: True
+[0m16:39:59.885410 [info ] [MainThread]:   custom_settings: None
+[0m16:39:59.886410 [info ] [MainThread]:   use_lw_deletes: False
+[0m16:39:59.887444 [info ] [MainThread]:   allow_automatic_deduplication: False
+[0m16:39:59.888522 [info ] [MainThread]:   tcp_keepalive: False
+[0m16:39:59.893097 [info ] [MainThread]: Registered adapter: clickhouse=1.8.9
+[0m16:40:00.146711 [debug] [MainThread]: Acquiring new clickhouse connection 'debug'
+[0m16:40:00.147707 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m16:40:02.386652 [debug] [MainThread]: dbt_clickhouse adapter: On debug: select 1 as id...
+[0m16:40:02.439936 [debug] [MainThread]: dbt_clickhouse adapter: SQL status: OK in 0.05 seconds
+[0m16:40:02.483563 [info ] [MainThread]:   Connection test: [[32mOK connection ok[0m]
+
+[0m16:40:02.485562 [info ] [MainThread]: [32mAll checks passed![0m
+[0m16:40:02.491090 [debug] [MainThread]: Command `dbt debug` succeeded at 16:40:02.491090 after 3.08 seconds
+[0m16:40:02.493113 [debug] [MainThread]: Connection 'debug' was left open.
+[0m16:40:02.495111 [debug] [MainThread]: On debug: Close
+[0m16:40:02.497109 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023AE98282E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023AEC4CF640>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000023AEC5846A0>]}
+[0m16:40:02.498106 [debug] [MainThread]: Flushing usage events
+[0m17:56:01.212223 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001A8B3C092E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001A8B67F4670>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001A8B67F44C0>]}
+
+
+============================== 17:56:01.227511 | 0b784e60-f38d-464b-9a04-244ab5bce13b ==============================
+[0m17:56:01.227511 [info ] [MainThread]: Running with dbt=1.8.9
+[0m17:56:01.231088 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'debug': 'False', 'fail_fast': 'False', 'log_path': 'C:\\Users\\muhammad.fahmi\\upwork\\virginia-elections-pipeline\\virginia_elections_pipeline\\logs', 'version_check': 'True', 'profiles_dir': 'C:\\Users\\muhammad.fahmi\\.dbt', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'False', 'quiet': 'False', 'no_print': 'None', 'log_format': 'default', 'invocation_command': 'dbt compile', 'static_parser': 'True', 'introspect': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'send_anonymous_usage_stats': 'True'}
+[0m17:56:02.192866 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '0b784e60-f38d-464b-9a04-244ab5bce13b', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001A8B4050D00>]}
+[0m17:56:02.370692 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '0b784e60-f38d-464b-9a04-244ab5bce13b', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001A8B67970D0>]}
+[0m17:56:02.375747 [info ] [MainThread]: Registered adapter: clickhouse=1.8.9
+[0m17:56:02.911857 [debug] [MainThread]: checksum: 132857a23e9d07220246854f7763165174ce9b737cfc7867629ace4294e520b1, vars: {}, profile: , target: , version: 1.8.9
+[0m17:56:02.913378 [info ] [MainThread]: Unable to do partial parsing because saved manifest not found. Starting full parse.
+[0m17:56:02.915749 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'partial_parser', 'label': '0b784e60-f38d-464b-9a04-244ab5bce13b', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001A8B69E9280>]}
+[0m17:56:07.396054 [warn ] [MainThread]: [[33mWARNING[0m]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+There are 1 unused configuration paths:
+- models.virginia_elections_pipeline.example
+[0m17:56:07.425185 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '0b784e60-f38d-464b-9a04-244ab5bce13b', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001A8B7FD4FA0>]}
+[0m17:56:07.649769 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '0b784e60-f38d-464b-9a04-244ab5bce13b', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001A8B80031F0>]}
+[0m17:56:07.650799 [info ] [MainThread]: Found 1 model, 1 source, 475 macros
+[0m17:56:07.652777 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '0b784e60-f38d-464b-9a04-244ab5bce13b', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001A8B7F73F40>]}
+[0m17:56:07.654294 [info ] [MainThread]: 
+[0m17:56:07.656301 [warn ] [MainThread]: Nothing to do. Try checking your model configs and model specification args
+[0m17:56:07.657301 [debug] [MainThread]: Command end result
+[0m17:56:07.700143 [debug] [MainThread]: Command `dbt compile` succeeded at 17:56:07.700143 after 6.76 seconds
+[0m17:56:07.701141 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001A8B3C092E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001A8B6D2C100>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001A8B40D6AC0>]}
+[0m17:56:07.702143 [debug] [MainThread]: Flushing usage events
+[0m18:10:14.052084 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000139152B82E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000013917EA57F0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000013917EA5640>]}
+
+
+============================== 18:10:14.059603 | 4b96413d-8747-465c-9c52-2ee1f2e6cfa2 ==============================
+[0m18:10:14.059603 [info ] [MainThread]: Running with dbt=1.8.9
+[0m18:10:14.060598 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\muhammad.fahmi\\.dbt', 'fail_fast': 'False', 'version_check': 'True', 'log_path': 'C:\\Users\\muhammad.fahmi\\upwork\\virginia-elections-pipeline\\virginia_elections_pipeline\\logs', 'debug': 'False', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'False', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'introspect': 'True', 'log_format': 'default', 'static_parser': 'True', 'target_path': 'None', 'invocation_command': 'dbt build', 'send_anonymous_usage_stats': 'True'}
+[0m18:10:14.425947 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '4b96413d-8747-465c-9c52-2ee1f2e6cfa2', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000013917F7D6A0>]}
+[0m18:10:14.510902 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '4b96413d-8747-465c-9c52-2ee1f2e6cfa2', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000013917F4AE50>]}
+[0m18:10:14.513549 [info ] [MainThread]: Registered adapter: clickhouse=1.8.9
+[0m18:10:14.763044 [debug] [MainThread]: checksum: 132857a23e9d07220246854f7763165174ce9b737cfc7867629ace4294e520b1, vars: {}, profile: , target: , version: 1.8.9
+[0m18:10:14.876140 [info ] [MainThread]: Unable to do partial parsing because a project config has changed
+[0m18:10:14.877116 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'partial_parser', 'label': '4b96413d-8747-465c-9c52-2ee1f2e6cfa2', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000139172F3EE0>]}
+[0m18:10:16.568075 [warn ] [MainThread]: [[33mWARNING[0m]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+There are 1 unused configuration paths:
+- models.virginia_elections_pipeline.events
+[0m18:10:16.584081 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '4b96413d-8747-465c-9c52-2ee1f2e6cfa2', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001391966E130>]}
+[0m18:10:16.792484 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '4b96413d-8747-465c-9c52-2ee1f2e6cfa2', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000139196FC2E0>]}
+[0m18:10:16.793484 [info ] [MainThread]: Found 1 model, 1 source, 475 macros
+[0m18:10:16.796484 [info ] [MainThread]: 
+[0m18:10:16.798484 [debug] [MainThread]: Acquiring new clickhouse connection 'master'
+[0m18:10:16.799483 [debug] [ThreadPool]: Acquiring new clickhouse connection 'list_'
+[0m18:10:16.810483 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m18:10:18.704534 [debug] [ThreadPool]: dbt_clickhouse adapter: On list_: /* {"app": "dbt", "dbt_version": "1.8.9", "profile_name": "virginia_elections_pipeline", "target_name": "dev", "connection_name": "list_"} */
+
+    select name from system.databases
+  ...
+[0m18:10:18.755924 [debug] [ThreadPool]: dbt_clickhouse adapter: SQL status: OK in 0.05 seconds
+[0m18:10:18.813061 [debug] [ThreadPool]: Acquiring new clickhouse connection 'list__default'
+[0m18:10:18.819072 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m18:10:19.451643 [debug] [ThreadPool]: dbt_clickhouse adapter: On list__default: /* {"app": "dbt", "dbt_version": "1.8.9", "profile_name": "virginia_elections_pipeline", "target_name": "dev", "connection_name": "list__default"} */
+select
+      t.name as name,
+      t.database as schema,
+      multiIf(
+        engine in ('MaterializedView', 'View'), 'view',
+        engine = 'Dictionary', 'dictionary',
+        'table'
+      ) as type,
+      db.engine as db_engine,0 as is_on_cluster
+          from system.tables as t join system.databases as db on t.database = db.name
+        where schema = 'default'
+      
+
+  ...
+[0m18:10:19.551229 [debug] [ThreadPool]: dbt_clickhouse adapter: SQL status: OK in 0.10 seconds
+[0m18:10:19.553897 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '4b96413d-8747-465c-9c52-2ee1f2e6cfa2', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000013930BC5970>]}
+[0m18:10:19.553897 [info ] [MainThread]: Concurrency: 1 threads (target='dev')
+[0m18:10:19.554915 [info ] [MainThread]: 
+[0m18:10:19.559915 [debug] [Thread-1  ]: Began running node model.virginia_elections_pipeline.stg_schedulea
+[0m18:10:19.559915 [info ] [Thread-1  ]: 1 of 1 START sql view model `default`.`stg_schedulea` .......................... [RUN]
+[0m18:10:19.561915 [debug] [Thread-1  ]: Acquiring new clickhouse connection 'model.virginia_elections_pipeline.stg_schedulea'
+[0m18:10:19.562916 [debug] [Thread-1  ]: Began compiling node model.virginia_elections_pipeline.stg_schedulea
+[0m18:10:19.570914 [debug] [Thread-1  ]: Writing injected SQL for node "model.virginia_elections_pipeline.stg_schedulea"
+[0m18:10:19.572916 [debug] [Thread-1  ]: Began executing node model.virginia_elections_pipeline.stg_schedulea
+[0m18:10:19.590914 [debug] [Thread-1  ]: Creating new relation stg_schedulea
+[0m18:10:19.599939 [debug] [Thread-1  ]: Opening a new connection, currently in state init
+[0m18:10:20.141655 [debug] [Thread-1  ]: Writing runtime sql for node "model.virginia_elections_pipeline.stg_schedulea"
+[0m18:10:20.143973 [debug] [Thread-1  ]: dbt_clickhouse adapter: On model.virginia_elections_pipeline.stg_schedulea: /* {"app": "dbt", "dbt_version": "1.8.9", "profile_name": "virginia_elections_pipeline", "target_name": "dev", "node_id": "model.virginia_elections_pipeline.stg_schedulea"} */
+
+
+  create or replace view `default`.`stg_schedulea` 
+  
+    
+    
+  as (
+    WITH raw_schedulea AS (
+    SELECT * FROM `default`.`raw_schedule_a`
+)
+SELECT
+    ReportId,
+    CommitteeContactId,
+    FirstName
+FROM raw_schedulea
+    
+  )
+      
+      
+                    -- end_of_sql
+                    
+                    ...
+[0m18:10:20.225178 [debug] [Thread-1  ]: dbt_clickhouse adapter: Error running SQL: /* {"app": "dbt", "dbt_version": "1.8.9", "profile_name": "virginia_elections_pipeline", "target_name": "dev", "node_id": "model.virginia_elections_pipeline.stg_schedulea"} */
+
+
+  create or replace view `default`.`stg_schedulea` 
+  
+    
+    
+  as (
+    WITH raw_schedulea AS (
+    SELECT * FROM `default`.`raw_schedule_a`
+)
+SELECT
+    ReportId,
+    CommitteeContactId,
+    FirstName
+FROM raw_schedulea
+    
+  )
+      
+      
+                    -- end_of_sql
+                    
+                    
+[0m18:10:20.336336 [debug] [Thread-1  ]: Database Error in model stg_schedulea (models\stg\stg_schedulea.sql)
+  HTTPDriver for http://localhost:8123 received ClickHouse error code 60
+   Code: 60. DB::Exception: Unknown table expression identifier 'default.raw_schedule_a' in scope SELECT * FROM default.raw_schedule_a. (UNKNOWN_TABLE) (version 25.1.5.31 (official build))
+  compiled code at target\run\virginia_elections_pipeline\models\stg\stg_schedulea.sql
+[0m18:10:20.338337 [debug] [Thread-1  ]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '4b96413d-8747-465c-9c52-2ee1f2e6cfa2', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000013930D34B20>]}
+[0m18:10:20.338337 [error] [Thread-1  ]: 1 of 1 ERROR creating sql view model `default`.`stg_schedulea` ................. [[31mERROR[0m in 0.78s]
+[0m18:10:20.339344 [debug] [Thread-1  ]: Finished running node model.virginia_elections_pipeline.stg_schedulea
+[0m18:10:20.341341 [debug] [MainThread]: Connection 'master' was properly closed.
+[0m18:10:20.341341 [debug] [MainThread]: Connection 'list_' was left open.
+[0m18:10:20.341341 [debug] [MainThread]: On list_: Close
+[0m18:10:20.342347 [debug] [MainThread]: Connection 'list__default' was left open.
+[0m18:10:20.342347 [debug] [MainThread]: On list__default: Close
+[0m18:10:20.342347 [debug] [MainThread]: Connection 'model.virginia_elections_pipeline.stg_schedulea' was left open.
+[0m18:10:20.343343 [debug] [MainThread]: On model.virginia_elections_pipeline.stg_schedulea: Close
+[0m18:10:20.343343 [info ] [MainThread]: 
+[0m18:10:20.344375 [info ] [MainThread]: Finished running 1 view model in 0 hours 0 minutes and 3.55 seconds (3.55s).
+[0m18:10:20.345392 [debug] [MainThread]: Command end result
+[0m18:10:20.423327 [info ] [MainThread]: 
+[0m18:10:20.424346 [info ] [MainThread]: [31mCompleted with 1 error and 0 warnings:[0m
+[0m18:10:20.425343 [info ] [MainThread]: 
+[0m18:10:20.426379 [error] [MainThread]:   Database Error in model stg_schedulea (models\stg\stg_schedulea.sql)
+  HTTPDriver for http://localhost:8123 received ClickHouse error code 60
+   Code: 60. DB::Exception: Unknown table expression identifier 'default.raw_schedule_a' in scope SELECT * FROM default.raw_schedule_a. (UNKNOWN_TABLE) (version 25.1.5.31 (official build))
+  compiled code at target\run\virginia_elections_pipeline\models\stg\stg_schedulea.sql
+[0m18:10:20.426379 [info ] [MainThread]: 
+[0m18:10:20.427395 [info ] [MainThread]: Done. PASS=0 WARN=0 ERROR=1 SKIP=0 TOTAL=1
+[0m18:10:20.428386 [debug] [MainThread]: Command `dbt build` failed at 18:10:20.428386 after 6.47 seconds
+[0m18:10:20.428386 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000139152B82E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000013919839EB0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000139182C0AF0>]}
+[0m18:10:20.429389 [debug] [MainThread]: Flushing usage events
+[0m18:11:00.283915 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000019FE23382E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000019FE4F257F0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000019FE4F25640>]}
+
+
+============================== 18:11:00.288922 | 342cd21e-f4b6-4dc4-aa57-94bc3957f724 ==============================
+[0m18:11:00.288922 [info ] [MainThread]: Running with dbt=1.8.9
+[0m18:11:00.289886 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\muhammad.fahmi\\.dbt', 'debug': 'False', 'fail_fast': 'False', 'log_path': 'C:\\Users\\muhammad.fahmi\\upwork\\virginia-elections-pipeline\\virginia_elections_pipeline\\logs', 'warn_error': 'None', 'version_check': 'True', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'False', 'quiet': 'False', 'no_print': 'None', 'log_format': 'default', 'introspect': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'invocation_command': 'dbt build', 'target_path': 'None', 'static_parser': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m18:11:00.554826 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '342cd21e-f4b6-4dc4-aa57-94bc3957f724', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000019FE501CD90>]}
+[0m18:11:00.638429 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '342cd21e-f4b6-4dc4-aa57-94bc3957f724', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000019FE4FA88E0>]}
+[0m18:11:00.640610 [info ] [MainThread]: Registered adapter: clickhouse=1.8.9
+[0m18:11:00.889664 [debug] [MainThread]: checksum: 132857a23e9d07220246854f7763165174ce9b737cfc7867629ace4294e520b1, vars: {}, profile: , target: , version: 1.8.9
+[0m18:11:01.057742 [debug] [MainThread]: Partial parsing enabled: 0 files deleted, 0 files added, 0 files changed.
+[0m18:11:01.058757 [debug] [MainThread]: Partial parsing enabled, no changes found, skipping parsing
+[0m18:11:01.064305 [warn ] [MainThread]: [[33mWARNING[0m]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+There are 1 unused configuration paths:
+- models.virginia_elections_pipeline.events
+[0m18:11:01.095339 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '342cd21e-f4b6-4dc4-aa57-94bc3957f724', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000019FE54E3130>]}
+[0m18:11:01.218280 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '342cd21e-f4b6-4dc4-aa57-94bc3957f724', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000019FE54DDE80>]}
+[0m18:11:01.219467 [info ] [MainThread]: Found 1 model, 1 source, 475 macros
+[0m18:11:01.221623 [info ] [MainThread]: 
+[0m18:11:01.222708 [debug] [MainThread]: Acquiring new clickhouse connection 'master'
+[0m18:11:01.224313 [debug] [ThreadPool]: Acquiring new clickhouse connection 'list_'
+[0m18:11:01.239454 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m18:11:02.442583 [debug] [ThreadPool]: dbt_clickhouse adapter: On list_: /* {"app": "dbt", "dbt_version": "1.8.9", "profile_name": "virginia_elections_pipeline", "target_name": "dev", "connection_name": "list_"} */
+
+    select name from system.databases
+  ...
+[0m18:11:02.493582 [debug] [ThreadPool]: dbt_clickhouse adapter: SQL status: OK in 0.05 seconds
+[0m18:11:02.511583 [debug] [ThreadPool]: Acquiring new clickhouse connection 'list__default'
+[0m18:11:02.518589 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m18:11:03.123183 [debug] [ThreadPool]: dbt_clickhouse adapter: On list__default: /* {"app": "dbt", "dbt_version": "1.8.9", "profile_name": "virginia_elections_pipeline", "target_name": "dev", "connection_name": "list__default"} */
+select
+      t.name as name,
+      t.database as schema,
+      multiIf(
+        engine in ('MaterializedView', 'View'), 'view',
+        engine = 'Dictionary', 'dictionary',
+        'table'
+      ) as type,
+      db.engine as db_engine,0 as is_on_cluster
+          from system.tables as t join system.databases as db on t.database = db.name
+        where schema = 'default'
+      
+
+  ...
+[0m18:11:03.195332 [debug] [ThreadPool]: dbt_clickhouse adapter: SQL status: OK in 0.07 seconds
+[0m18:11:03.198340 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '342cd21e-f4b6-4dc4-aa57-94bc3957f724', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000019FE5508D30>]}
+[0m18:11:03.199341 [info ] [MainThread]: Concurrency: 1 threads (target='dev')
+[0m18:11:03.200342 [info ] [MainThread]: 
+[0m18:11:03.206341 [debug] [Thread-1  ]: Began running node model.virginia_elections_pipeline.stg_schedulea
+[0m18:11:03.207339 [info ] [Thread-1  ]: 1 of 1 START sql view model `default`.`stg_schedulea` .......................... [RUN]
+[0m18:11:03.209343 [debug] [Thread-1  ]: Acquiring new clickhouse connection 'model.virginia_elections_pipeline.stg_schedulea'
+[0m18:11:03.209343 [debug] [Thread-1  ]: Began compiling node model.virginia_elections_pipeline.stg_schedulea
+[0m18:11:03.219862 [debug] [Thread-1  ]: Writing injected SQL for node "model.virginia_elections_pipeline.stg_schedulea"
+[0m18:11:03.221861 [debug] [Thread-1  ]: Began executing node model.virginia_elections_pipeline.stg_schedulea
+[0m18:11:03.242756 [debug] [Thread-1  ]: Creating new relation stg_schedulea
+[0m18:11:03.255743 [debug] [Thread-1  ]: Opening a new connection, currently in state init
+[0m18:11:03.922925 [debug] [Thread-1  ]: Writing runtime sql for node "model.virginia_elections_pipeline.stg_schedulea"
+[0m18:11:03.923918 [debug] [Thread-1  ]: dbt_clickhouse adapter: On model.virginia_elections_pipeline.stg_schedulea: /* {"app": "dbt", "dbt_version": "1.8.9", "profile_name": "virginia_elections_pipeline", "target_name": "dev", "node_id": "model.virginia_elections_pipeline.stg_schedulea"} */
+
+
+  create or replace view `default`.`stg_schedulea` 
+  
+    
+    
+  as (
+    WITH raw_schedulea AS (
+    SELECT * FROM `default`.`raw_schedule_a`
+)
+SELECT
+    ReportId,
+    CommitteeContactId,
+    FirstName
+FROM raw_schedulea
+    
+  )
+      
+      
+                    -- end_of_sql
+                    
+                    ...
+[0m18:11:03.976653 [debug] [Thread-1  ]: dbt_clickhouse adapter: Error running SQL: /* {"app": "dbt", "dbt_version": "1.8.9", "profile_name": "virginia_elections_pipeline", "target_name": "dev", "node_id": "model.virginia_elections_pipeline.stg_schedulea"} */
+
+
+  create or replace view `default`.`stg_schedulea` 
+  
+    
+    
+  as (
+    WITH raw_schedulea AS (
+    SELECT * FROM `default`.`raw_schedule_a`
+)
+SELECT
+    ReportId,
+    CommitteeContactId,
+    FirstName
+FROM raw_schedulea
+    
+  )
+      
+      
+                    -- end_of_sql
+                    
+                    
+[0m18:11:03.981551 [debug] [Thread-1  ]: Database Error in model stg_schedulea (models\stg\stg_schedulea.sql)
+  HTTPDriver for http://localhost:8123 received ClickHouse error code 60
+   Code: 60. DB::Exception: Unknown table expression identifier 'default.raw_schedule_a' in scope SELECT * FROM default.raw_schedule_a. (UNKNOWN_TABLE) (version 25.1.5.31 (official build))
+  compiled code at target\run\virginia_elections_pipeline\models\stg\stg_schedulea.sql
+[0m18:11:03.983547 [debug] [Thread-1  ]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '342cd21e-f4b6-4dc4-aa57-94bc3957f724', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000019FFDB75E80>]}
+[0m18:11:03.983547 [error] [Thread-1  ]: 1 of 1 ERROR creating sql view model `default`.`stg_schedulea` ................. [[31mERROR[0m in 0.77s]
+[0m18:11:03.985548 [debug] [Thread-1  ]: Finished running node model.virginia_elections_pipeline.stg_schedulea
+[0m18:11:03.986439 [debug] [MainThread]: Connection 'master' was properly closed.
+[0m18:11:03.987452 [debug] [MainThread]: Connection 'list_' was left open.
+[0m18:11:03.987452 [debug] [MainThread]: On list_: Close
+[0m18:11:03.988797 [debug] [MainThread]: Connection 'list__default' was left open.
+[0m18:11:03.988797 [debug] [MainThread]: On list__default: Close
+[0m18:11:03.988797 [debug] [MainThread]: Connection 'model.virginia_elections_pipeline.stg_schedulea' was left open.
+[0m18:11:03.989806 [debug] [MainThread]: On model.virginia_elections_pipeline.stg_schedulea: Close
+[0m18:11:03.989806 [info ] [MainThread]: 
+[0m18:11:03.990783 [info ] [MainThread]: Finished running 1 view model in 0 hours 0 minutes and 2.77 seconds (2.77s).
+[0m18:11:03.991789 [debug] [MainThread]: Command end result
+[0m18:11:04.072355 [info ] [MainThread]: 
+[0m18:11:04.074309 [info ] [MainThread]: [31mCompleted with 1 error and 0 warnings:[0m
+[0m18:11:04.075310 [info ] [MainThread]: 
+[0m18:11:04.075310 [error] [MainThread]:   Database Error in model stg_schedulea (models\stg\stg_schedulea.sql)
+  HTTPDriver for http://localhost:8123 received ClickHouse error code 60
+   Code: 60. DB::Exception: Unknown table expression identifier 'default.raw_schedule_a' in scope SELECT * FROM default.raw_schedule_a. (UNKNOWN_TABLE) (version 25.1.5.31 (official build))
+  compiled code at target\run\virginia_elections_pipeline\models\stg\stg_schedulea.sql
+[0m18:11:04.076309 [info ] [MainThread]: 
+[0m18:11:04.077309 [info ] [MainThread]: Done. PASS=0 WARN=0 ERROR=1 SKIP=0 TOTAL=1
+[0m18:11:04.078307 [debug] [MainThread]: Command `dbt build` failed at 18:11:04.078307 after 3.88 seconds
+[0m18:11:04.079309 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000019FE23382E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000019FE4FA88E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000019FE48F4D90>]}
+[0m18:11:04.080309 [debug] [MainThread]: Flushing usage events
+[0m18:11:39.814616 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000010717A892E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001071A6747F0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001071A674640>]}
+
+
+============================== 18:11:39.817622 | 8e7188e9-04f3-4301-a091-920e63f591b1 ==============================
+[0m18:11:39.817622 [info ] [MainThread]: Running with dbt=1.8.9
+[0m18:11:39.818600 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\muhammad.fahmi\\.dbt', 'version_check': 'True', 'warn_error': 'None', 'log_path': 'C:\\Users\\muhammad.fahmi\\upwork\\virginia-elections-pipeline\\virginia_elections_pipeline\\logs', 'fail_fast': 'False', 'debug': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'False', 'quiet': 'False', 'no_print': 'None', 'log_format': 'default', 'invocation_command': 'dbt build', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'introspect': 'True', 'target_path': 'None', 'static_parser': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m18:11:40.020418 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '8e7188e9-04f3-4301-a091-920e63f591b1', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001071A74D6A0>]}
+[0m18:11:40.080600 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '8e7188e9-04f3-4301-a091-920e63f591b1', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001071A719E50>]}
+[0m18:11:40.082531 [info ] [MainThread]: Registered adapter: clickhouse=1.8.9
+[0m18:11:40.263029 [debug] [MainThread]: checksum: 132857a23e9d07220246854f7763165174ce9b737cfc7867629ace4294e520b1, vars: {}, profile: , target: , version: 1.8.9
+[0m18:11:40.421276 [debug] [MainThread]: Partial parsing enabled: 0 files deleted, 0 files added, 1 files changed.
+[0m18:11:40.422242 [debug] [MainThread]: Partial parsing: updated file: virginia_elections_pipeline://models\sources.yml
+[0m18:11:40.786097 [warn ] [MainThread]: [[33mWARNING[0m]: Configuration paths exist in your dbt_project.yml file which do not apply to any resources.
+There are 1 unused configuration paths:
+- models.virginia_elections_pipeline.events
+[0m18:11:40.798522 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '8e7188e9-04f3-4301-a091-920e63f591b1', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001071AC27730>]}
+[0m18:11:40.903916 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '8e7188e9-04f3-4301-a091-920e63f591b1', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001071AC5BF70>]}
+[0m18:11:40.904900 [info ] [MainThread]: Found 1 model, 1 source, 475 macros
+[0m18:11:40.906897 [info ] [MainThread]: 
+[0m18:11:40.908930 [debug] [MainThread]: Acquiring new clickhouse connection 'master'
+[0m18:11:40.910475 [debug] [ThreadPool]: Acquiring new clickhouse connection 'list_'
+[0m18:11:40.921960 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m18:11:42.006486 [debug] [ThreadPool]: dbt_clickhouse adapter: On list_: /* {"app": "dbt", "dbt_version": "1.8.9", "profile_name": "virginia_elections_pipeline", "target_name": "dev", "connection_name": "list_"} */
+
+    select name from system.databases
+  ...
+[0m18:11:42.059156 [debug] [ThreadPool]: dbt_clickhouse adapter: SQL status: OK in 0.05 seconds
+[0m18:11:42.080413 [debug] [ThreadPool]: Acquiring new clickhouse connection 'list__default'
+[0m18:11:42.085397 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m18:11:42.696351 [debug] [ThreadPool]: dbt_clickhouse adapter: On list__default: /* {"app": "dbt", "dbt_version": "1.8.9", "profile_name": "virginia_elections_pipeline", "target_name": "dev", "connection_name": "list__default"} */
+select
+      t.name as name,
+      t.database as schema,
+      multiIf(
+        engine in ('MaterializedView', 'View'), 'view',
+        engine = 'Dictionary', 'dictionary',
+        'table'
+      ) as type,
+      db.engine as db_engine,0 as is_on_cluster
+          from system.tables as t join system.databases as db on t.database = db.name
+        where schema = 'default'
+      
+
+  ...
+[0m18:11:42.769594 [debug] [ThreadPool]: dbt_clickhouse adapter: SQL status: OK in 0.07 seconds
+[0m18:11:42.771572 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '8e7188e9-04f3-4301-a091-920e63f591b1', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001071A7CE7C0>]}
+[0m18:11:42.772573 [info ] [MainThread]: Concurrency: 1 threads (target='dev')
+[0m18:11:42.774577 [info ] [MainThread]: 
+[0m18:11:42.778573 [debug] [Thread-1  ]: Began running node model.virginia_elections_pipeline.stg_schedulea
+[0m18:11:42.780574 [info ] [Thread-1  ]: 1 of 1 START sql view model `default`.`stg_schedulea` .......................... [RUN]
+[0m18:11:42.782573 [debug] [Thread-1  ]: Acquiring new clickhouse connection 'model.virginia_elections_pipeline.stg_schedulea'
+[0m18:11:42.783579 [debug] [Thread-1  ]: Began compiling node model.virginia_elections_pipeline.stg_schedulea
+[0m18:11:42.790570 [debug] [Thread-1  ]: Writing injected SQL for node "model.virginia_elections_pipeline.stg_schedulea"
+[0m18:11:42.791574 [debug] [Thread-1  ]: Began executing node model.virginia_elections_pipeline.stg_schedulea
+[0m18:11:42.809577 [debug] [Thread-1  ]: Creating new relation stg_schedulea
+[0m18:11:42.821012 [debug] [Thread-1  ]: Opening a new connection, currently in state init
+[0m18:11:43.437722 [debug] [Thread-1  ]: Writing runtime sql for node "model.virginia_elections_pipeline.stg_schedulea"
+[0m18:11:43.439720 [debug] [Thread-1  ]: dbt_clickhouse adapter: On model.virginia_elections_pipeline.stg_schedulea: /* {"app": "dbt", "dbt_version": "1.8.9", "profile_name": "virginia_elections_pipeline", "target_name": "dev", "node_id": "model.virginia_elections_pipeline.stg_schedulea"} */
+
+
+  create or replace view `default`.`stg_schedulea` 
+  
+    
+    
+  as (
+    WITH raw_schedulea AS (
+    SELECT * FROM `default`.`schedule_a`
+)
+SELECT
+    ReportId,
+    CommitteeContactId,
+    FirstName
+FROM raw_schedulea
+    
+  )
+      
+      
+                    -- end_of_sql
+                    
+                    ...
+[0m18:11:43.499871 [debug] [Thread-1  ]: dbt_clickhouse adapter: SQL status: OK in 0.06 seconds
+[0m18:11:43.517402 [debug] [Thread-1  ]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '8e7188e9-04f3-4301-a091-920e63f591b1', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000107333E3C70>]}
+[0m18:11:43.518381 [info ] [Thread-1  ]: 1 of 1 OK created sql view model `default`.`stg_schedulea` ..................... [[32mOK[0m in 0.73s]
+[0m18:11:43.519382 [debug] [Thread-1  ]: Finished running node model.virginia_elections_pipeline.stg_schedulea
+[0m18:11:43.521163 [debug] [MainThread]: Connection 'master' was properly closed.
+[0m18:11:43.521163 [debug] [MainThread]: Connection 'list_' was left open.
+[0m18:11:43.522176 [debug] [MainThread]: On list_: Close
+[0m18:11:43.522176 [debug] [MainThread]: Connection 'list__default' was left open.
+[0m18:11:43.523175 [debug] [MainThread]: On list__default: Close
+[0m18:11:43.523175 [debug] [MainThread]: Connection 'model.virginia_elections_pipeline.stg_schedulea' was left open.
+[0m18:11:43.524189 [debug] [MainThread]: On model.virginia_elections_pipeline.stg_schedulea: Close
+[0m18:11:43.524189 [info ] [MainThread]: 
+[0m18:11:43.525184 [info ] [MainThread]: Finished running 1 view model in 0 hours 0 minutes and 2.62 seconds (2.62s).
+[0m18:11:43.526283 [debug] [MainThread]: Command end result
+[0m18:11:43.551450 [info ] [MainThread]: 
+[0m18:11:43.552429 [info ] [MainThread]: [32mCompleted successfully[0m
+[0m18:11:43.553538 [info ] [MainThread]: 
+[0m18:11:43.554697 [info ] [MainThread]: Done. PASS=1 WARN=0 ERROR=0 SKIP=0 TOTAL=1
+[0m18:11:43.555962 [debug] [MainThread]: Command `dbt build` succeeded at 18:11:43.555962 after 3.81 seconds
+[0m18:11:43.556978 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000010717A892E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001071A719E50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001071A834A60>]}
+[0m18:11:43.556978 [debug] [MainThread]: Flushing usage events
+[0m18:12:54.463415 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025AD1EB92E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025AD4AA56D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025AD4AA5520>]}
+
+
+============================== 18:12:54.467614 | 70fd7cbb-e61a-497a-a43c-73cb70a827bb ==============================
+[0m18:12:54.467614 [info ] [MainThread]: Running with dbt=1.8.9
+[0m18:12:54.469623 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\muhammad.fahmi\\.dbt', 'version_check': 'True', 'debug': 'False', 'log_path': 'C:\\Users\\muhammad.fahmi\\upwork\\virginia-elections-pipeline\\virginia_elections_pipeline\\logs', 'warn_error': 'None', 'fail_fast': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'False', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'invocation_command': 'dbt build', 'introspect': 'True', 'static_parser': 'True', 'target_path': 'None', 'log_format': 'default', 'send_anonymous_usage_stats': 'True'}
+[0m18:12:54.709409 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '70fd7cbb-e61a-497a-a43c-73cb70a827bb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025AD37F4310>]}
+[0m18:12:54.781216 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '70fd7cbb-e61a-497a-a43c-73cb70a827bb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025AD4A3CDC0>]}
+[0m18:12:54.782217 [info ] [MainThread]: Registered adapter: clickhouse=1.8.9
+[0m18:12:55.049488 [debug] [MainThread]: checksum: 132857a23e9d07220246854f7763165174ce9b737cfc7867629ace4294e520b1, vars: {}, profile: , target: , version: 1.8.9
+[0m18:12:55.229257 [info ] [MainThread]: Unable to do partial parsing because a project config has changed
+[0m18:12:55.230975 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'partial_parser', 'label': '70fd7cbb-e61a-497a-a43c-73cb70a827bb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025AD3EF2B50>]}
+[0m18:12:56.929980 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '70fd7cbb-e61a-497a-a43c-73cb70a827bb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025AD626F130>]}
+[0m18:12:57.079026 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '70fd7cbb-e61a-497a-a43c-73cb70a827bb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025AD62FE430>]}
+[0m18:12:57.080030 [info ] [MainThread]: Found 1 model, 1 source, 475 macros
+[0m18:12:57.083021 [info ] [MainThread]: 
+[0m18:12:57.085034 [debug] [MainThread]: Acquiring new clickhouse connection 'master'
+[0m18:12:57.088022 [debug] [ThreadPool]: Acquiring new clickhouse connection 'list_'
+[0m18:12:57.105031 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m18:12:58.380138 [debug] [ThreadPool]: dbt_clickhouse adapter: On list_: /* {"app": "dbt", "dbt_version": "1.8.9", "profile_name": "virginia_elections_pipeline", "target_name": "dev", "connection_name": "list_"} */
+
+    select name from system.databases
+  ...
+[0m18:12:58.432802 [debug] [ThreadPool]: dbt_clickhouse adapter: SQL status: OK in 0.05 seconds
+[0m18:12:58.451423 [debug] [ThreadPool]: Acquiring new clickhouse connection 'list__default'
+[0m18:12:58.456463 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m18:12:59.082128 [debug] [ThreadPool]: dbt_clickhouse adapter: On list__default: /* {"app": "dbt", "dbt_version": "1.8.9", "profile_name": "virginia_elections_pipeline", "target_name": "dev", "connection_name": "list__default"} */
+select
+      t.name as name,
+      t.database as schema,
+      multiIf(
+        engine in ('MaterializedView', 'View'), 'view',
+        engine = 'Dictionary', 'dictionary',
+        'table'
+      ) as type,
+      db.engine as db_engine,0 as is_on_cluster
+          from system.tables as t join system.databases as db on t.database = db.name
+        where schema = 'default'
+      
+
+  ...
+[0m18:12:59.150676 [debug] [ThreadPool]: dbt_clickhouse adapter: SQL status: OK in 0.07 seconds
+[0m18:12:59.152868 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '70fd7cbb-e61a-497a-a43c-73cb70a827bb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025AD63EBDF0>]}
+[0m18:12:59.153868 [info ] [MainThread]: Concurrency: 1 threads (target='dev')
+[0m18:12:59.154868 [info ] [MainThread]: 
+[0m18:12:59.157867 [debug] [Thread-1  ]: Began running node model.virginia_elections_pipeline.stg_schedulea
+[0m18:12:59.158867 [info ] [Thread-1  ]: 1 of 1 START sql table model `default`.`stg_schedulea` ......................... [RUN]
+[0m18:12:59.159866 [debug] [Thread-1  ]: Acquiring new clickhouse connection 'model.virginia_elections_pipeline.stg_schedulea'
+[0m18:12:59.161874 [debug] [Thread-1  ]: Began compiling node model.virginia_elections_pipeline.stg_schedulea
+[0m18:12:59.169891 [debug] [Thread-1  ]: Writing injected SQL for node "model.virginia_elections_pipeline.stg_schedulea"
+[0m18:12:59.170874 [debug] [Thread-1  ]: Began executing node model.virginia_elections_pipeline.stg_schedulea
+[0m18:12:59.217139 [debug] [Thread-1  ]: Opening a new connection, currently in state init
+[0m18:12:59.819079 [debug] [Thread-1  ]: dbt_clickhouse adapter: On model.virginia_elections_pipeline.stg_schedulea: /* {"app": "dbt", "dbt_version": "1.8.9", "profile_name": "virginia_elections_pipeline", "target_name": "dev", "node_id": "model.virginia_elections_pipeline.stg_schedulea"} */
+
+            
+
+    
+        create table `default`.`stg_schedulea__dbt_tmp`
+        
+  
+        
+  engine = MergeTree()
+        
+      order by (tuple())
+        
+        
+        
+        
+                    -- end_of_sql
+                    SETTINGS  replicated_deduplication_window=0
+
+                    
+            empty
+          as (
+            WITH raw_schedulea AS (
+    SELECT * FROM `default`.`schedule_a`
+)
+SELECT
+    ReportId,
+    CommitteeContactId,
+    FirstName
+FROM raw_schedulea
+          )
+        
+        ...
+[0m18:12:59.885117 [debug] [Thread-1  ]: dbt_clickhouse adapter: SQL status: OK in 0.07 seconds
+[0m18:12:59.950586 [debug] [Thread-1  ]: dbt_clickhouse adapter: On model.virginia_elections_pipeline.stg_schedulea: /* {"app": "dbt", "dbt_version": "1.8.9", "profile_name": "virginia_elections_pipeline", "target_name": "dev", "node_id": "model.virginia_elections_pipeline.stg_schedulea"} */
+
+    select name, type from system.columns where table = 'stg_schedulea__dbt_tmp'
+    
+      and database = 'default'
+    
+    order by position
+  ...
+[0m18:13:00.009661 [debug] [Thread-1  ]: dbt_clickhouse adapter: SQL status: OK in 0.06 seconds
+[0m18:13:00.012641 [debug] [Thread-1  ]: Writing runtime sql for node "model.virginia_elections_pipeline.stg_schedulea"
+[0m18:13:00.013636 [debug] [Thread-1  ]: dbt_clickhouse adapter: On model.virginia_elections_pipeline.stg_schedulea: /* {"app": "dbt", "dbt_version": "1.8.9", "profile_name": "virginia_elections_pipeline", "target_name": "dev", "node_id": "model.virginia_elections_pipeline.stg_schedulea"} */
+
+  
+    
+    
+    
+        
+         
+
+
+        insert into `default`.`stg_schedulea__dbt_tmp`
+        ("ReportId", "CommitteeContactId", "FirstName")WITH raw_schedulea AS (
+    SELECT * FROM `default`.`schedule_a`
+)
+SELECT
+    ReportId,
+    CommitteeContactId,
+    FirstName
+FROM raw_schedulea
+  ...
+[0m18:13:00.103473 [debug] [Thread-1  ]: dbt_clickhouse adapter: SQL status: OK in 0.09 seconds
+[0m18:13:00.110471 [debug] [Thread-1  ]: dbt_clickhouse adapter: On model.virginia_elections_pipeline.stg_schedulea: /* {"app": "dbt", "dbt_version": "1.8.9", "profile_name": "virginia_elections_pipeline", "target_name": "dev", "node_id": "model.virginia_elections_pipeline.stg_schedulea"} */
+
+    drop table if exists `default`.`stg_schedulea__dbt_backup` 
+  
+  ...
+[0m18:13:00.158042 [debug] [Thread-1  ]: dbt_clickhouse adapter: SQL status: OK in 0.05 seconds
+[0m18:13:00.160055 [debug] [Thread-1  ]: dbt_clickhouse adapter: On model.virginia_elections_pipeline.stg_schedulea: /* {"app": "dbt", "dbt_version": "1.8.9", "profile_name": "virginia_elections_pipeline", "target_name": "dev", "node_id": "model.virginia_elections_pipeline.stg_schedulea"} */
+
+    rename table `default`.`stg_schedulea` to `default`.`stg_schedulea__dbt_backup` 
+  
+  ...
+[0m18:13:00.218042 [debug] [Thread-1  ]: dbt_clickhouse adapter: SQL status: OK in 0.06 seconds
+[0m18:13:00.221040 [debug] [Thread-1  ]: dbt_clickhouse adapter: On model.virginia_elections_pipeline.stg_schedulea: /* {"app": "dbt", "dbt_version": "1.8.9", "profile_name": "virginia_elections_pipeline", "target_name": "dev", "node_id": "model.virginia_elections_pipeline.stg_schedulea"} */
+
+    drop table if exists `default`.`stg_schedulea` 
+  
+  ...
+[0m18:13:00.278418 [debug] [Thread-1  ]: dbt_clickhouse adapter: SQL status: OK in 0.06 seconds
+[0m18:13:00.279670 [debug] [Thread-1  ]: dbt_clickhouse adapter: On model.virginia_elections_pipeline.stg_schedulea: /* {"app": "dbt", "dbt_version": "1.8.9", "profile_name": "virginia_elections_pipeline", "target_name": "dev", "node_id": "model.virginia_elections_pipeline.stg_schedulea"} */
+
+    rename table `default`.`stg_schedulea__dbt_tmp` to `default`.`stg_schedulea` 
+  
+  ...
+[0m18:13:00.329685 [debug] [Thread-1  ]: dbt_clickhouse adapter: SQL status: OK in 0.05 seconds
+[0m18:13:00.350664 [debug] [Thread-1  ]: dbt_clickhouse adapter: On model.virginia_elections_pipeline.stg_schedulea: /* {"app": "dbt", "dbt_version": "1.8.9", "profile_name": "virginia_elections_pipeline", "target_name": "dev", "node_id": "model.virginia_elections_pipeline.stg_schedulea"} */
+
+    drop table if exists `default`.`stg_schedulea__dbt_backup` 
+  ...
+[0m18:13:00.400704 [debug] [Thread-1  ]: dbt_clickhouse adapter: SQL status: OK in 0.05 seconds
+[0m18:13:00.405699 [debug] [Thread-1  ]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': '70fd7cbb-e61a-497a-a43c-73cb70a827bb', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025AED901640>]}
+[0m18:13:00.406698 [info ] [Thread-1  ]: 1 of 1 OK created sql table model `default`.`stg_schedulea` .................... [[32mOK[0m in 1.24s]
+[0m18:13:00.407699 [debug] [Thread-1  ]: Finished running node model.virginia_elections_pipeline.stg_schedulea
+[0m18:13:00.409698 [debug] [MainThread]: Connection 'master' was properly closed.
+[0m18:13:00.409698 [debug] [MainThread]: Connection 'list_' was left open.
+[0m18:13:00.410704 [debug] [MainThread]: On list_: Close
+[0m18:13:00.410704 [debug] [MainThread]: Connection 'list__default' was left open.
+[0m18:13:00.410704 [debug] [MainThread]: On list__default: Close
+[0m18:13:00.411699 [debug] [MainThread]: Connection 'model.virginia_elections_pipeline.stg_schedulea' was left open.
+[0m18:13:00.411699 [debug] [MainThread]: On model.virginia_elections_pipeline.stg_schedulea: Close
+[0m18:13:00.412703 [info ] [MainThread]: 
+[0m18:13:00.413240 [info ] [MainThread]: Finished running 1 table model in 0 hours 0 minutes and 3.33 seconds (3.33s).
+[0m18:13:00.414246 [debug] [MainThread]: Command end result
+[0m18:13:00.442252 [info ] [MainThread]: 
+[0m18:13:00.443260 [info ] [MainThread]: [32mCompleted successfully[0m
+[0m18:13:00.443810 [info ] [MainThread]: 
+[0m18:13:00.444817 [info ] [MainThread]: Done. PASS=1 WARN=0 ERROR=0 SKIP=0 TOTAL=1
+[0m18:13:00.446333 [debug] [MainThread]: Command `dbt build` succeeded at 18:13:00.446333 after 6.13 seconds
+[0m18:13:00.447332 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025AD1EB92E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025AD4A3CDC0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025AD62FE430>]}
+[0m18:13:00.448333 [debug] [MainThread]: Flushing usage events

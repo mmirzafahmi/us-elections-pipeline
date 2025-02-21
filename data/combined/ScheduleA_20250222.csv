@@ -1,0 +1,865 @@
+ReportId,CommitteeContactId,FirstName,MiddleName,LastOrCompanyName,Prefix,Suffix,NameOfEmployer,OccupationOrTypeOfBusiness,PrimaryCityAndStateOfEmploymentOrBusiness,AddressLine1,AddressLine2,City,StateCode,ZipCode,IsIndividual,TransactionDate,Amount,TotalToDate,ScheduleAId,ScheduleId,ReportUID
+427573,936915,,,Identity Culpeper,,,,Public Affairs / Promotion / Consulting,"Culpeper, Va",405 Sperryville Pike,,Culpeper,VA,22701,False,2024-09-07,3000.0,3000.0,11057149,,{C0794B9C-CEA9-C348-B57A-30B95CEDED88}
+428068,531961,Christopher,,Brement,,,Bramante Homes Inc,Home Builder,"Waynesboro, VA",1835 Rosser Ave,Suite 2,Waynesboro,VA,22980,True,2024-10-21,45.0,450.0,11095964,,{E2A88813-10F1-44CC-743D-91263915B79B}
+428068,531961,Christopher,,Brement,,,Bramante Homes Inc,Home Builder,"Waynesboro, VA",1835 Rosser Ave,Suite 2,Waynesboro,VA,22980,True,2024-11-21,45.0,495.0,11095965,,{E2A88813-10F1-44CC-743D-91263915B79B}
+428068,531961,Christopher,,Brement,,,Bramante Homes Inc,Home Builder,"Waynesboro, VA",1835 Rosser Ave,Suite 2,Waynesboro,VA,22980,True,2024-12-21,45.0,540.0,11095966,,{E2A88813-10F1-44CC-743D-91263915B79B}
+428068,631759,,,Perkinson Homes,,,,Residential Builder,Midlothian. VA,P.O. Box 431,,Midlothian,VA,23113,False,2024-12-15,1500.0,1500.0,11095967,,{E2A88813-10F1-44CC-743D-91263915B79B}
+428068,719232,,,Sugar Creek Realty,,,,Property and Asset Management,"St. Louis, MO",17 W. Lockwood,,St. Louis,MO,63119,False,2024-11-22,10000.0,10000.0,11095968,,{E2A88813-10F1-44CC-743D-91263915B79B}
+428068,980523,Louis,,Genuario,,,Genuario Properties,Home Builder,"Alexandria, VA",8400 Radford Ave,,Alexandria,VA,22309,True,2024-10-12,500.0,2000.0,11095969,,{E2A88813-10F1-44CC-743D-91263915B79B}
+428068,980532,Nathan,,Trice,,,"Pride Electric, L.C.",President,"Verona, VA",859 Lee Hwy,,Verona,VA,24482,True,2024-10-21,100.0,1000.0,11095970,,{E2A88813-10F1-44CC-743D-91263915B79B}
+428068,980532,Nathan,,Trice,,,"Pride Electric, L.C.",President,"Verona, VA",859 Lee Hwy,,Verona,VA,24482,True,2024-11-21,100.0,1100.0,11095971,,{E2A88813-10F1-44CC-743D-91263915B79B}
+428068,980532,Nathan,,Trice,,,"Pride Electric, L.C.",President,"Verona, VA",859 Lee Hwy,,Verona,VA,24482,True,2024-12-21,100.0,1200.0,11095972,,{E2A88813-10F1-44CC-743D-91263915B79B}
+428068,1126002,Scott,,Hine,,,United Home Mortgage Corp.,Mortgage Lender,"Fredericksburg, VA","3006 Lafayette Boulevard,",,Fredericksburg,VA,22408,True,2024-12-01,150.0,300.0,11095973,,{E2A88813-10F1-44CC-743D-91263915B79B}
+428068,1185234,Bruce,,Kulzer,,,BlueLinx,Building Products Distributor,"Virginia Beach,VA",2525 McCue Rd.,Apt. 535,Houston,VA,77056,True,2024-10-14,200.0,200.0,11095974,,{E2A88813-10F1-44CC-743D-91263915B79B}
+428068,1185238,,,Pivot Development,,,,"Commercial, Multifamily and Mixed-Use Real Estate ","Henrico, VA",506 Old Providence Circle,,Henrico,VA,23229,False,2024-10-14,500.0,500.0,11095975,,{E2A88813-10F1-44CC-743D-91263915B79B}
+432436,,,,Abbott Laboratories Employee PAC,,,,Medical Devices,Abbott Park IL,100 Abbott Park Rd,,Abbott Park,IL,60064-3502,False,2024-10-21,500.0,1500.0,11221842,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Chiropractic Political Action Committee of VA,,,,Chiropractic,Alexandria VA,1520 Belle View Blvd,# 5398,Alexandria,VA,22307-6530,False,2024-08-20,500.0,500.0,11221866,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Cigna Group Employee PAC,,,,Insurance,Philadelphia PA,1601 Chestnut St,# TL16B,Philadelphia,PA,19192-0003,False,2024-07-08,1000.0,1000.0,11221867,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,CloudHQ LLC,,,,Technology,Washington DC,1212 New York Ave NW,Ste 1000,Washington,DC,20005-6127,False,2024-07-25,1000.0,1000.0,11221868,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Comcast,,,,Cable Communications,Philadelphia PA,1701 John F Kennedy Blvd,,Philadelphia,PA,19103-2833,False,2024-11-19,1000.0,1000.0,11221869,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Commercial Development PAC,,,,Real Estate,Alexandria VA,1729 King St,Ste 410,Alexandria,VA,22314-2742,False,2024-12-20,1500.0,1500.0,11221870,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Commissioner of Revenue PAC,,,,Leadership,Newport News VA,2400 Washington Ave,,Newport News,VA,23607-4301,False,2024-10-31,750.0,750.0,11221871,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Commonwealth Sportsmen's Alliance PAC,,,,Trade Association,Powhatan VA,PO Box 657,,Powhatan,VA,23139-0657,False,2024-12-27,3500.0,3500.0,11221872,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Comstock Hospitality Holdings LLC,,,,Hospitality,Reston VA,1900 Reston Metro Plz,Fl 10,Reston,VA,20190-5218,False,2024-08-27,25000.0,25000.0,11221873,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Comstock Hospitality Holdings LLC,,,,Hospitality,Reston VA,1900 Reston Metro Plz,Fl 10,Reston,VA,20190-5218,False,2024-10-15,25000.0,50000.0,11221874,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Robert,,Conner,,,,,Ebony VA,238 Robinson Ferry Rd,,Ebony,VA,23845-2161,True,2024-09-08,180.0,180.0,11221875,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Cozen O'Connor,,,,Law Firm,Richmond VA,1021 E Cary St,Ste 1420,Richmond,VA,23219-0020,False,2024-12-13,1500.0,1500.0,11221876,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,CP&O Virginia PAC,,,,Port Services,Norfolk VA,112 Granby St,Ste 400,Norfolk,VA,23510-1656,False,2024-10-03,2500.0,2500.0,11221877,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,CRNA PAC,,,,Healthcare,Richmond VA,800 E Canal St,,Richmond,VA,23219-3956,False,2024-09-18,2500.0,2500.0,11221878,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,CRNA PAC,,,,Healthcare,Richmond VA,800 E Canal St,,Richmond,VA,23219-3956,False,2024-12-27,2500.0,5000.0,11221879,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,"CVS Pharmacy, Inc.",,,,Retail,Woonsocket RI,1 Cvs Dr,,Woonsocket,RI,02895-6146,False,2024-07-03,2000.0,2000.0,11221880,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Deborah,,Dakin,,,Not Employed,Not Employed,Arlington VA,2100 Langston Blvd,Apt 402,Arlington,VA,22201-3559,True,2024-07-27,25.0,125.0,11221881,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Deborah,,Dakin,,,Not Employed,Not Employed,Arlington VA,2100 Langston Blvd,Apt 402,Arlington,VA,22201-3559,True,2024-08-27,25.0,150.0,11221882,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Deborah,,Dakin,,,Not Employed,Not Employed,Arlington VA,2100 Langston Blvd,Apt 402,Arlington,VA,22201-3559,True,2024-09-27,25.0,175.0,11221883,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Deborah,,Dakin,,,Not Employed,Not Employed,Arlington VA,2100 Langston Blvd,Apt 402,Arlington,VA,22201-3559,True,2024-10-27,25.0,200.0,11221884,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Deborah,,Dakin,,,Not Employed,Not Employed,Arlington VA,2100 Langston Blvd,Apt 402,Arlington,VA,22201-3559,True,2024-11-27,25.0,225.0,11221885,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Deborah,,Dakin,,,Not Employed,Not Employed,Arlington VA,2100 Langston Blvd,Apt 402,Arlington,VA,22201-3559,True,2024-12-27,25.0,250.0,11221886,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,LeTonya,,Dale,,,Lucas Professional Center,Administration,Portsmouth VA,6 Median Pl,,Portsmouth,VA,23701-3918,True,2024-09-10,60.0,120.0,11221887,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Ben,,Davenport,,Jr,Unknown,Unknown,Chatham VA,121 Reid St,,Chatham,VA,24531-4398,True,2024-09-10,1000.0,1000.0,11221888,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Delta Dental,,,,Insurance,Roanoke VA,4818 Starkey Rd,,Roanoke,VA,24018-8510,False,2024-12-10,750.0,750.0,11221889,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Democratic Party of Virginia,,,,Political Party,Richmond VA,919 E Main St,Ste 2050,Richmond,VA,23219-0025,False,2024-10-16,1295.22,1295.22,11221890,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Dominion Energy Inc. Political Action Committee,,,,Energy,Richmond VA,600 E Canal St,Fl 8,Richmond,VA,23219-3852,False,2024-07-18,50000.0,100000.0,11221891,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,David,,Downey,,,ACI,Contractor,Chesapeake VA,3204 Wise St,,Chesapeake,VA,23321-1538,True,2024-09-13,300.0,300.0,11221892,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Employees of RTX Corporation PAC,,,,Aerospace,Arlington VA,1000 Wilson Blvd,Ste 2300,Arlington,VA,22209-3914,False,2024-09-30,1500.0,1500.0,11221893,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Energy Transfer PAC,,,,Energy,Austin TX,1005 Congress Ave,Ste 995,Austin,TX,78701-2469,False,2024-10-04,2000.0,2000.0,11221894,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,EYEPAC,,,,Eye Physicians & Surgeons,Richmond VA,1205 E Main St,Ste 1E,Richmond,VA,23219-3666,False,2024-07-12,500.0,500.0,11221895,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Fantasy Sports Operator Coalition,,,,Gaming,Arlington VA,1501 Wilson Blvd,,Arlington,VA,22209-2460,False,2024-08-12,3000.0,5500.0,11221896,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Fantasy Sports Operator Coalition,,,,Gaming,Arlington VA,1501 Wilson Blvd,,Arlington,VA,22209-2460,False,2024-11-26,1500.0,7000.0,11221897,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Fresenius Medical Care,,,,Medical Care,Waltham MA,920 Winter St,,Waltham,MA,02451-1521,False,2024-12-27,2000.0,2000.0,11221898,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Geico,,,,Insurance,Washington DC,1 Geico Plz,,Washington,DC,20076-0003,False,2024-12-27,1000.0,1000.0,11221899,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,"Genworth Financial, Inc",,,,Insurance,Glen Allen VA,11011 W Broad St,,Glen Allen,VA,23060-5937,False,2024-12-22,1000.0,1000.0,11221900,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,"Genworth Financial, Inc",,,,Insurance,Glen Allen VA,11011 W Broad St,,Glen Allen,VA,23060-5937,False,2024-12-30,2500.0,3500.0,11221901,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,HCA for Good Government,,,,Healthcare,Richmond VA,901 E Cary St,Ste 2100,Richmond,VA,23219-4042,False,2024-11-13,10000.0,10000.0,11221902,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Helmer for Virginia,,,,Leadership,Fairfax VA,5592 Quiet Brook Rd,,Fairfax,VA,22030-5819,False,2024-12-20,500.0,500.0,11221903,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,"Highland Electric Fleets, Inc.",,,,Auto Dealers,Hamilton MA,PO Box 516,,Hamilton,MA,01936-0516,False,2024-10-30,750.0,750.0,11221904,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Huntington Ingalls Industries,,,,Shipbuilding,Newport News VA,4101 Washington Ave,,Newport News,VA,23607-2700,False,2024-10-04,2500.0,2500.0,11221905,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Hunton Andrews Kurth LLP,,,,Law Firm,Richmond VA,951 E Byrd St,,Richmond,VA,23219-4040,False,2024-12-27,2000.0,7412.22,11221906,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Instructure Inc.,,,,Education Technology,Salt Lake City UT,6330 S 3000 E,Ste 700,Salt Lake City,UT,84121-6237,False,2024-12-27,1000.0,1000.0,11221907,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,J&J Ventures Gaming LLC,,,,Gaming,Effingham IL,PO Box 1709,,Effingham,IL,62401-8109,False,2024-11-08,50000.0,55000.0,11221908,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,"Jushi, Inc.",,,,Cannabis Operations,Boca Raton FL,301 E Yamato Rd,Ste 3250,Boca Raton,FL,33431-4907,False,2024-12-27,1000.0,1000.0,11221909,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,K12 Management Inc.,,,,Education,Reston VA,11720 Plaza America Dr,Fl 9,Reston,VA,20190-4757,False,2024-11-01,750.0,750.0,11221910,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Maxim Healthcare Services,,,,Healthcare,Columbia MD,7227 Lee Deforest Dr,,Columbia,MD,21046-3236,False,2024-08-01,500.0,500.0,11221911,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,McGuireWoods LLP,,,,Law Firm,Richmond VA,800 E Canal St,,Richmond,VA,23219-3956,False,2024-12-05,2500.0,2500.0,11221912,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Medical Society of Virginia PAC,,,,Medical Professions,Richmond VA,2924 Emerywood Pkwy,Ste 300,Richmond,VA,23294-3746,False,2024-08-05,3000.0,3000.0,11221913,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Medical Society of Virginia PAC,,,,Medical Professions,Richmond VA,2924 Emerywood Pkwy,Ste 300,Richmond,VA,23294-3746,False,2024-11-06,3000.0,6000.0,11221914,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,"Merck & Co., Inc.",,,,Biopharmaceuticals,Rahway NJ,PO Box 2000,,Rahway,NJ,07065-0900,False,2024-07-22,2000.0,2000.0,11221915,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,"Merck & Co., Inc.",,,,Biopharmaceuticals,Rahway NJ,PO Box 2000,,Rahway,NJ,07065-0900,False,2024-10-21,1500.0,3500.0,11221916,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,"Micron Technology, Inc.",,,,Technology,Boise ID,PO Box 6,,Boise,ID,83707-0006,False,2024-10-28,2500.0,2500.0,11221917,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,"ModivCare Solutions, LLC",,,,Health Care,Denver CO,6900 E Layton Ave,Ste 1200,Denver,CO,80237-3656,False,2024-10-25,1000.0,1000.0,11221918,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Molson Coors,,,,Beverage,Milwaukee WI,PO Box 482,,Milwaukee,WI,53201-0482,False,2024-07-02,1500.0,1500.0,11221919,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Adam,,Moore,,,US Securities & Exchange Commission,Lawyer,Washington DC,3401 15th St N,,Arlington,VA,22201-4911,True,2024-07-03,100.0,600.0,11221920,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Adam,,Moore,,,US Securities & Exchange Commission,Lawyer,Washington DC,3401 15th St N,,Arlington,VA,22201-4911,True,2024-08-03,100.0,700.0,11221921,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Adam,,Moore,,,US Securities & Exchange Commission,Lawyer,Washington DC,3401 15th St N,,Arlington,VA,22201-4911,True,2024-09-03,100.0,800.0,11221922,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Adam,,Moore,,,US Securities & Exchange Commission,Lawyer,Washington DC,3401 15th St N,,Arlington,VA,22201-4911,True,2024-10-03,100.0,900.0,11221923,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Adam,,Moore,,,US Securities & Exchange Commission,Lawyer,Washington DC,3401 15th St N,,Arlington,VA,22201-4911,True,2024-11-03,100.0,1000.0,11221924,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Adam,,Moore,,,US Securities & Exchange Commission,Lawyer,Washington DC,3401 15th St N,,Arlington,VA,22201-4911,True,2024-12-03,100.0,1100.0,11221925,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Nancy,,Nghiem,,,Nancy Nghiem,Attorney,Mclean VA,12406 Kings Lake Dr,,Reston,VA,20191-1612,True,2024-09-10,180.0,180.0,11221926,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Northern Virginia Electric Cooperative,,,,Electric Cooperative,Manassas VA,10323 Lomond Dr,,Manassas,VA,20109-3113,False,2024-09-30,1500.0,1500.0,11221927,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Omega Protein,,,,Fishing,Reedville VA,PO Box 991,,Calais,ME,04619-0991,False,2024-09-24,2500.0,2500.0,11221928,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Principle Advantage Government Relations Group LLC,,,,Government Relations,Williamsburg VA,421 N Boundary St,,Williamsburg,VA,23185-3614,False,2024-10-29,1500.0,1500.0,11221929,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Quest Diagnostics Incorporated PAC,,,,Medical Laboratories,Secaucus NJ,500 Plaza Dr,,Secaucus,NJ,07094-3619,False,2024-08-16,500.0,500.0,11221930,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Reynolds Services Company,,,,Tobacco,Winston Salem NC,401 N Main St,,Winston Salem,NC,27101-3804,False,2024-07-03,2500.0,2500.0,11221931,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Sol,,Robinson,,,Not Employed,Not Employed,Seattle WA,111 Fairview Ave N,Apt 1028,Seattle,WA,98109-6099,True,2024-11-11,12.5,112.5,11221932,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Sol,,Robinson,,,Not Employed,Not Employed,Seattle WA,111 Fairview Ave N,Apt 1028,Seattle,WA,98109-6099,True,2024-12-11,12.5,125.0,11221933,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Clint,,Rudy,,,Unknown,Unknown,Suffolk VA,113 Brewer Ave,,Suffolk,VA,23434-5601,True,2024-11-06,200.0,200.0,11221934,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Thomas,,Shepley,,,Unknown,Unknown,Chester VA,12514 Mount Blanco Ct,,Chester,VA,23836-3000,True,2024-12-19,250.0,250.0,11221935,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,SidePrize LLC,,,,E-Sports,Atlanta GA,1230 Peachtree St NE,,Atlanta,GA,30309-3574,False,2024-12-27,1000.0,1000.0,11221936,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Smithfield Support Services Corp.,,,,Food Processing,Lisle IL,4225 Naperville Rd,Ste 350,Lisle,IL,60532-3694,False,2024-12-19,2000.0,2000.0,11221937,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,"Strata Solar, LLC",,,,Solar,Durham NC,800 Taylor St,Ste 200,Durham,NC,27701-4893,False,2024-09-24,750.0,750.0,11221938,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,"StubHub, Inc.",,,,Retail,New York NY,175 Greenwich St,Fl 59,New York,NY,10007-2450,False,2024-11-14,1000.0,1000.0,11221939,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Textron Political Action Committee,,,,Aviation,Providence RI,40 Westminster St,,Providence,RI,02903-2525,False,2024-09-23,1000.0,1000.0,11221940,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,"The Williams Companies, Inc.",,,,Energy,Tulsa OK,1 WILLIAMS Ctr,,Tulsa,OK,74103,False,2024-07-29,1000.0,1000.0,11221941,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,TransCanada USA Services,,,,Energy,Washington DC,1250 I St NW,Ste 225,Washington,DC,20005-5977,False,2024-10-10,1500.0,1500.0,11221942,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,"Transurban, Inc.",,,,Transportation,Tysons VA,7900 Westpark Dr,Ste T500,Tysons,VA,22102-4234,False,2024-12-04,1000.0,1000.0,11221943,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Truist Virginia PAC,,,,Financial Services,Richmond VA,1001 Semmes Ave,Fl 5,Richmond,VA,23224-2245,False,2024-08-07,1000.0,1000.0,11221944,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,United Airlines,,,,Aviation,Houston TX,PO Box 4607,,Houston,TX,77210-4607,False,2024-12-27,1500.0,1500.0,11221945,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,"UnitedHealth Group, Inc.",,,,Insurance,Englewood CO,169 Inverness Dr W,Ste 400,Englewood,CO,80112-5072,False,2024-09-24,1500.0,1500.0,11221946,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,VA Digital Infrastructure PAC,,,,Technology,Leesburg VA,525 E Market St,Ste PM,Leesburg,VA,20176-4121,False,2024-12-27,10000.0,10000.0,11221947,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,VA Operators for Skill,,,,Skill Games,Richmond VA,5612 Eastport Blvd,,Richmond,VA,23231-4443,False,2024-09-27,10000.0,10000.0,11221948,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,VA Society of Anesthesiologists PAC,,,,Healthcare,Richmond VA,118 N 8th St,,Richmond,VA,23219-2306,False,2024-11-25,2500.0,2500.0,11221949,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,VACBP Behavioral Health Improvement PAC,,,,Health Care,Virginia Beach VA,7018 Atlantic Ave,Ste 100,Virginia Beach,VA,23451-2025,False,2024-12-11,1000.0,1000.0,11221950,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,VADPAC,,,,Dental Medicine,Richmond VA,3460 Mayland Ct,Ste 110,Richmond,VA,23233-1454,False,2024-08-15,2500.0,2500.0,11221951,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,VAMICPAC,,,,Insurance,Richmond VA,PO Box 6927,,Richmond,VA,23230-0927,False,2024-12-27,1000.0,1000.0,11221952,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,"Vantage Data Centers Management Co, LLC",,,,Technology,Santa Clara CA,2820 Northwestern Pkwy,,Santa Clara,CA,95051-0904,False,2024-12-27,1000.0,1000.0,11221953,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Verizon,,,,Telecommunications,Washington DC,300 I St,Ste 500,Washington,DC,20005,False,2024-08-09,7500.0,7500.0,11221954,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Virginia Assisted Living Association PAC,,,,Assisted Living,Henrico VA,PO Box 71266,,Henrico,VA,23255-1266,False,2024-11-01,2000.0,2000.0,11221955,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Virginia Automobile & Truck Dealers PAC,,,,Automotive,Richmond VA,PO Box 5407,,Richmond,VA,23220-0407,False,2024-12-09,5000.0,5000.0,11221956,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Virginia Bankers Association State PAC,,,,Banking,Glen Allen VA,4490 Cox Rd,,Glen Allen,VA,23060-3325,False,2024-11-12,5000.0,5000.0,11221957,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Virginia Cable Political Action Committee,,,,Cable,Richmond VA,1111 E Main St,Ste 802,Richmond,VA,23219-3521,False,2024-12-11,2500.0,2500.0,11221958,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Virginia Chamber Political Action Committee,,,,Commerce,Richmond VA,919 E Main St,Ste 900,Richmond,VA,23219-4601,False,2024-11-01,2500.0,2500.0,11221959,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Virginia Credit Union PAC,,,,Credit Union,Lynchburg VA,PO Box 11469,,Lynchburg,VA,24506-1469,False,2024-11-21,2000.0,2000.0,11221960,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Virginia Health Care Association Political Action Committee,,,,Health Care,Richmond VA,2212 W LABURNUM Ave,Ste 206,Richmond,VA,23227,False,2024-12-27,8000.0,8000.0,11221961,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Virginia Hospital & Healthcare Association PAC,,,,Healthcare,Richmond VA,PO Box 31394,,Richmond,VA,23294-1394,False,2024-12-10,2500.0,2500.0,11221962,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Virginia Lifepoint Hospitals PAC,,,,Health Care,Richlands VA,6801 Governor Gc Peery Hwy,,Richlands,VA,24641-2194,False,2024-12-18,2500.0,2500.0,11221963,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Virginia Maritime Association,,,,Maritime Industries,Norfolk VA,PO Box 3487,,Norfolk,VA,23514-3487,False,2024-09-16,2500.0,2500.0,11221964,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Virginia Natural Gas PAC,,,,Energy,Virginia Beach VA,544 S Independence Blvd,,Virginia Beach,VA,23452-1104,False,2024-09-24,2000.0,2000.0,11221965,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Virginia Optometric Association,,,,Optometry,Glen Allen VA,4461 Cox Rd,Ste 110,Glen Allen,VA,23060-6168,False,2024-10-15,500.0,500.0,11221966,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Virginia Radiology PAC,,,,Radiology,Richmond VA,2821 Emerywood Pkwy,Ste 200,Richmond,VA,23294-3726,False,2024-07-15,500.0,500.0,11221967,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Virginia Sheriffs Association PAC,,,,Law Enforcement,Richmond VA,901 E Byrd St,Ste 1301,Richmond,VA,23219-4054,False,2024-08-28,250.0,5250.0,11221968,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Virginia Sheriffs Association PAC,,,,Law Enforcement,Richmond VA,901 E Byrd St,Ste 1301,Richmond,VA,23219-4054,False,2024-12-03,5000.0,10250.0,11221969,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Virginia Society of CPAs Political Action Committee,,,,Accounting,Glen Allen VA,4309 Cox Rd,,Glen Allen,VA,23060-3359,False,2024-12-11,2000.0,4000.0,11221970,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Virginia Society of CPAs Political Action Committee,,,,Accounting,Glen Allen VA,4309 Cox Rd,,Glen Allen,VA,23060-3359,False,2024-12-11,2000.0,4000.0,11221971,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,"Virginia State Police Association, Inc.",,,,Law Enforcement,Richmond VA,6944 Forest Hill Ave,,Richmond,VA,23225-1606,False,2024-11-15,500.0,500.0,11221972,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Virginia Trial Lawyers Political Action Committee,,,,Law,Richmond VA,919 E Main St,Ste 620,Richmond,VA,23219-4600,False,2024-07-02,2500.0,2500.0,11221973,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Virginia Wine Wholesalers,,,,Wine,Richmond VA,PO Box 170,,Richmond,VA,23218-0170,False,2024-10-10,1500.0,1500.0,11221974,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Visa,,,,Payment Services,Austin TX,PO Box 203730,,Austin,TX,78720-3730,False,2024-09-17,4000.0,4000.0,11221975,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Vision Management Services,,,,Management Services,Chicago IL,325 W Huron St,Ste 700,Chicago,IL,60654-3638,False,2024-08-05,500.0,500.0,11221976,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,VPTA PAC,,,,Heathcare,Clifton VA,11907 Henderson Ct,,Clifton,VA,20124-2200,False,2024-12-14,1500.0,1500.0,11221977,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,WALPAC,,,,Retail,Bentonville AR,702 SW 8th St,,Bentonville,AR,72716-6209,False,2024-12-02,2500.0,2500.0,11221978,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Ella,,Ward,,,Not Employed,Not Employed,Chesapeake VA,1517 Pine Grove Ln,,Chesapeake,VA,23321-1800,True,2024-09-13,120.0,120.0,11221979,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Reuben,,Washington,,,Not Employed,Not Employed,Portsmouth VA,5 Columbia Ct,,Portsmouth,VA,23704-3404,True,2024-07-10,25.0,125.0,11221980,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Reuben,,Washington,,,Not Employed,Not Employed,Portsmouth VA,5 Columbia Ct,,Portsmouth,VA,23704-3404,True,2024-08-10,25.0,150.0,11221981,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Waste Management,,,,Waste Management,Houston TX,PO Box 3027,,Houston,TX,77253-3027,False,2024-08-06,1000.0,1000.0,11221982,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,William,,Weisberg,,,Saber Health,President,Beachwood OH,9715 Fireside Dr,,Chagrin Falls,OH,44023-2465,True,2024-12-16,5000.0,5000.0,11221983,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Williams Mullen Clark & Dobbins,,,,Law Firm,Richmond VA,PO Box 1320,,Richmond,VA,23218-1320,False,2024-09-09,2250.0,2250.0,11221984,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Linwood,,Williams,,,NNSY,Manager,Suffolk VA,3318 Forsythia Ct,,Suffolk,VA,23435-3588,True,2024-09-06,120.0,120.0,11221985,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432438,958051,Paul,,Higgs,,,,,,110 Springwood Drive,,Fredericksburg,VA,22401,True,2022-10-03,10507.43,10507.43,11221986,,{2D1863A7-063E-A052-26EE-D98F7C284C04}
+432439,1005556,,,Abby Construction Company,,,,Constuction,Fredericksburg Va,1319 Layfayette Blvd.,Suite 100,Fredericksburg,VA,22401,False,2023-02-17,300.0,300.0,11221987,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1005565,,,J.B Thurston Corp.,,,,Plumbing and Electrical,Fredericksburg Va,6 Short Circle.,,Fredericksburg,VA,22407,False,2023-01-12,300.0,300.0,11221988,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1005574,Scott,,Baird,,,Oasis Management,Sales,Ashland Va,12301 Dell Way,,Fredericksburg,VA,22407,True,2023-02-12,400.0,400.0,11221989,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1005574,Scott,,Baird,,,Oasis Management,Sales,Ashland Va,12301 Dell Way,,Fredericksburg,VA,22407,True,2023-05-26,40.0,440.0,11221990,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1005581,,,Wilson Realty LLC,,,,Sales,"Fredericksburg, VA",405 Amelia St,,Fredericksburg,VA,22401,False,2023-03-08,300.0,300.0,11221991,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1005583,,,Carter Automotive,,,,Automotive repair,"Colonial Beach,VA",903 Colonial Ave.,,Colonial Beach,VA,22443,False,2023-03-23,1000.0,1000.0,11221992,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1005586,,,All About Wood,,,,Construction,Colonial Beach VA,1404 Bancroft Ave.,,Colonial Beach,VA,22443,False,2023-03-22,700.0,700.0,11221993,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1005589,,,"Reveille Systems, LLC",,,,Computer support and services,"Fredericksburg, VA",Po Box 825,,Fredericksburg,VA,22404,False,2023-03-03,1000.0,1000.0,11221994,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1005594,,,"Lees Trucking,, LLC",,,,Trucking Company,Spotsylvania VA,10708 Sunrise Lane,,Fredericksburg,VA,22407,False,2023-03-23,1000.0,1000.0,11221995,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1005597,,,Mid-Atlantic Communications Inc,,,,Electronics / Communications Installer,Stafford VA,Po Box 7074,,Fredericksburg,VA,22404,False,2023-03-15,1000.0,1000.0,11221996,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1005606,Clifford,,Eichholz,,,Retired,Retired,,113 Turnstone Lane,,Frederick,VA,22630,True,2023-03-22,500.0,500.0,11221997,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1005640,,,Brocks Riverside Grill,,,,Restaurant/ Food service,Fredericksburg Va,503 Sophia St,,Fredericksburg,VA,22401,False,2023-05-24,200.0,200.0,11221998,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1005646,Jason,,Dring,,,Fredericksburg Sheriff,Deputy Sheriff,Fredericksburg VA,4621 Lakeview Parkway,,Locust Grove,VA,22508,True,2023-05-22,500.0,500.0,11221999,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1005653,Tim,,Trivett,,,Federal Government,Federal,"Richmond, VA",3407 Wakefield St,,Colonial Beach,VA,22443,True,2023-05-26,200.0,200.0,11222000,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1007348,Jeh,,Hicks,,,Jerrell Properties,Real estate,VA,1005 Sophia St,,Fredericksburg,VA,22401,True,2023-05-26,300.0,300.0,11222001,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1007351,,,"Pallet Machinery Group, INC",,,,Equipment Sales,"Tappahannock, VA",250 Commerce Dr.,Unit A,Tappahannock,VA,22560,False,2023-05-24,400.0,400.0,11222002,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1007353,,,T.T & C. ONE LLC,,,,Furniture Sales,"Fredericksburg, VA",9351 Northeast Dr,,Fredericksburg,VA,22408,False,2023-05-22,400.0,400.0,11222003,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1007354,,,PV Enterprises INC,,,,Landscape Designs,Fredericksburg VA,5087 Blarney St.,,Fredericksburg,VA,22407,False,2023-05-25,400.0,400.0,11222004,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1007358,,,Shepheards Heating and Air,,,,Heating and Air Sales,Spotsylvania VA,13113 Post Oak Rd,,Spotsylvania,VA,22551,False,2023-05-26,500.0,500.0,11222005,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1007362,Steve,,Johnson,,,McClung-Logan Equipment Company,Sales,Stafford Va,7325 Chapel Heights Rd.,,Fredericksburg,VA,22407,True,2023-04-10,400.0,400.0,11222006,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1007363,Mark,,Purcell,,,Retired,Retired,"Fredericksburg, VA",1414 Preserve Lane,,Fredericksburg,VA,22401,True,2023-05-26,120.0,120.0,11222007,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1007385,Dana,,Foster,,,White and Case,Lawyer,Washington DC,2428 Branch Ave SE,,Washington,DC,20020,True,2023-05-26,520.0,520.0,11222008,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1007387,,,Communication Specialist INC,,,,Sales,"Stafford ,VA",35 Commerce Parkway,,Fredericksburg,VA,22406,False,2023-05-24,400.0,400.0,11222009,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1007556,Tom,,Cooper,,,Broadcasting INC.,General Mgr. Telemedia,Fredericksburg VA,13107 Cherub Way,,Fredericksburg,VA,22408,True,2023-05-26,120.0,120.0,11222010,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1007561,Michael,,Cavanagh,,,Retired,Retired,,338 BirchsideCircle,,Locust Grove,VA,22508,True,2023-05-26,120.0,120.0,11222011,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1007566,Ryan,,Merrell,,,City of Fredericksburg,Police Officer,Fredericksburg Va,1006 Eastern View Dr.,,Fredericksburg,VA,22405,True,2023-05-26,120.0,120.0,11222012,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1007630,Danny,,Mastin,,,,Retired,,1305 Hearthstone Dr,,Fredericksburg,VA,22401,True,2023-05-26,240.0,240.0,11222013,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1007631,Robert,,Medairos,,,Federal Government,TSA,"Washington, DC",8205 Musket Ridge Lane,,Fredericksburg,VA,22407,True,2023-05-26,240.0,240.0,11222014,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1007654,Jeremy,,Jack,,,Spotsylvania County Schools,Teacher,Spotsylvania Va,4307 Bridlepath CT,,Fredericksburg,VA,22408,True,2023-05-26,120.0,120.0,11222015,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1007669,Travis,,Bird,,,County of Spotsylvania,Commonwealth Attorney,Spotsylvania VA,11910 Ziyad Dr,,Fredericksburg,VA,22407,True,2023-05-26,120.0,120.0,11222016,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1007680,Rashawn,,Cowles,,,City of Fredericksburg,Police Officer,Fredericksburg Va,10801 Samantha Pl.,,Fredericksburg,VA,22408,True,2023-05-26,120.0,120.0,11222017,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1008459,,,G.L. Herndon Insurance Agency,,,,Insurance Agency,Spotsylvania VA,12022 Old Salem Church RD,,Fredericksburg,VA,22407,False,2023-05-26,400.0,400.0,11222018,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1009517,Danny,,Williams,,,,Retired,,11905 Legacy Woods Dr,,Fredericksburg,VA,22407,True,2023-05-26,120.0,120.0,11222019,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1009524,James,,McGhee,,,,Retired,,309 Butternut Dr.,,Fredericksburg,VA,22408,True,2023-05-26,120.0,120.0,11222020,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1009685,Kevin,,Sparks,,,Home Depot,Sales,Fredericksburg VA,11801 Berwick Ct,,Fredericksburg,VA,22408,True,2023-05-26,120.0,120.0,11222021,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1007351,,,"Pallet Machinery Group, INC",,,,Equipment Sales,"Tappahannock, VA",250 Commerce Dr.,Unit A,Tappahannock,VA,22560,False,2023-05-24,400.0,400.0,11222047,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1007353,,,T.T & C. ONE LLC,,,,Furniture Sales,"Fredericksburg, VA",9351 Northeast Dr,,Fredericksburg,VA,22408,False,2023-05-22,400.0,400.0,11222048,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1007354,,,PV Enterprises INC,,,,Landscape Designs,Fredericksburg VA,5087 Blarney St.,,Fredericksburg,VA,22407,False,2023-05-25,400.0,400.0,11222049,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1007358,,,Shepheards Heating and Air,,,,Heating and Air Sales,Spotsylvania VA,13113 Post Oak Rd,,Spotsylvania,VA,22551,False,2023-05-26,500.0,500.0,11222050,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1007362,Steve,,Johnson,,,McClung-Logan Equipment Company,Sales,Stafford Va,7325 Chapel Heights Rd.,,Fredericksburg,VA,22407,True,2023-04-10,400.0,400.0,11222051,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1007363,Mark,,Purcell,,,Retired,Retired,"Fredericksburg, VA",1414 Preserve Lane,,Fredericksburg,VA,22401,True,2023-05-26,120.0,120.0,11222052,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1007385,Dana,,Foster,,,White and Case,Lawyer,Washington DC,2428 Branch Ave SE,,Washington,DC,20020,True,2023-05-26,520.0,520.0,11222053,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1007387,,,Communication Specialist INC,,,,Sales,"Stafford ,VA",35 Commerce Parkway,,Fredericksburg,VA,22406,False,2023-05-24,400.0,400.0,11222054,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1007556,Tom,,Cooper,,,Broadcasting INC.,General Mgr. Telemedia,Fredericksburg VA,13107 Cherub Way,,Fredericksburg,VA,22408,True,2023-05-26,120.0,120.0,11222055,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1007561,Michael,,Cavanagh,,,Retired,Retired,,338 BirchsideCircle,,Locust Grove,VA,22508,True,2023-05-26,120.0,120.0,11222056,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1007566,Ryan,,Merrell,,,City of Fredericksburg,Police Officer,Fredericksburg Va,1006 Eastern View Dr.,,Fredericksburg,VA,22405,True,2023-05-26,120.0,120.0,11222057,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1007630,Danny,,Mastin,,,,Retired,,1305 Hearthstone Dr,,Fredericksburg,VA,22401,True,2023-05-26,240.0,240.0,11222058,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1007631,Robert,,Medairos,,,Federal Government,TSA,"Washington, DC",8205 Musket Ridge Lane,,Fredericksburg,VA,22407,True,2023-05-26,240.0,240.0,11222059,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1007654,Jeremy,,Jack,,,Spotsylvania County Schools,Teacher,Spotsylvania Va,4307 Bridlepath CT,,Fredericksburg,VA,22408,True,2023-05-26,120.0,120.0,11222060,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1007669,Travis,,Bird,,,County of Spotsylvania,Commonwealth Attorney,Spotsylvania VA,11910 Ziyad Dr,,Fredericksburg,VA,22407,True,2023-05-26,120.0,120.0,11222061,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1007680,Rashawn,,Cowles,,,City of Fredericksburg,Police Officer,Fredericksburg Va,10801 Samantha Pl.,,Fredericksburg,VA,22408,True,2023-05-26,120.0,120.0,11222062,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1008459,,,G.L. Herndon Insurance Agency,,,,Insurance Agency,Spotsylvania VA,12022 Old Salem Church RD,,Fredericksburg,VA,22407,False,2023-05-26,400.0,400.0,11222063,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1009517,Danny,,Williams,,,,Retired,,11905 Legacy Woods Dr,,Fredericksburg,VA,22407,True,2023-05-26,120.0,120.0,11222064,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1009524,James,,McGhee,,,,Retired,,309 Butternut Dr.,,Fredericksburg,VA,22408,True,2023-05-26,120.0,120.0,11222065,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1009685,Kevin,,Sparks,,,Home Depot,Sales,Fredericksburg VA,11801 Berwick Ct,,Fredericksburg,VA,22408,True,2023-05-26,120.0,120.0,11222066,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1009695,Jonathon,,Moneyhon,,,Grump Monkey Custom Shoes,Sales,Fredericksburg Va,1729 Idlewild Blvd,,Fredericksburg,VA,22401,True,2023-05-26,120.0,120.0,11222067,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1009700,Kerry,,Lundin,,,,Retired,,9703 Danford Ct,,Fredericksburg,VA,22407,True,2023-05-26,120.0,120.0,11222068,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1009705,Ryan,,Menaffy,,,Spotsylvania County,Lawyer,Spotsylvania VA,8010 Second Corps Dr,,Fredericksburg,VA,22407,True,2023-05-26,120.0,120.0,11222069,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1198339,Jeff,,Adams,,,Spotsylvania County,Lawyer,Spotsylvania Va,8314 12th Corps,,Fredericksburg,VA,22407,True,2023-05-26,120.0,120.0,11222070,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432453,1198296,Joe,,Amberger,,,Joe Amberger,Self Employed,Fredericksburg Virginia,4022 Bonnie Brae Ct.,,Fredericksburg,VA,22407,True,2023-08-04,1000.0,1000.0,11222071,,{6CD64D21-425D-1FD7-9774-B6DDABB1F798}
+432458,1129483,Jon,Scott,Foster,,,Fredericksburg Sheriffs Office,Law Enforcement,Virginia,701 Princess Anne St.,Suite B,Fredericksburg,VA,22401,True,2024-01-19,151.35,151.35,11222072,,{6CF59066-9A88-0821-610F-FC54486C97E1}
+432462,,,,Amazon.com Services,,,,Online Commerce,Seattle WA,PO Box 80683,,Seattle,WA,98108-0683,False,2024-08-27,2500.0,2500.0,11222079,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,American Clean Power,,,,Energy,Washington DC,1501 M St NW,Ste 900,Washington,DC,20005-1700,False,2024-09-30,1000.0,1000.0,11222080,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Phoebe F,,Antrim,,,,Not Employed,Richmond VA,1500 Westbrook Ct,,Richmond,VA,23227-3365,True,2024-10-27,50.0,150.0,11222081,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,ARDA Resort Owners Coallition,,,,PAC,Washington DC,1201 15th St NW,,Washington,DC,20005-2899,False,2024-09-30,500.0,500.0,11222082,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Assocaited General Contractors of VA,,,,PAC,Glen Allen VA,11950 Nuckols Rd,,Glen Allen,VA,23059-5598,False,2024-12-02,500.0,500.0,11222083,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Associated Distributors,,,,Beverage,Sandston VA,5800 Technology Blvd,,Sandston,VA,23150-5035,False,2024-12-02,1000.0,1000.0,11222084,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Betting on VA Jobs,,,,PAC,Henrico VA,PO Box 71683,,Henrico,VA,23255-1683,False,2024-12-02,5000.0,5000.0,11222085,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Boyd-Pamunkey Casino PAC,,,,Gaming,Norfolk VA,112 Granby St,Ste 300,Norfolk,VA,23510-1656,False,2024-12-30,5000.0,5000.0,11222086,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Brown Distribution Company,,,,Distribution,Henrico VA,7006 VILLA Park,,Henrico,VA,23228,False,2024-08-06,1000.0,1000.0,11222087,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Robert,,Buesing,,,,Not Employed,Glen Allen VA,11084 Ellis Meadows Ln,,Glen Allen,VA,23059-6000,True,2024-08-11,100.0,200.0,11222088,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Tara,,Casey,,,University of Richmond,Law Faculty,Richmond VA,8710 Higginbotham Pl,,Henrico,VA,23229-7909,True,2024-08-11,19.0,114.0,11222089,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Tara,,Casey,,,University of Richmond,Law Faculty,Richmond VA,8710 Higginbotham Pl,,Henrico,VA,23229-7909,True,2024-09-08,19.0,133.0,11222090,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Tara,,Casey,,,University of Richmond,Law Faculty,Richmond VA,8710 Higginbotham Pl,,Henrico,VA,23229-7909,True,2024-10-13,19.0,152.0,11222091,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Tara,,Casey,,,University of Richmond,Law Faculty,Richmond VA,8710 Higginbotham Pl,,Henrico,VA,23229-7909,True,2024-11-10,19.0,171.0,11222092,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Tara,,Casey,,,University of Richmond,Law Faculty,Richmond VA,8710 Higginbotham Pl,,Henrico,VA,23229-7909,True,2024-12-08,19.0,190.0,11222093,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Ceasars Enterprise Services,,,,Entertainment,Las Vegas NV,1 Caesars Palace Dr,,Las Vegas,NV,89109-8969,False,2024-11-08,5000.0,5000.0,11222094,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Cigna Group PAC,,,,PAC,Philadelphia PA,1601 Chestnut St,,Philadelphia,PA,19192-0002,False,2024-09-30,500.0,500.0,11222095,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Comcast,,,,Television,Philadelphia PA,1 Comcast Ctr,,Philadelphia,PA,19103-2838,False,2024-07-22,500.0,500.0,11222096,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,CORPAC,,,,PAC,Staunton VA,116 W Beverley St,,Staunton,VA,24401-4279,False,2024-12-02,125.0,125.0,11222097,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,CRNA,,,,Healthcare,Roanoke VA,2227 Carter Rd SW,,Roanoke,VA,24015-3521,False,2024-10-28,1000.0,1000.0,11222098,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Susan,,Cunningham,,,,Not Employed,Richmond VA,4924 Lurgan Pl,,Richmond,VA,23228-6438,True,2024-07-07,50.0,250.0,11222099,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Susan,,Cunningham,,,,Not Employed,Richmond VA,4924 Lurgan Pl,,Richmond,VA,23228-6438,True,2024-08-04,50.0,300.0,11222100,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Susan,,Cunningham,,,,Not Employed,Richmond VA,4924 Lurgan Pl,,Richmond,VA,23228-6438,True,2024-09-01,50.0,350.0,11222101,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Susan,,Cunningham,,,,Not Employed,Richmond VA,4924 Lurgan Pl,,Richmond,VA,23228-6438,True,2024-10-06,50.0,400.0,11222102,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Susan,,Cunningham,,,,Not Employed,Richmond VA,4924 Lurgan Pl,,Richmond,VA,23228-6438,True,2024-11-03,50.0,450.0,11222103,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Susan,,Cunningham,,,,Not Employed,Richmond VA,4924 Lurgan Pl,,Richmond,VA,23228-6438,True,2024-12-01,50.0,500.0,11222104,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Stephanie,,Dempsey,,,,Not Employed,Henrico VA,11805 Prince Regent Pl,,Henrico,VA,23238-3948,True,2024-08-04,25.0,125.0,11222105,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Stephanie,,Dempsey,,,,Not Employed,Henrico VA,11805 Prince Regent Pl,,Henrico,VA,23238-3948,True,2024-08-25,25.0,150.0,11222106,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Stephanie,,Dempsey,,,,Not Employed,Henrico VA,11805 Prince Regent Pl,,Henrico,VA,23238-3948,True,2024-09-29,25.0,175.0,11222107,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Stephanie,,Dempsey,,,,Not Employed,Henrico VA,11805 Prince Regent Pl,,Henrico,VA,23238-3948,True,2024-10-27,25.0,200.0,11222108,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Stephanie,,Dempsey,,,,Not Employed,Henrico VA,11805 Prince Regent Pl,,Henrico,VA,23238-3948,True,2024-12-01,25.0,225.0,11222109,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Stephanie,,Dempsey,,,,Not Employed,Henrico VA,11805 Prince Regent Pl,,Henrico,VA,23238-3948,True,2024-12-29,25.0,250.0,11222110,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Destiny for VA,,,,Candidate Committee,Richmond VA,9962 BROOK Rd,# 671,Richmond,VA,23227,False,2024-12-30,300.0,300.0,11222111,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Robert,W.,Downs,,Jr.,,Not Employed,Richmond VA,1205 Loch Lomond Ct,,Richmond,VA,23221-3805,True,2024-12-29,250.0,250.0,11222112,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Employees of RTX Corporation PAC,,,,Defense,Arlington VA,1000 Wilson Blvd,,Arlington,VA,22209-3927,False,2024-10-15,500.0,500.0,11222113,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Engineering Companies of Virginia PAC,,,,PAC,Henrico VA,8600 Mayland Dr,,Henrico,VA,23294-4702,False,2024-09-30,1000.0,1000.0,11222114,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Enterprise Holdings PAC,,,,PAC,Saint Louis MO,600 Corporate Park Dr,,Saint Louis,MO,63105-4204,False,2024-07-22,500.0,500.0,11222115,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Entertainment Software Association,,,,Software,Washington DC,601 Massachusetts Ave NW,,Washington,DC,20001-5369,False,2024-09-30,500.0,500.0,11222116,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Fantasy Sports Operator Coalition,,,,Sport Gaming,Arlington VA,1501 Wilson Blvd,,Arlington,VA,22209-2460,False,2024-12-18,1000.0,2500.0,11222117,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Felix,TAPAWAN,Garcia,,,AgriSunPower,Founder and CEO,Richmond VA,2 Carterham Ct,,Richmond,VA,23229-7749,True,2024-12-31,333.34,333.34,11222118,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Genworth Financial,,,,Insurance,Lynchburg VA,PO Box 222,,Lynchburg,VA,24505-0222,False,2024-12-12,1000.0,1000.0,11222119,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Martha Cole,,Glenn,,,,Not Employed,Arlington VA,10022 Cedarfield Ct,,Richmond,VA,23233-1935,True,2024-08-11,25.0,125.0,11222120,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Mary (Meg),,Gruber,,,PWCS,teacher,Manassas VA,2919 Bayfront Way,,Midlothian,VA,23112-4553,True,2024-09-29,20.0,120.0,11222121,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Mary (Meg),,Gruber,,,PWCS,teacher,Manassas VA,2919 Bayfront Way,,Midlothian,VA,23112-4553,True,2024-10-20,20.0,140.0,11222122,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Mary (Meg),,Gruber,,,PWCS,teacher,Manassas VA,2919 Bayfront Way,,Midlothian,VA,23112-4553,True,2024-11-17,20.0,160.0,11222123,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Mary (Meg),,Gruber,,,PWCS,teacher,Manassas VA,2919 Bayfront Way,,Midlothian,VA,23112-4553,True,2024-12-15,20.0,180.0,11222124,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Marjorie,,Hoskinson,,,,Not Employed,Thousand Oaks CA,813 Old Farm Rd,,Thousand Oaks,CA,91360-4937,True,2024-07-28,25.0,125.0,11222125,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Marjorie,,Hoskinson,,,,Not Employed,Thousand Oaks CA,813 Old Farm Rd,,Thousand Oaks,CA,91360-4937,True,2024-08-25,25.0,150.0,11222126,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Marjorie,,Hoskinson,,,,Not Employed,Thousand Oaks CA,813 Old Farm Rd,,Thousand Oaks,CA,91360-4937,True,2024-09-29,25.0,175.0,11222127,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Marjorie,,Hoskinson,,,,Not Employed,Thousand Oaks CA,813 Old Farm Rd,,Thousand Oaks,CA,91360-4937,True,2024-10-27,25.0,200.0,11222128,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Marjorie,,Hoskinson,,,,Not Employed,Thousand Oaks CA,813 Old Farm Rd,,Thousand Oaks,CA,91360-4937,True,2024-11-24,25.0,225.0,11222129,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Marjorie,,Hoskinson,,,,Not Employed,Thousand Oaks CA,813 Old Farm Rd,,Thousand Oaks,CA,91360-4937,True,2024-12-29,25.0,250.0,11222130,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Marcos,,Huerta,,,Carmax,"Manager, Data Science",Richmond VA,10123 Idlebrook Dr,,Henrico,VA,23238-3708,True,2024-08-18,20.0,120.0,11222131,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Marcos,,Huerta,,,Carmax,"Manager, Data Science",Richmond VA,10123 Idlebrook Dr,,Henrico,VA,23238-3708,True,2024-09-15,20.0,140.0,11222132,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Marcos,,Huerta,,,Carmax,"Manager, Data Science",Richmond VA,10123 Idlebrook Dr,,Henrico,VA,23238-3708,True,2024-10-20,20.0,160.0,11222133,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Marcos,,Huerta,,,Carmax,"Manager, Data Science",Richmond VA,10123 Idlebrook Dr,,Henrico,VA,23238-3708,True,2024-11-17,20.0,180.0,11222134,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Marcos,,Huerta,,,Carmax,"Manager, Data Science",Richmond VA,10123 Idlebrook Dr,,Henrico,VA,23238-3708,True,2024-12-15,20.0,200.0,11222135,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Marcos,,Huerta,,,Carmax,"Manager, Data Science",Richmond VA,10123 Idlebrook Dr,,Henrico,VA,23238-3708,True,2024-12-31,16.67,216.67,11222136,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Huntington Ingalls Industries,,,,,Newport News VA,4101 Washington Ave,,Newport News,VA,23607-2700,False,2024-07-22,1000.0,1000.0,11222137,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Hunton Andrews Kurth,,,,Law Firm,Richmond VA,951 E Byrd St 951 East St,,Richmond,VA,23219,False,2024-12-30,1500.0,1500.0,11222138,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Ethan,,Johnson,,,,Not Employed,Henrico VA,10126 Dawndeer Ln,,Richmond,VA,23238-3721,True,2024-08-04,250.0,250.0,11222139,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,K12 Management Inc,,,,Education,Reston VA,11720 Plaza America Dr,,Reston,VA,20190-4757,False,2024-12-18,500.0,500.0,11222140,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,McKesson Employees Political Fund,,,,PAC,Washington DC,505 9th St NW,Ste 901,Washington,DC,20004-2173,False,2024-12-30,500.0,500.0,11222141,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Medical Society of Virginia PAC,,,,PAC,Henrico VA,2924 Emerywood Pkwy,Ste 300,Henrico,VA,23294-3746,False,2024-08-27,1000.0,1000.0,11222142,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Metro Virginia,,,,PAC,Washington DC,1025 Connecticut Ave NW,,Washington,DC,20036-5405,False,2024-12-02,500.0,500.0,11222143,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Jason,,Morris,,,Gurobi Optimization,Sales,Richmond VA,3804 English Horn Ct,,Richmond,VA,23233-7676,True,2024-07-07,25.0,125.0,11222144,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Jason,,Morris,,,Gurobi Optimization,Sales,Richmond VA,3804 English Horn Ct,,Richmond,VA,23233-7676,True,2024-08-04,25.0,150.0,11222145,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Jason,,Morris,,,Gurobi Optimization,Sales,Richmond VA,3804 English Horn Ct,,Richmond,VA,23233-7676,True,2024-09-08,25.0,175.0,11222146,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Jason,,Morris,,,Gurobi Optimization,Sales,Richmond VA,3804 English Horn Ct,,Richmond,VA,23233-7676,True,2024-10-06,25.0,200.0,11222147,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Jason,,Morris,,,Gurobi Optimization,Sales,Richmond VA,3804 English Horn Ct,,Richmond,VA,23233-7676,True,2024-11-10,25.0,225.0,11222148,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Jason,,Morris,,,Gurobi Optimization,Sales,Richmond VA,3804 English Horn Ct,,Richmond,VA,23233-7676,True,2024-12-08,25.0,250.0,11222149,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Elisabeth,,Oxenham,,,,Not Employed,Richmond VA,1914 Idlebrook Dr,,Richmond,VA,23238-3707,True,2024-07-07,50.0,200.0,11222150,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Elisabeth,,Oxenham,,,,Not Employed,Richmond VA,1914 Idlebrook Dr,,Richmond,VA,23238-3707,True,2024-08-04,50.0,250.0,11222151,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Elisabeth,,Oxenham,,,,Not Employed,Richmond VA,1914 Idlebrook Dr,,Richmond,VA,23238-3707,True,2024-09-01,50.0,300.0,11222152,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Elisabeth,,Oxenham,,,,Not Employed,Richmond VA,1914 Idlebrook Dr,,Richmond,VA,23238-3707,True,2024-09-29,50.0,350.0,11222153,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Elisabeth,,Oxenham,,,,Not Employed,Richmond VA,1914 Idlebrook Dr,,Richmond,VA,23238-3707,True,2024-11-03,50.0,400.0,11222154,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Elisabeth,,Oxenham,,,,Not Employed,Richmond VA,1914 Idlebrook Dr,,Richmond,VA,23238-3707,True,2024-12-01,50.0,450.0,11222155,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Elisabeth,,Oxenham,,,,Not Employed,Richmond VA,1914 Idlebrook Dr,,Richmond,VA,23238-3707,True,2024-12-29,50.0,500.0,11222156,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Adam,P,Parker,,,Adam P Parker OD PC,Optometrist,Midlothian VA,6013 Harbour Park Dr,,Midlothian,VA,23112-2160,True,2024-11-08,150.0,216.67,11222157,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Steve,,Pishko,,,,Not Employed,Richmond VA,6618 W Grace St,,Richmond,VA,23226-2838,True,2024-11-03,500.0,500.0,11222158,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Don,,Polaski,,,Randolph-Macon College,Professor,Ashland VA,1313 Brookland Pkwy,,Richmond,VA,23227-4703,True,2024-07-21,25.0,158.34,11222159,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Don,,Polaski,,,Randolph-Macon College,Professor,Ashland VA,1313 Brookland Pkwy,,Richmond,VA,23227-4703,True,2024-08-18,25.0,183.34,11222160,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Don,,Polaski,,,Randolph-Macon College,Professor,Ashland VA,1313 Brookland Pkwy,,Richmond,VA,23227-4703,True,2024-09-15,25.0,208.34,11222161,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Premium Distributors,,,,Beverage,Chantilly VA,15001 Northridge Dr,,Chantilly,VA,20151-3821,False,2024-12-02,1000.0,1000.0,11222162,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Realtors PAC,,,,PAC,Glen Allen VA,10231 Telegraph Rd,,Glen Allen,VA,23059-4561,False,2024-09-30,3000.0,3000.0,11222163,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Reed Smith LLP VA PAC,,,,Law Firm,Richmond VA,901 E Byrd St,Ste 1700,Richmond,VA,23219-4068,False,2024-12-18,500.0,500.0,11222164,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Reed Smith,,,,Law Firm,Pittsburgh PA,20 Stanwix St,,Pittsburgh,PA,15222-4802,False,2024-08-06,500.0,500.0,11222165,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Richmond Area Municipal Contractors,,,,Contractors,Henrico VA,9702 Gayton Rd,,Henrico,VA,23238-4907,False,2024-09-06,500.0,500.0,11222166,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Richmond Build PAC,,,,PAC,Henrico VA,400 N Ridge Rd,,Henrico,VA,23229-7404,False,2024-10-15,2500.0,2500.0,11222167,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Rivers Portsmouth Gaming,,,,Gaming,Portsmouth VA,3630 Victory Blvd,,Portsmouth,VA,23701-3400,False,2024-10-07,2500.0,2500.0,11222168,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,RWE Clean Energy Services,,,,Energy,Chicago IL,353 N Clark St,,Chicago,IL,60654-4704,False,2024-12-02,1000.0,1000.0,11222169,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Secure Progress,,,,PAC,Fairfax Station VA,PO Box 7267,,Fairfax Station,VA,22039-7267,False,2024-12-20,1000.0,1000.0,11222170,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Service Corporation International PAC,,,,PAC,Houston TX,PO Box 130548,,Houston,TX,77219-0548,False,2024-09-13,1000.0,1000.0,11222171,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Sideprize,,,,Gaming,Atlanta GA,1230 Peachtree St NE,,Atlanta,GA,30309-3574,False,2024-12-12,500.0,500.0,11222172,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Sports Betting Alliance,,,,Gaming,Lubbock TX,5109 82nd St,,Lubbock,TX,79424-3028,False,2024-12-12,1000.0,1000.0,11222173,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Strata Solar,,,,Energy,Durham NC,800 Taylor St,,Durham,NC,27701-4893,False,2024-10-28,500.0,500.0,11222174,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,The Medical Society of Virginia PAC,,,,PAC,Henrico VA,2924 Emerywood Pkwy,,Henrico,VA,23294-3746,False,2024-12-02,1000.0,1000.0,11222175,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,VA Digital Infrastructure PAC,,,,PAC,Leesburg VA,525 E Market St,,Leesburg,VA,20176-4121,False,2024-12-30,2500.0,2500.0,11222176,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,VA Society of Anesthesiologists,,,,PAC,Richmond VA,118 N 18th St,,Richmond,VA,23223,False,2024-12-02,1500.0,1500.0,11222177,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,VADPAC,,,,PAC,Henrico VA,3460 Mayland Ct,,Henrico,VA,23233-1449,False,2024-09-06,1000.0,1000.0,11222178,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Vantage Data Centers Management,,,,Data,Santa Clara CA,2820 Northwestern Pkwy,,Santa Clara,CA,95051-0904,False,2024-12-30,500.0,500.0,11222179,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Verizon,,,,Telecommunications,Washington DC,1300 I St NW,Ste 400,Washington,DC,20005-3411,False,2024-08-27,1000.0,1000.0,11222180,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Virginia Association of Health Plans PAC,,,,Healthcare,Richmond VA,111 E Main St,Ste 910,Richmond,VA,23219-2111,False,2024-12-12,1000.0,1000.0,11222181,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Virginia Beer Wholesalers,,,,Beverage,Richmond VA,1021 E Cary St,,Richmond,VA,23219-0020,False,2024-08-06,3500.0,3500.0,11222182,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Virginia Health Care Association,,,,Healthcare,Richmond VA,2212 W LABURNUM Ave,Ste 206,Richmond,VA,23227,False,2024-12-30,1000.0,1000.0,11222183,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Virginia Natural Gas PAC,,,,Energy,Virginia Beach VA,544 S Independence Blvd,,Virginia Beach,VA,23452-1104,False,2024-12-12,500.0,500.0,11222184,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Virginia Optometric Association,,,,PAC,Henrico VA,PO Box 29069,,Henrico,VA,23242-0069,False,2024-11-08,500.0,500.0,11222185,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Virginia Radiology PAC,,,,PAC,Henrico VA,2821 Emerywood Pkwy,,Henrico,VA,23294-3726,False,2024-07-22,500.0,500.0,11222186,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Virginia Retail Federation PAC,,,,PAC,Richmond VA,5101 Monument Ave,,Richmond,VA,23230-3628,False,2024-07-22,500.0,500.0,11222187,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Virginia Society of CPAS PAC,,,,PAC,Glen Allen VA,4309 Cox Rd,,Glen Allen,VA,23060-3359,False,2024-12-02,1000.0,1000.0,11222188,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Virginia Society of the AIA,,,,PAC,Richmond VA,2201 W Broad St,,Richmond,VA,23220-2022,False,2024-09-30,1000.0,1000.0,11222189,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Virginia Trial Lawyers Political Action Committee,,,,,Richmond VA,919 E Main St,Ste 620,Richmond,VA,23219-4600,False,2024-12-18,1000.0,1000.0,11222190,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Virginia Wine Wholesalers,,,,Beverage,Richmond VA,PO Box 170,,Richmond,VA,23218-0170,False,2024-10-28,2500.0,2500.0,11222191,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Vision Management Services,,,,Healthcare,Chicago IL,325 W Huron St,Ste 700,Chicago,IL,60654-3638,False,2024-11-08,500.0,500.0,11222192,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Amy,S.,Whitelaw,,,"Allen, Allen, Allen and Allen",Attorney,Atlanta GA,6910 Staunton Ave,,Richmond,VA,23226-3557,True,2024-07-07,100.0,500.0,11222193,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Amy,S.,Whitelaw,,,"Allen, Allen, Allen and Allen",Attorney,Atlanta GA,6910 Staunton Ave,,Richmond,VA,23226-3557,True,2024-08-11,100.0,600.0,11222194,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Amy,S.,Whitelaw,,,"Allen, Allen, Allen and Allen",Attorney,Atlanta GA,6910 Staunton Ave,,Richmond,VA,23226-3557,True,2024-09-08,100.0,700.0,11222195,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Amy,S.,Whitelaw,,,"Allen, Allen, Allen and Allen",Attorney,Atlanta GA,6910 Staunton Ave,,Richmond,VA,23226-3557,True,2024-10-13,100.0,800.0,11222196,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Amy,S.,Whitelaw,,,"Allen, Allen, Allen and Allen",Attorney,Atlanta GA,6910 Staunton Ave,,Richmond,VA,23226-3557,True,2024-11-10,100.0,900.0,11222197,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,Amy,S.,Whitelaw,,,"Allen, Allen, Allen and Allen",Attorney,Atlanta GA,6910 Staunton Ave,,Richmond,VA,23226-3557,True,2024-12-08,100.0,1000.0,11222198,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432462,,,,Williams Mullen Clark &. Dobbins,,,,Law Firm,Richmond VA,PO Box 1320,,Richmond,VA,23218-1320,False,2024-09-25,1000.0,1000.0,11222199,,{654C5846-1F96-4526-6211-90E61B5EF5D0}
+432463,,MOLLY,,HARDIE,,,NOT EMPLOYED,NOT EMPLOYED,"CHARLOTTESVILLE,VA",2115 DOGWOOD LANE,,CHARLOTTESVILLE,VA,22901,True,2025-02-02,20000.0,20000.0,11222200,,{A36759DD-EE22-0127-7569-3470F99D83E2}
+432464,,ROBERT,,HARDIE,,,"LEVEL ONE PARTNERS, LLC",MANAGING DIRECTOR,"CHARLOTTESVILLE,VA",2115 DOGWOOD LANE,,CHARLOTTESVILLE,VA,22901,True,2025-02-02,30000.0,40000.0,11222201,,{EC14208D-4CD2-28B7-FD15-85CF87FEE6FD}
+432465,,LYNNE,,OBRIEN,,,NOT EMPLOYED,NOT EMPLOYED,"MCLEAN,VA","1127 LANGLEY LANE, 1127 LANGLEY LANE",,MCLEAN,VA,22101,True,2025-02-01,10000.0,10000.0,11222202,,{8A195678-9E33-7A18-02EE-E7632E95573D}
+432466,,ALLISON,,WEINSTEIN,,,WEINSTEIN PROPERTIES,REAL ESTATE OWNER OPERATOR,"GLEN ALLEN,VA",705 W DILIDO DRIVE,,MIAMI BEACH,FL,33139,True,2025-02-01,10000.0,10000.0,11222203,,{11958EFC-C684-3D68-916D-5CB38D1EF3A9}
+432507,,NANCY,,M,,,THE MILLER FIRM,ATTORNEY,"GORDONSVILLE,VA",17452 LOVERS LANE,,GORDONSVILLE,VA,22942,True,2025-02-03,10000.0,12000.0,11222243,,{8A8CD399-5B2B-A7E3-6630-90AC3AC86C5A}
+432508,,SCOTT,,SHENKER,,,ICSI,SCIENTIST,"BERKELEY,CA",66 SOUTHAMPTON AVE,,BERKELEY,CA,94707-2052,True,2025-02-03,10000.0,17500.0,11222244,,{168C7011-1E8E-0C74-4A1D-B4605CB86728}
+432511,1189588,,,GOPAC Election Fund,,,,Conservative political action committee,"Arlington, VA",1201 Wilson Blvd,Suite 2110,Arlington,VA,22209,False,2025-02-05,10000.0,0.0,11222245,,{7961F58A-F506-204A-051E-A7312BCFAB52}
+432513,1154477,Valerie,Boone,Fields,Ms.,,Former Employer Suffolk Public Schools,Retired School Teacher,"Suffolk,VA",6404 Old Westham Dr. N.,,Suffolk,VA,23435,True,2024-06-14,600.0,600.0,11222246,,{3A6B15A4-0993-90BD-4908-6518593D8C85}
+432522,1198741,steven,,ferring,mr.,,,retired,Claudville,687 knocking shop lane,,retired,VA,24076,True,2024-07-30,311.11,311.11,11222248,,{7BAE369A-49CB-25C8-C38E-33D994FA9376}
+432536,9490,Mark,,Granville-Smith,,,"Classic Concept Builders, Inc.",Home Builder,"Manassas, VA",9743 Brentsville Rd.,,Manassas,VA,20112,True,2024-06-21,250.0,250.0,11222249,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,9490,Mark,,Granville-Smith,,,"Classic Concept Builders, Inc.",Home Builder,"Manassas, VA",9743 Brentsville Rd.,,Manassas,VA,20112,True,2024-07-29,500.0,750.0,11222250,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,109992,,,Premier Insurance Agency,,,,Insurance,"Midlothian, VA",13321-I Midlothian Tnpk.,,Midlothian,VA,23113,False,2024-07-12,250.0,250.0,11222251,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,159424,Craig,,Havenner,,,The Christopher Companies,Home Builder,"Oakton, VA",10461 White Granite Dr. #,Suite 103,Oakton,VA,22124,True,2024-08-07,1000.0,1000.0,11222252,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,361466,,,The Terry Peterson Companies,,,,Home Builder,Virginia Beach,4705 Columbus Street,Suite 150,Virginia Beach,VA,23462-7762,False,2024-07-03,500.0,500.0,11222253,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,361813,,,"VB Homes Design Build, LLC",,,,Home Builder,"Virginia Beach, VA",1209 Laskins Rd,,Virginia Beach,VA,23451,False,2024-07-10,500.0,500.0,11222254,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,361839,Scott,,Williams,,,"Crescent Development Group, LLC",Developer,"Charlottesville, VA",485 Gillums Ridge Road,,Charlottesville,VA,22903,True,2024-06-07,60.0,360.0,11222255,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,361839,Scott,,Williams,,,"Crescent Development Group, LLC",Developer,"Charlottesville, VA",485 Gillums Ridge Road,,Charlottesville,VA,22903,True,2024-07-07,60.0,420.0,11222256,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,980523,Louis,,Genuario,,,Genuario Properties,Home Builder,"Alexandria, VA",8400 Radford Ave,,Alexandria,VA,22309,True,2024-07-12,500.0,1500.0,11222279,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,980532,Nathan,,Trice,,,"Pride Electric, L.C.",President,"Verona, VA",859 Lee Hwy,,Verona,VA,24482,True,2024-06-21,100.0,600.0,11222280,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,980532,Nathan,,Trice,,,"Pride Electric, L.C.",President,"Verona, VA",859 Lee Hwy,,Verona,VA,24482,True,2024-07-21,100.0,700.0,11222281,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,980532,Nathan,,Trice,,,"Pride Electric, L.C.",President,"Verona, VA",859 Lee Hwy,,Verona,VA,24482,True,2024-08-21,100.0,800.0,11222282,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,980568,Daniel,,Jones,,,East West Communities,Developer,"Chesterfield, VA",14700 Village Square Place,,Chesterfield,VA,23112,True,2024-05-29,1500.0,1500.0,11222283,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1030120,,,Pinnacle Construction & Development,,,,Residential Construction,"Charlottesville, VA",1821 Avon St Ext.,Suite 200,Charlottesville,VA,22902,False,2024-06-27,250.0,250.0,11222284,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1030120,,,Pinnacle Construction & Development,,,,Residential Construction,"Charlottesville, VA",1821 Avon St Ext.,Suite 200,Charlottesville,VA,22902,False,2024-07-09,2000.0,2250.0,11222285,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1088707,,,CH Construction,,,,Builder,"Richmond, VA",6912 Three Chopt Rd.,,Richmond,VA,23226,False,2024-07-12,2500.0,2500.0,11222286,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1134462,Alison,,Kaufmann,,,Old Dominion Electric Cooperative,Electric Utility Company,"Richmond, VA",9207 Venetian Way,,Richmond,VA,23229,True,2024-07-25,100.0,200.0,11222287,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1148912,Brad,,Blank,,,TRI Pointe Homes,Builder,"McLean, VA",6905 Rockledge Dr.,STE 800,Bethesda,MD,20817-1873,True,2024-06-21,500.0,500.0,11222288,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1149045,,,jarrell Properties,,,,Law Firm,"Fredericksburg, VA",1300 Princess Anne St.,,Fredericksburg,VA,22401,False,2024-06-13,500.0,500.0,11222289,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1149046,,,Zicht Engineering,,,,Enginering Frim,Paeonian Springs,16924 Simpson Cirlce,,Paeonian Springs,VA,20129,False,2024-06-21,200.0,200.0,11222290,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1149047,Randy,,Minchew,,,"Walsh, Colucci, Lubeley & Walsh, PC",Law Firm,"Leesburg, VA",330 W. Market St.,,Leesburg,VA,20176,True,2024-06-21,1000.0,1000.0,11222291,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1149048,,,Suburban Kitchens,,,,Custom Kitchens and Bath,"Chantilly, VA",4390 Henninger Ct.,,Chantilly,VA,20151,False,2024-06-21,250.0,250.0,11222292,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1149049,Leo,,Lantz,,,"Leo Lantz Construction, Inc.",General Contractor,"Glen Allen, VA",11966 Old Washington Hwy.,,Glen Allen,VA,23059,True,2024-06-23,250.0,250.0,11222293,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1149050,David,,Reid,,,Senco,Sales & Service,"Williamsburg, VA",408 Queensbury Lane,,Williamsburg,VA,23185,True,2024-06-24,200.0,200.0,11222294,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1149051,,,Starfield Companies,,,,Real Estate Developer,Raleigh. NC,2611 Peachleaf St.,,Raleigh,NC,27614,False,2024-06-24,500.0,500.0,11222295,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1149067,,,Kirbor Homes,,,,Residnetial Constructin,"Virginia Beach, VA",1521 Taylor Farm Road,,Virginia Beach,VA,23453,False,2024-06-24,500.0,500.0,11222296,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1149087,,,"Heritage Site Development, Inc.",,,,Residential Construction,"Purcellville, VA",PO Box 2815,,Purcellville,VA,20134,False,2024-06-25,250.0,250.0,11222297,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1150136,,,"GLS Plumbing, Inc.",,,,Plumbing,"Winchester, VA",106 Cannon cirlce,,Winchester,VA,22602,False,2024-06-27,500.0,500.0,11222298,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1150568,Robert,,Mullins,,,"Quality Homes, Inc.",Contractor,"Suffolk, VA",4953 Exeter Dr.,,Suffolk,VA,23434,True,2024-07-02,2500.0,2500.0,11222299,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1150574,,,ALPHATEC Surveyors,,,,Land Surveyor,"Chesapeake, VA",530 Woodlake Circle,,Chesapeake,VA,23320,False,2024-07-03,2500.0,2500.0,11222300,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1150578,John,,Hill,,,ALPHATEC Surveyors,Land Surveyor,"Chesapeake, VA",112 Sinclair Lane,,Chesapeake,VA,23322,True,2024-07-03,500.0,500.0,11222301,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1153266,Kyle,,Redinger,,,LandStriker,Real Estate Developer,"Charlottesville, VA",340 Broad Axe Road,,Charlottesville,VA,22903,True,2024-07-09,250.0,250.0,11222302,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1153267,,,Shimp Engineering,,,,"Design, Planning & Enginering","Afton, VA",148 tanbark Dr.,,Afton,VA,22920,False,2024-07-09,1000.0,1000.0,11222303,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1153426,,,"C A Barrs Contractor, Inc.",,,,Contractor,"Yorkytown, VA",7601 George Washington Memorial Hwy.,,Yorktown,VA,23692,False,2024-07-10,500.0,500.0,11222304,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1154216,Gregory,,Slater,,,Nest Realty,Real Estate Broker,"Crozet, VA",8236 West End Dr.,,Crozet,VA,22932,True,2024-07-11,250.0,250.0,11222305,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1154217,Richard,,Spurzem,,,Neighborhood Properties Inc.,Real Estate Investor,"Charlottesville, VA",810 Catalpa Court,,Charlottesville,VA,22903,True,2024-07-11,500.0,500.0,11222306,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1158163,,,Madison Wood Presevers,,,,Treating Lumber,"Madison, VA",216 Oak Park Road,,Madison,VA,22727,False,2024-07-19,500.0,500.0,11222307,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1158164,,,The Caton Companies LLC,,,,Consulting,"Charlottesville, VA",The Caton Companies LLC,,Charlottesville,VA,22905,False,2024-07-20,2500.0,2500.0,11222308,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1158165,Juan,Carlos Moreno,Satander,,,Juan Carlos Moreno Satander,Procurement,"Chantilly, VA",42813 Sykes Terrace,,Chantilly,VA,20152,True,2024-07-23,500.0,500.0,11222309,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1158411,,,Charles Ross Homes,,,,Residential Construction,"Williamsburg, VA",3206 ironbound Rd.,,Williamsburg,VA,23188-2452,False,2024-07-24,500.0,500.0,11222310,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1158412,,,Masonry Design Inc.,,,,Masonry,"Manassas, VA",10335 Ba;;s Ford Rd.,,Manassas,VA,20109,False,2024-07-24,250.0,250.0,11222311,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1158413,,,March Mountain Properties,,,,Real Estste Developer,"Crozet, VA",1005 Heathcroft Cir. #100,,Crozet,VA,22932,False,2024-07-24,2500.0,2500.0,11222312,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1158460,,,Capital Mechanical LLC,,,,Plumbing,"Sterling, VA",22720 Ladbrook Dr.,,Sterling,VA,20166,False,2024-07-25,500.0,500.0,11222313,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1158461,,,H. N. Funkhouser & Co.,,,,Petroleum Products,"Winchester, VA",2150 S. Loundoun St.,,Winchester,VA,22601,False,2024-07-25,500.0,500.0,11222314,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1158462,,,Stoneridge Companies,,,,Real Estate,"Winchester, VA",925 Meadow Ct.,,Winchester,VA,22601,False,2024-07-25,1000.0,1000.0,11222315,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1158464,,,Dominion Custom Homes,,,,Custom Home Builder,"Charlottesville, VA",PO Box 6367,,Charlotteswville,VA,22906,False,2024-07-25,500.0,500.0,11222316,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1158465,,,Charlottesville Remodeling Company,,,,Residential Remodeling,"Charlottesville, VA",PO Box 6367,,Charlottesville,VA,22906,False,2024-07-25,250.0,250.0,11222317,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1158466,,,"Rockingham Townhomes, LLC",,,,Builder,"Harrisonburg, VA",245 Newman Ave.,,Harrisonburg,VA,22801,False,2024-07-25,500.0,500.0,11222318,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1158497,,,Kingston Royce Homes LLC,,,,Residential Builder,"Leesburg, VA",21018 Mill Branch Drive,,Leesburg,VA,20175,False,2024-07-26,200.0,200.0,11222319,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1158909,,,"Foreman Builders, Inc.",,,,Residential Builder,"Winchester, VA","3202 Valley Pike, Suite 1",,Winchester,VA,22602-2449,False,2024-07-31,500.0,500.0,11222320,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1160620,Shawn,,Tennity,,,Builders FirstSource,Building Materials,"Richmond, VA",4111 Eubank Rd,,Richmond,VA,23231,True,2024-08-13,200.0,200.0,11222321,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1168054,,,Better Living,,,,Building Supply,"Charlottesville, VA",P.O. Box 7627,,Charlottesville,VA,22906,False,2024-08-14,5000.0,5000.0,11222322,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1168059,,,"R.L. Beyer Construction, Inc.",,,,Custom Home Builder,"Charlottesville, VA",660 Hunters Pl.,Suite 101,Charlottesville,VA,22911,False,2024-08-14,1000.0,1000.0,11222323,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1168061,,,The Etheridge Manor Corp.,,,,Residential Builder,"Suffolk, VA",5859 Harbour View Blvd.,Suite 300,Suffolk,VA,23435,False,2024-08-14,2500.0,2500.0,11222324,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1168070,,,Brookstone Development & Building Corp.,,,,Residential Builder,"Stafford, VA",35 Walpole St.,Suite 205,Stafford,VA,22554,False,2024-08-14,250.0,250.0,11222325,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,1168090,,,Great Eastern Management Company,,,,Real Estate Developer,"Charlottesville, VA",P.O. Box 5526,,Charlottesville,VA,22905,False,2024-07-22,1000.0,1000.0,11222326,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,9490,Mark,,Granville-Smith,,,"Classic Concept Builders, Inc.",Home Builder,"Manassas, VA",9743 Brentsville Rd.,,Manassas,VA,20112,True,2024-06-21,250.0,250.0,11222483,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,9490,Mark,,Granville-Smith,,,"Classic Concept Builders, Inc.",Home Builder,"Manassas, VA",9743 Brentsville Rd.,,Manassas,VA,20112,True,2024-07-29,500.0,750.0,11222484,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,109992,,,Premier Insurance Agency,,,,Insurance,"Midlothian, VA",13321-I Midlothian Tnpk.,,Midlothian,VA,23113,False,2024-07-12,250.0,250.0,11222485,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,159424,Craig,,Havenner,,,The Christopher Companies,Home Builder,"Oakton, VA",10461 White Granite Dr. #,Suite 103,Oakton,VA,22124,True,2024-08-07,1000.0,1000.0,11222486,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,361466,,,The Terry Peterson Companies,,,,Home Builder,Virginia Beach,4705 Columbus Street,Suite 150,Virginia Beach,VA,23462-7762,False,2024-07-03,500.0,500.0,11222487,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,361813,,,"VB Homes Design Build, LLC",,,,Home Builder,"Virginia Beach, VA",1209 Laskins Rd,,Virginia Beach,VA,23451,False,2024-07-10,500.0,500.0,11222488,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,361839,Scott,,Williams,,,"Crescent Development Group, LLC",Developer,"Charlottesville, VA",485 Gillums Ridge Road,,Charlottesville,VA,22903,True,2024-06-07,60.0,360.0,11222489,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,361839,Scott,,Williams,,,"Crescent Development Group, LLC",Developer,"Charlottesville, VA",485 Gillums Ridge Road,,Charlottesville,VA,22903,True,2024-07-07,60.0,420.0,11222490,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,361839,Scott,,Williams,,,"Crescent Development Group, LLC",Developer,"Charlottesville, VA",485 Gillums Ridge Road,,Charlottesville,VA,22903,True,2024-08-07,60.0,480.0,11222491,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,361856,Summer,,Gruber,,,Peak Builders,Contractor,Charlottesville,2180 Owensville Rd.,,Charlottesville,VA,22901,True,2024-07-11,500.0,500.0,11222492,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,395569,Andrew,,Painter,,,"Walsh, Colucci, Lubeley & Walsh, P.C.",Attorney,"Leesburg, VA",2823 Marshall Street,,Falls Church,VA,22042,True,2024-06-24,250.0,250.0,11222493,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,467734,,,Perry Engineering,,,,Engineering,"Winchester, Va",1945 Millwood Pike,,Winchester,VA,22602,False,2024-07-09,5000.0,5000.0,11222494,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,493832,Tracey,,Jameson,,,TowneBank & Mortgage,Senior Vice President,"Richmond, VA",4355 Innslake Dr.,Suite 325,Glen Allen,VA,23060,True,2024-07-30,250.0,250.0,11222495,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,493835,,,Home Builders Association of Virginia,,,,Non-Profit,Richmond,1051 E. Cary Street,1400,Richmond,VA,23219,False,2024-06-17,2000.0,29000.0,11222496,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,493835,,,Home Builders Association of Virginia,,,,Non-Profit,Richmond,1051 E. Cary Street,1400,Richmond,VA,23219,False,2024-07-10,3000.0,32000.0,11222497,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,493835,,,Home Builders Association of Virginia,,,,Non-Profit,Richmond,1051 E. Cary Street,1400,Richmond,VA,23219,False,2024-07-15,2000.0,34000.0,11222498,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,493835,,,Home Builders Association of Virginia,,,,Non-Profit,Richmond,1051 E. Cary Street,1400,Richmond,VA,23219,False,2024-08-13,8000.0,42000.0,11222499,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,493835,,,Home Builders Association of Virginia,,,,Non-Profit,Richmond,1051 E. Cary Street,1400,Richmond,VA,23219,False,2024-08-15,2000.0,44000.0,11222500,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,494028,,,"R-CI Builders, Inc.",,,,Home Builder,"Richmond, VA",9245 Shady Grove Rd.,,Mechanicsville,VA,23116,False,2024-06-28,2500.0,2500.0,11222501,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,531961,Christopher,,Brement,,,Bramante Homes Inc,Home Builder,"Waynesboro, VA",1835 Rosser Ave,Suite 2,Waynesboro,VA,22980,True,2024-06-21,45.0,270.0,11222502,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,531961,Christopher,,Brement,,,Bramante Homes Inc,Home Builder,"Waynesboro, VA",1835 Rosser Ave,Suite 2,Waynesboro,VA,22980,True,2024-07-21,45.0,315.0,11222503,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,531961,Christopher,,Brement,,,Bramante Homes Inc,Home Builder,"Waynesboro, VA",1835 Rosser Ave,Suite 2,Waynesboro,VA,22980,True,2024-08-21,45.0,360.0,11222504,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,649275,,,Kee Construction,,,,Residential Construction,"Winchester, VA",420 W. Jubal Early Dr.,100,Winchester,VA,22601,False,2024-07-19,500.0,500.0,11222505,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,699569,,,"Ashdon Builders,Inc.",,,,Residential Builder,"Chesapeake, VA",321 Great Bridge Blvd,,Chesapeake,VA,23320,False,2024-07-03,2500.0,2500.0,11222506,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,721060,,,Foundation Homes,,,,Residential Construction,"Fredericksburg, VA",1003 Bragg Rd.,,Fredericksburg,VA,22407,False,2024-07-16,2500.0,2500.0,11222507,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,745410,,,Land Planning Solutions,,,,Land development,"Chesapeake, VA",1403 Greenbrier Pkwy,,Chesapeake,VA,23320,False,2024-07-10,500.0,500.0,11222508,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,858136,,,CD West & Company,,,,Remodeler/builder,"Newport News, VA",753 Thimble Shoals Blvd.,Suite C,Newport News,VA,23606,False,2024-06-28,1000.0,1000.0,11222509,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,897325,Mike,,Sandkuhler,,,Van Metre Homes,Residential Construction,"Fairfax, VA",9900 Main St.,Suite 500,Fairfax,VA,22031,True,2024-07-11,500.0,500.0,11222510,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,912508,Scott,,Hine,,,Union Home Mortgage,Mortgage Lender,"Fredericksburg, VA",3006 Lafayette Blvd.,,Fredericksburg,VA,22408-4121,True,2024-06-01,150.0,300.0,11222511,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,956018,Carmela,,Patrick,,,"Weber Rector Commercial Real Estate Services, Inc.",Real Estate,"Manassas, VA",9401 Battle Street,,Manassas,VA,20110,True,2024-07-12,250.0,250.0,11222512,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,980523,Louis,,Genuario,,,Genuario Properties,Home Builder,"Alexandria, VA",8400 Radford Ave,,Alexandria,VA,22309,True,2024-07-12,500.0,1500.0,11222513,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,980532,Nathan,,Trice,,,"Pride Electric, L.C.",President,"Verona, VA",859 Lee Hwy,,Verona,VA,24482,True,2024-06-21,100.0,600.0,11222514,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,980532,Nathan,,Trice,,,"Pride Electric, L.C.",President,"Verona, VA",859 Lee Hwy,,Verona,VA,24482,True,2024-07-21,100.0,700.0,11222515,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,980532,Nathan,,Trice,,,"Pride Electric, L.C.",President,"Verona, VA",859 Lee Hwy,,Verona,VA,24482,True,2024-08-21,100.0,800.0,11222516,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,980568,Daniel,,Jones,,,East West Communities,Developer,"Chesterfield, VA",14700 Village Square Place,,Chesterfield,VA,23112,True,2024-05-29,1500.0,1500.0,11222517,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1030120,,,Pinnacle Construction & Development,,,,Residential Construction,"Charlottesville, VA",1821 Avon St Ext.,Suite 200,Charlottesville,VA,22902,False,2024-06-27,250.0,250.0,11222518,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1030120,,,Pinnacle Construction & Development,,,,Residential Construction,"Charlottesville, VA",1821 Avon St Ext.,Suite 200,Charlottesville,VA,22902,False,2024-07-09,2000.0,2250.0,11222519,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1088707,,,CH Construction,,,,Builder,"Richmond, VA",6912 Three Chopt Rd.,,Richmond,VA,23226,False,2024-07-12,2500.0,2500.0,11222520,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1134462,Alison,,Kaufmann,,,Old Dominion Electric Cooperative,Electric Utility Company,"Richmond, VA",9207 Venetian Way,,Richmond,VA,23229,True,2024-07-25,100.0,200.0,11222521,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1148912,Brad,,Blank,,,TRI Pointe Homes,Builder,"McLean, VA",6905 Rockledge Dr.,STE 800,Bethesda,MD,20817-1873,True,2024-06-21,500.0,500.0,11222522,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1149045,,,jarrell Properties,,,,Law Firm,"Fredericksburg, VA",1300 Princess Anne St.,,Fredericksburg,VA,22401,False,2024-06-13,500.0,500.0,11222523,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1149046,,,Zicht Engineering,,,,Enginering Frim,Paeonian Springs,16924 Simpson Cirlce,,Paeonian Springs,VA,20129,False,2024-06-21,200.0,200.0,11222524,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1149047,Randy,,Minchew,,,"Walsh, Colucci, Lubeley & Walsh, PC",Law Firm,"Leesburg, VA",330 W. Market St.,,Leesburg,VA,20176,True,2024-06-21,1000.0,1000.0,11222525,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1149048,,,Suburban Kitchens,,,,Custom Kitchens and Bath,"Chantilly, VA",4390 Henninger Ct.,,Chantilly,VA,20151,False,2024-06-21,250.0,250.0,11222526,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1149049,Leo,,Lantz,,,"Leo Lantz Construction, Inc.",General Contractor,"Glen Allen, VA",11966 Old Washington Hwy.,,Glen Allen,VA,23059,True,2024-06-23,250.0,250.0,11222527,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1149050,David,,Reid,,,Senco,Sales & Service,"Williamsburg, VA",408 Queensbury Lane,,Williamsburg,VA,23185,True,2024-06-24,200.0,200.0,11222528,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1149051,,,Starfield Companies,,,,Real Estate Developer,Raleigh. NC,2611 Peachleaf St.,,Raleigh,NC,27614,False,2024-06-24,500.0,500.0,11222529,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1149067,,,Kirbor Homes,,,,Residnetial Constructin,"Virginia Beach, VA",1521 Taylor Farm Road,,Virginia Beach,VA,23453,False,2024-06-24,500.0,500.0,11222530,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1149087,,,"Heritage Site Development, Inc.",,,,Residential Construction,"Purcellville, VA",PO Box 2815,,Purcellville,VA,20134,False,2024-06-25,250.0,250.0,11222531,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1150136,,,"GLS Plumbing, Inc.",,,,Plumbing,"Winchester, VA",106 Cannon cirlce,,Winchester,VA,22602,False,2024-06-27,500.0,500.0,11222532,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1150568,Robert,,Mullins,,,"Quality Homes, Inc.",Contractor,"Suffolk, VA",4953 Exeter Dr.,,Suffolk,VA,23434,True,2024-07-02,2500.0,2500.0,11222533,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1150574,,,ALPHATEC Surveyors,,,,Land Surveyor,"Chesapeake, VA",530 Woodlake Circle,,Chesapeake,VA,23320,False,2024-07-03,2500.0,2500.0,11222534,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1150578,John,,Hill,,,ALPHATEC Surveyors,Land Surveyor,"Chesapeake, VA",112 Sinclair Lane,,Chesapeake,VA,23322,True,2024-07-03,500.0,500.0,11222535,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1153266,Kyle,,Redinger,,,LandStriker,Real Estate Developer,"Charlottesville, VA",340 Broad Axe Road,,Charlottesville,VA,22903,True,2024-07-09,250.0,250.0,11222536,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1153267,,,Shimp Engineering,,,,"Design, Planning & Enginering","Afton, VA",148 tanbark Dr.,,Afton,VA,22920,False,2024-07-09,1000.0,1000.0,11222537,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1153426,,,"C A Barrs Contractor, Inc.",,,,Contractor,"Yorkytown, VA",7601 George Washington Memorial Hwy.,,Yorktown,VA,23692,False,2024-07-10,500.0,500.0,11222538,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1154216,Gregory,,Slater,,,Nest Realty,Real Estate Broker,"Crozet, VA",8236 West End Dr.,,Crozet,VA,22932,True,2024-07-11,250.0,250.0,11222539,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1154217,Richard,,Spurzem,,,Neighborhood Properties Inc.,Real Estate Investor,"Charlottesville, VA",810 Catalpa Court,,Charlottesville,VA,22903,True,2024-07-11,500.0,500.0,11222540,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1158163,,,Madison Wood Presevers,,,,Treating Lumber,"Madison, VA",216 Oak Park Road,,Madison,VA,22727,False,2024-07-19,500.0,500.0,11222541,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1158164,,,The Caton Companies LLC,,,,Consulting,"Charlottesville, VA",The Caton Companies LLC,,Charlottesville,VA,22905,False,2024-07-20,2500.0,2500.0,11222542,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1158165,Juan,Carlos Moreno,Satander,,,Juan Carlos Moreno Satander,Procurement,"Chantilly, VA",42813 Sykes Terrace,,Chantilly,VA,20152,True,2024-07-23,500.0,500.0,11222543,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1158411,,,Charles Ross Homes,,,,Residential Construction,"Williamsburg, VA",3206 ironbound Rd.,,Williamsburg,VA,23188-2452,False,2024-07-24,500.0,500.0,11222544,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1158412,,,Masonry Design Inc.,,,,Masonry,"Manassas, VA",10335 Ba;;s Ford Rd.,,Manassas,VA,20109,False,2024-07-24,250.0,250.0,11222545,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1158413,,,March Mountain Properties,,,,Real Estste Developer,"Crozet, VA",1005 Heathcroft Cir. #100,,Crozet,VA,22932,False,2024-07-24,2500.0,2500.0,11222546,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1158460,,,Capital Mechanical LLC,,,,Plumbing,"Sterling, VA",22720 Ladbrook Dr.,,Sterling,VA,20166,False,2024-07-25,500.0,500.0,11222547,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1158461,,,H. N. Funkhouser & Co.,,,,Petroleum Products,"Winchester, VA",2150 S. Loundoun St.,,Winchester,VA,22601,False,2024-07-25,500.0,500.0,11222548,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1158462,,,Stoneridge Companies,,,,Real Estate,"Winchester, VA",925 Meadow Ct.,,Winchester,VA,22601,False,2024-07-25,1000.0,1000.0,11222549,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1158464,,,Dominion Custom Homes,,,,Custom Home Builder,"Charlottesville, VA",PO Box 6367,,Charlotteswville,VA,22906,False,2024-07-25,500.0,500.0,11222550,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1158465,,,Charlottesville Remodeling Company,,,,Residential Remodeling,"Charlottesville, VA",PO Box 6367,,Charlottesville,VA,22906,False,2024-07-25,250.0,250.0,11222551,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1158466,,,"Rockingham Townhomes, LLC",,,,Builder,"Harrisonburg, VA",245 Newman Ave.,,Harrisonburg,VA,22801,False,2024-07-25,500.0,500.0,11222552,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1158497,,,Kingston Royce Homes LLC,,,,Residential Builder,"Leesburg, VA",21018 Mill Branch Drive,,Leesburg,VA,20175,False,2024-07-26,200.0,200.0,11222553,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1158909,,,"Foreman Builders, Inc.",,,,Residential Builder,"Winchester, VA","3202 Valley Pike, Suite 1",,Winchester,VA,22602-2449,False,2024-07-31,500.0,500.0,11222554,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1160620,Shawn,,Tennity,,,Builders FirstSource,Building Materials,"Richmond, VA",4111 Eubank Rd,,Richmond,VA,23231,True,2024-08-13,200.0,200.0,11222555,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1168054,,,Better Living,,,,Building Supply,"Charlottesville, VA",P.O. Box 7627,,Charlottesville,VA,22906,False,2024-08-14,5000.0,5000.0,11222556,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1168059,,,"R.L. Beyer Construction, Inc.",,,,Custom Home Builder,"Charlottesville, VA",660 Hunters Pl.,Suite 101,Charlottesville,VA,22911,False,2024-08-14,1000.0,1000.0,11222557,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1168061,,,The Etheridge Manor Corp.,,,,Residential Builder,"Suffolk, VA",5859 Harbour View Blvd.,Suite 300,Suffolk,VA,23435,False,2024-08-14,2500.0,2500.0,11222558,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1168070,,,Brookstone Development & Building Corp.,,,,Residential Builder,"Stafford, VA",35 Walpole St.,Suite 205,Stafford,VA,22554,False,2024-08-14,250.0,250.0,11222559,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432544,1168090,,,Great Eastern Management Company,,,,Real Estate Developer,"Charlottesville, VA",P.O. Box 5526,,Charlottesville,VA,22905,False,2024-07-22,1000.0,1000.0,11222560,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432548,987489,Harry,,Jackson,,,HRJ & Associates,President/CEO,"Herndon, VA",12823 Piney Point Place,,Herndon,VA,20171,True,2024-03-07,500.0,500.0,11222611,,{602AC414-DFCD-6D21-E25C-57DA5756A11F}
+432548,987489,Harry,,Jackson,,,HRJ & Associates,President/CEO,"Herndon, VA",12823 Piney Point Place,,Herndon,VA,20171,True,2024-03-07,1500.0,2000.0,11222612,,{602AC414-DFCD-6D21-E25C-57DA5756A11F}
+432548,987489,Harry,,Jackson,,,HRJ & Associates,President/CEO,"Herndon, VA",12823 Piney Point Place,,Herndon,VA,20171,True,2024-03-07,2500.0,4500.0,11222613,,{602AC414-DFCD-6D21-E25C-57DA5756A11F}
+432548,987489,Harry,,Jackson,,,HRJ & Associates,President/CEO,"Herndon, VA",12823 Piney Point Place,,Herndon,VA,20171,True,2024-03-07,17000.0,21500.0,11222614,,{602AC414-DFCD-6D21-E25C-57DA5756A11F}
+432548,987489,Harry,,Jackson,,,HRJ & Associates,President/CEO,"Herndon, VA",12823 Piney Point Place,,Herndon,VA,20171,True,2024-03-07,5000.0,26500.0,11222615,,{602AC414-DFCD-6D21-E25C-57DA5756A11F}
+432548,987489,Harry,,Jackson,,,HRJ & Associates,President/CEO,"Herndon, VA",12823 Piney Point Place,,Herndon,VA,20171,True,2024-03-07,5000.0,31500.0,11222616,,{602AC414-DFCD-6D21-E25C-57DA5756A11F}
+432548,987489,Harry,,Jackson,,,HRJ & Associates,President/CEO,"Herndon, VA",12823 Piney Point Place,,Herndon,VA,20171,True,2024-03-07,10000.0,41500.0,11222617,,{602AC414-DFCD-6D21-E25C-57DA5756A11F}
+432548,987489,Harry,,Jackson,,,HRJ & Associates,President/CEO,"Herndon, VA",12823 Piney Point Place,,Herndon,VA,20171,True,2024-03-07,5000.0,46500.0,11222618,,{602AC414-DFCD-6D21-E25C-57DA5756A11F}
+432548,987489,Harry,,Jackson,,,HRJ & Associates,President/CEO,"Herndon, VA",12823 Piney Point Place,,Herndon,VA,20171,True,2024-03-07,5000.0,51500.0,11222619,,{602AC414-DFCD-6D21-E25C-57DA5756A11F}
+432557,226273,Linda,D,Williams,,,,,,7346 Kensington Lane,,Warrenton,VA,20187,True,2016-01-11,212.99,212.99,11222624,,{AD0BFB97-C8AC-2A56-9F8B-3D07859F5ED7}
+432557,287564,Linda,D,Williams,,,,,,7346 Kensington Lane,,Warrenton,VA,20187,True,2016-01-11,350.0,350.0,11222625,,{AD0BFB97-C8AC-2A56-9F8B-3D07859F5ED7}
+432560,,MARSHA,,LAUFER,,,NOT EMPLOYED,NOT EMPLOYED,"MANALAPAN,FL",1750 SOUTH OCEAN BLVD,,MANALAPAN,FL,33462,True,2025-02-06,25000.0,25000.0,11222626,,{B4192737-66EE-A2D7-85F4-886371436484}
+432565,1198798,Dashad,L,Cooper,,,City of Charlottesville,Social Service,"Charlottesville, Virginia",120 7th St NE,,Charlottesville,VA,22902,True,2025-02-07,1386.58,0.0,11222692,,{0CE6CE3F-81D1-0B22-3CB9-CA59E0EA076F}
+432567,1198803,Christine,,Andreae,,,Self Employed,Book Author,Bentonville VA,367 Overall Road,,Bentonville,VA,22610,True,2025-02-06,5000.0,0.0,11222694,,{11DB2ECF-2C70-384E-7AEA-002638A49413}
+432569,1189480,Joshua,,Goff,,,,Lawyer,"Newport News, VA",34 Cedar Lane,,Newport News,VA,23601,True,2025-02-08,1000.0,0.0,11222696,,{7CE06E7E-B4EC-C4A4-207F-27B83C229210}
+432592,1198856,William,,Preston,,,,Not Employed,"Litchfield, NH",2 Heron Dr.,,Litchfield,NH,03052,True,2025-01-25,500.0,0.0,11222773,,{43406256-AE54-6188-0AB0-92AD3035145B}
+432593,1198858,Alexander,,Bastani,,,,,"Falls Church, VA",2852 Fairmont St,,Falls Church,VA,22042,True,2025-01-28,40000.0,0.0,11222774,,{20590894-29ED-601B-D214-913697D36BE7}
+432595,1198859,Thomas,E.,Maloney,,,United States Bureau of Labor Statistics,Economist,"Washington, DC",704 19th Street NE,,Washington,DC,20002-4714,True,2025-01-18,1000.0,0.0,11222775,,{6406E60F-C588-3132-BD9D-E83E40CE932E}
+432598,253781,,,"Aetna, Inc.",,,,Health Insurance,,151 Farmington Ave.,,Hartford,CT,06156-9132,False,2025-02-10,15000.0,0.0,11222776,,{A758025D-BA2F-D85E-007E-8D1C468F1AE7}
+432600,916254,Varun,,Nikore,,,Red Fort Strategies,Consultant,"Washington, DC",1100 N Quantico St,,Arlington,VA,22205,True,2024-09-09,250.0,250.0,11222783,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,916255,Gene,,Rossi,,,Carlton Fields,Lawyer,"Washington, DC",16 Rosemont Avenue,,Alexandria,VA,22301,True,2024-10-15,300.0,300.0,11222784,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,916508,Daniel,,Hulkower,,,"After, Inc",Sales,"Norwalk, CT","1325 5th Avenue, Apt 6L",,New York,NY,10029,True,2024-10-16,250.0,250.0,11222785,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,916572,,,Albers and Company,,,,Consulting,"Arlington, VA",1655 Fort Myer Dr # 700,,"Arlington, VA",VA,22209,False,2024-10-15,1000.0,1000.0,11222786,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,916582,,,Clean Virginia Fund,,,,Advocacy Organization,"Charlottesville, VA",213 7th St NE,,Charlottesville,VA,22902,False,2024-10-18,50000.0,64766.47,11222787,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,959745,Senthil,,Kumar,,,Software AG,Principal Architect,"Chantilly, VA",25769 Spectacular Run Place,,Chantilly,VA,20152,True,2024-10-19,150.0,150.0,11222788,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,959776,Sonjia,S,Smith,,,,,"Charlottesville, VA",815 Broomley Road,,Charlottesville,VA,22901,True,2024-10-08,25000.0,25000.0,11222789,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1020367,Jacob,,Ayubi,,,Self,Self,"Reston, VA",12821 Tournament Drive,,Reston,VA,20191,True,2024-09-08,500.0,500.0,11222790,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1069000,,,Virginia Automobile & Truck Dealers PAC,,,,PAC,"Richmond, VA",1800 West Grace St,,Richmond,VA,23220,False,2024-09-06,500.0,500.0,11222791,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1069000,,,Virginia Automobile & Truck Dealers PAC,,,,PAC,"Richmond, VA",1800 West Grace St,,Richmond,VA,23220,False,2024-10-08,1000.0,1500.0,11222792,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1093951,,,HCA for Good Government,,,,Political Action Committee,"Richmond, VA",901 E Cary St,2100,Richmond,VA,23219,False,2024-10-08,500.0,1000.0,11222793,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1093962,,,Virginia Beer Wholesalers Association,,,,Political Action Committee,"Richmond, VA",17 East Cary Street,,Richmond,VA,23219,False,2024-10-08,1000.0,1000.0,11222794,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1094198,,,Reed Smith LLC,,,,Law Firm,"Richmond, VA",901 E Byrd Street,1900,Richmond,VA,23219,False,2024-08-16,250.0,250.0,11222795,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1094249,,,Huntington Ingalls Industries,,,,Shipbuilding,"Newport News, VA",4101 Washington Ave,,Newport News,VA,23607,False,2024-08-09,500.0,500.0,11222796,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183707,,,Virginia Society of Anesthesiologists PAC,,,,PAC,"Richmond, VA",118 N 8th St,,Richmond,VA,23219,False,2024-10-15,2500.0,2500.0,11222821,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183708,,,Anheuser Busch,,,,Beverages,"Washington, DC",1201 Pennsylvania Avenue NW,,Washington,DC,20004,False,2024-10-22,250.0,250.0,11222822,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183709,,,NOVEC,,,,Electric Cooperative,"Manassas, VA",PO Box 2710,,Manassas,VA,20108,False,2024-10-22,1000.0,1000.0,11222823,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183713,,,Care Advantage,,,,Nursing,"North Chesterfield, VA",10041 Midlothian Tpke,,North Chesterfield,VA,23235,False,2024-10-30,1000.0,1000.0,11222824,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183730,Anne,Leigh,Kerr,,,Kerr Government Strategies,Lobbyist,"Richmond, VA",1917 Hanover Avenue,,Richmond,VA,23220,True,2024-09-05,250.0,250.0,11222825,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183734,Sean,,Page,,,Deloitte LLP,Consulting,"Arlington, VA",42012 Ural Drive,,Aldie,VA,20105,True,2024-10-10,1000.0,1000.0,11222826,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183735,Jay,,Ramamurthi,,,"EnerSol Technologies, Inc.",Executive,"Springfield,  VA",1132 Stuart Hills Way,,Herndon,VA,20170,True,2024-10-23,2000.0,2000.0,11222827,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432613,,,,"A&w Contractors, Inc.",,,A&W Contractors,contractor,"Chesapeake, VA",530 Woodlake Drive,,Chesapeake,VA,23320,False,2024-09-26,1500.0,3000.0,11222868,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,"Access Point Public Affairs,LLC",,,Access Point Public Affairs,Lobbying,"Virginia Beach, VA",PO Box 673,,Virginia Beach,VA,23451,False,2024-10-14,500.0,500.0,11222869,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,"Amazon.com Services, Inc.",,,"Amazon.com Services, Inc.","Amazon.com Services, Inc.","Seattle, WA",P.O. Box 80683,,Seattle,WA,98108,False,2024-09-16,1500.0,4500.0,11222870,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Anheuser Busch,,,Anheuser Busch,Brewing Company,"Atlanta, GA",P.O. Box 723534,,Atlanta,GA,31139,False,2024-07-02,500.0,3500.0,11222871,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Arbor Strategies,,,Arbor Strategies,Lobbying,"Cleveland, OH",9900 Clinton Rd,,Cleveland,OH,44144,False,2024-07-08,500.0,1500.0,11222872,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Ashdon Builders Inc.,,,Ashdon Builders,construction,"Chesapeake, VA",321 Great Bridge Blvd.,,Chesapeake,VA,23320,False,2024-09-23,250.0,250.0,11222873,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,"Associated Distributors, LLC",,,"Associated Distributors, LLC",Distributing Company,"Sandston, VA",5800 Technology Blvd.,,Sandston,VA,23150,False,2024-12-09,1000.0,3000.0,11222874,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Betting On Jobs,,,Betting On Jobs PAC,PAC,"Richmond, VA",PO Box 71683,,Richmond,VA,23255,False,2024-11-14,5000.0,10000.0,11222875,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Boyd-Pamunky Casino PAC,,,Boyd-Pamunky Casino,PAC,"Norfolk, VA",112 Granby St,Suite 300,Norfolk,VA,23510,False,2024-12-30,3000.0,3000.0,11222876,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Caesars Enterprise Services LLC,,,Caesars Palace,Casino,"Las Vegas, NV",One Harris Ct,,Las Vegas,NV,89119,False,2024-10-17,2500.0,6500.0,11222877,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Christie New Craig For Senate,,,Candidate Committee,Political,",",200 Battlefield Blvd N,Suite 10A,Chesapeake,VA,23320,False,2024-09-23,650.0,650.0,11222878,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Comcast,,,Comcast Corporation,PAC,"Henrico, VA",5401 Staples Mill Road,,Henrico,VA,23228,False,2024-10-07,1000.0,2500.0,11222879,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Commonwealth Sportsmen's Alliance,,,Commonwealth Sportsmen's Alliance,chief executive officer,"Powhatan, VA",P.O. Box 657,,Powhatan,VA,23139,False,2024-12-28,500.0,1250.0,11222880,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Cozen O' Connor,,,Cozen O' Connor,Consulting Services,"Philadelphia, PA",1650 Market St,,Philadelphia,PA,19103,False,2024-12-27,500.0,2000.0,11222881,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Dominion Energy Pac,,,Dominion Political Action Committee,political action,",","600 E. Canal Street, 8th Floor",,Richmond,VA,23219,False,2024-12-10,25000.0,120000.0,11222882,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,"Door Dash, Inc.",,,Door Dash,Food Delivery Service,"San Francisco, CA",303 2nd St,Suite 800,San Francisco,CA,94017,False,2024-09-09,500.0,1500.0,11222883,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,"Elbow Road Farm, Inc.",,,Elbow Farm Inc.,Agricultural,"Chesapeake, VA",1404 Thrasher Landing,,Chesapeake,VA,23320,False,2024-09-23,1500.0,3000.0,11222884,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Engineering Companies of Virginia Pac,,,Engineering Co,PAC,"Richmond, VA",8600 Mayland Drive,,Richmond,VA,23294,False,2024-09-30,1000.0,3500.0,11222885,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Entertainment Software Association,,,Entertainment Software Association,Video game publishers,"Washington, DC",601 Massachusetts Avenue NW,#300,Washington,DC,20001,False,2024-09-23,500.0,3000.0,11222886,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Foster Farms Of Virginia LLC,,,Foster Farms,Poultry Industry,"Chesapeake, VA",2108 Indian Creek Rd,,Chesapeake,VA,23322,False,2024-09-30,500.0,1000.0,11222887,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Friends Promoting A Healthy Chesapeake PAC,,,Chesapeake Regional,PAC,"Chesapeake, VA",PO Box 16251,,Chesapeake,VA,23328,False,2024-10-14,250.0,1750.0,11222888,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Genworth Financial,,,Genworth Financial,Insurance Co,"Washington, DC","700 12th Street, NW",Set. 710,Washington,DC,20005,False,2024-12-31,500.0,5000.0,11222889,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Greenwich Kitchen Center,,,Greenwich Kitchen Center,construction/renovation contractor,"Virginia Beach, VA",5784 Arrowhead Drive,,Virginia Beach,VA,23462,False,2024-09-23,500.0,1250.0,11222890,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Hoffman Beverage,,,Hoffman Beverage,Beverage wholesaler,"Chesapeake, VA",4105 S. Military Highway,,Chesapeake,VA,23321,False,2024-10-22,2000.0,6000.0,11222891,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Huntington Ingalls Industries,,,Huntington Ingalls Industries,"Manager, Government Relations","Newport News, VA",4101 Washington Avenue,,Newport News,VA,23607,False,2024-09-12,500.0,2500.0,11222892,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Hunton Andrews Kurth LLP,,,Hunton Andrews Kurth,Lobbyist,"Richmond, VA",951 East Byrd Street,,Richmond,VA,23219,False,2024-12-30,1000.0,10400.63,11222893,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Johnson Brothers Service Distributing,,,Johnson Brothers Distributing,Distribution Co,"Lorton, VA",8397 Paris St,,Lorton,VA,22079,False,2024-12-31,500.0,4000.0,11222894,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Metro Virginia PAC,,,Metro Virginia PAC,Political Action Committee,"Washington, DC",1050 17th St NW,STE 300,Washington,DC,20036,False,2024-12-18,500.0,2250.0,11222895,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Molson Coors,,,Molson Coors,Beverage Co,",",PO Box 482,,Milwaukee,WI,53201,False,2024-12-09,250.0,1250.0,11222896,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Norfolk Southern Corporation,,,Norfolk Southern Corporation,railroad,"Norfolk, VA",Three Commercial Place,,Norfolk,VA,23510,False,2024-12-16,1000.0,4000.0,11222897,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Outdoor Supply Inc,,,Outdoor Supply Inc,Outdoor Supply Co.,"Chesapeake, VA",3865 Battlefield Blvd S,,Chesapeake,VA,23322,False,2024-10-07,500.0,1500.0,11222898,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Pleasant Ridge Auto Parts Inc,,,Pleasant Ridge Road Auto Parts,Auto Parts Store,"Virginia Beach, VA",1608 Princess Anne Rd,,Virginia Beach,VA,23456,False,2024-10-07,250.0,700.0,11222899,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,"Premium Distributors Of VA, LLC",,,"Premium Distributors Of VA, LLC",Beverage Distribution Co,"Chantilly, VA",15001 Northridge Dr,,Chantilly,VA,20151,False,2024-11-19,1000.0,6000.0,11222900,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Realtors PAC Of Virginia,,,Realtors Pac,real estate,"Glen Allen, VA",10231 Telegraph Road,,Glen Allen,VA,23059,False,2024-09-18,2000.0,7797.78,11222901,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Reed Smith LLP  PAC,,,Reed Smith LLLP  PAC,Consulting Services,"Richmond, VA",901 E Byrd Street,Ste 1700,Richmond,VA,23219,False,2024-12-09,1000.0,4000.0,11222902,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Roppcorp LLC,,,Roppcorp LLC,Contracting,"Chesapeake, VA",115 Harbor Watch Dr,,Chesapeake,VA,23320,False,2024-09-23,250.0,750.0,11222903,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Sports Betting Alliance,,,Sports Betting Alliance,Gaming,"Lubbock, TX",5109 82nd St,,Lubbock,TX,79424,False,2024-12-09,1000.0,13500.0,11222904,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,The Jones Firm,,,The Jones Firm,law firm,"Chesapeake, VA",308 Cedar Lakes Drive,Suite 105,Chesapeake,VA,23322,False,2024-10-03,500.0,1500.0,11222905,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,The Medical Society of Virginia PAC,,,Medical Society of Virginia,PAC,"Richmond, VA",2924 Emerywood Pkwy.,Ste. 300,Richmond,VA,23294,False,2024-08-20,1000.0,1000.0,11222906,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,The Medical Society of Virginia PAC,,,Medical Society of Virginia,PAC,"Richmond, VA",2924 Emerywood Pkwy.,Ste. 300,Richmond,VA,23294,False,2024-11-14,1000.0,2000.0,11222907,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,"Tidewater Global, LLC",,,Tidewater Global,Shipping Co,"Chesapeake, VA",1043 Greenbrier Pkwy,,Chesapeake,VA,23320,False,2024-10-21,750.0,2000.0,11222908,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,"Transcanada USA Services, Inc. PAC",,,Transcanada,PAC,"Washington, DC",1250 NW St,Suite 225,Washington,DC,2005,False,2024-10-17,500.0,1500.0,11222909,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Va Bankpac,,Last Name Left Blank,,,VA Bankpac,pac,"Glen Allen, VA",4490 Cox Road,,Glen Allen,VA,23060,True,2024-12-31,1000.0,1000.0,11222910,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Va Hospital & Healthcare Association,,,VHHA,PAC,"Richmond, VA",P.O. Box 31394,,Richmond,VA,23294,False,2024-12-30,500.0,500.0,11222911,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Va Retail Federation PAC,,,Va Retail Federation,PAC,"Richmond, VA",5101 Monument Avenue,,Richmond,VA,23230,False,2024-07-02,500.0,1000.0,11222912,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Verizon,,,Verizon,Communications Co,"Washington, DC",1300 I St NW,Suite 500,Washington,DC,2005,False,2024-08-20,1000.0,1500.0,11222913,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Virginia Apartment Management Association Pac,,Last Name Left Blank,,,Va Apatment Management,PAC,"Richmond, VA",2812 Emerywood Parkway,,Richmond,VA,23294,True,2024-09-26,1000.0,1000.0,11222914,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Virginia Assisted Living PAC,,,Virginia Assisted Living PAC,PAC,"Henrico, VA",PO Box 71266,,Henrico,VA,23255,False,2024-11-06,500.0,500.0,11222915,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Virginia Automobile & Truck Dealers Pac,,,Virginia Automobile & Truck Dealers Pac,Political Action Committee,"Richmond, VA",1800 W. Grace Street,,Richmond,VA,23220,False,2024-12-16,2500.0,5932.8,11222916,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,"Virginia Aviation Associates, L.L.C",,,"Virginia Aviation Associates, L.L.C",Aviation Industry,"Chesapeake, VA",5172 Military Hwy W,Suite A,Chesapeake,VA,23321,False,2024-10-17,500.0,1250.0,11222917,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Virginia Bankpac,,,VA BankPAC,PAC,"Glen Allen, VA",4490 Cox Road,,Glen Allen,VA,23060,False,2024-10-07,1500.0,2500.0,11222918,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Virginia Beer Wholesalers Association,,,Virginia Beer Wholesalers Association,Beer Industry,"Richmond, VA",17 East Cary Street,,Richmond,VA,23219,False,2024-10-22,1500.0,24537.99,11222919,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Virginia Beer Wholesalers Association,,,Virginia Beer Wholesalers Association,Beer Industry,"Richmond, VA",17 East Cary Street,,Richmond,VA,23219,False,2024-11-19,1500.0,26037.99,11222920,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Virginia Health Care Association,,,Virginia Health Care Association,PAC,"Richmond, VA",2112 West Laburnum Avenue,Ste. 206,Richmond,VA,23227,False,2024-12-30,1000.0,3500.0,11222921,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Virginia Martime Association PAC,,,VMA,Martime Issues,"Norfolk, VA",PO Box 3487,,Norfolk,VA,23514,False,2024-10-07,1500.0,3500.0,11222922,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Virginia Natural Gas,,,VNG,utilities,"Virginia Beach, VA",544 S. Independence Blvd.,,Virginia Beach,VA,23452,False,2024-10-21,1000.0,3000.0,11222923,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Virginia Society Of The AIA PAC,,,Virginia Society Of The AIA PAC,PAC,"Richmond, VA",2501 Monument Ave,,Richmond,VA,23220,False,2024-10-07,500.0,2500.0,11222924,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Virginia Spirits Association,,,VA Spirits Association,VA Spirits Assoc.,"North Chesterfield, VA",2867 Brixham Dr,,North Chesterfield,VA,23235,False,2024-12-09,500.0,2000.0,11222925,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,"Virginia State Police Association, Inc.",,,Virginia State Police Association,PAC,"Richmond, VA",6944 Forest Hill Ave,,Richmond,VA,23225,False,2024-12-09,250.0,500.0,11222926,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Virginia Trial Lawyers PAC,,,Virginia Trial Lawyers,Political Action Committee,"Richmond, VA",919 E. Main Street,,Richmond,VA,23219,False,2024-12-18,3000.0,21000.0,11222927,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Virginia Wine Wholesalers,,,Virginia Wine Wholesalers,Virginia Wine Wholesalers,"Richmond, VA",P.O. Box 170,,Richmond,VA,23218,False,2024-10-21,2500.0,20377.02,11222928,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,WALPAC For Responsible Government,,,WALPAC For Responsible Government,PAC,"Bentonville, AR",702 8th St SW,,Bentonville,AR,72716,False,2024-12-31,500.0,500.0,11222929,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,,,Williams Mullen Clark & Dobbins,,,Williams Mullen Clark & Dobbins,Consulting Services,"Richmond, VA",P.O. Box 1320,,Richmond,VA,23218,False,2024-12-30,500.0,4000.0,11222930,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Russell,,Bailey,,,TowneBank Insurance,insurance agent,",",902 Hawley Court,,Chesapeake,VA,23322,True,2024-09-30,1000.0,2000.0,11222931,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Patrick,,Corbin,,,Retired,Retired,",",439 Granada Dr,,Chesapeake,VA,23322,True,2024-09-12,500.0,1000.0,11222932,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Patrick,,Corbin,,,Retired,Retired,",",439 Granada Dr,,Chesapeake,VA,23322,True,2024-09-16,500.0,1500.0,11222933,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Christie,New,Craig,,,City of Chesapeake,School Board Member,",",2813 Meadow Wood Dr E,,Chesapeake,VA,23321,True,2024-10-01,250.0,250.0,11222934,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Lonnie,Edward,Craig,,,Retired,Retired,",",PO Box 16470,,Chesapeake,VA,23328,True,2024-09-19,400.0,600.0,11222935,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Steven,,Dominick,,,RETIRED,Retired,",",2956 Breezy Rd,,Virginia Beach,VA,23451,True,2024-10-03,250.0,750.0,11222936,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Hollis,Dedric,Ellis,,,"CAE, Inc.",Civil Engineer,",",917 Mains Creek Rd,,Chesapeake,VA,23320,True,2024-09-26,75.0,175.0,11222937,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Baxter,,Ennis,,,VA General Assembly,Retired,",",403 Las Gaviotas Blvd,,Chesapeake,VA,23322,True,2024-10-02,75.0,75.0,11222938,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Patricia,,Everton,,,Retired,Retired,",",1521 Blue Ridge Rd,,Chesapeake,VA,23322,True,2024-10-21,100.0,450.0,11222939,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Cindy,,Free,,,Atlantic Orthopaedic Specialists,PT,",",2348 Huckleberry Trail,,Virginia Beach,VA,23456,True,2024-10-03,150.0,150.0,11222940,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Rosalin,Ada,Gilbert,,,Retired,Retired,",",860 Hillwell Rd,,Chesapeake,VA,23322,True,2024-09-19,0.0,550.0,11222941,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Robert,,Glasgow,,,ReMax,Real Estate Broker,",",533 Ravensstone Drive,,Chesapeake,VA,23322,True,2024-09-09,150.0,400.0,11222942,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Damien,,Hansen,,,Chesapeake Commonwealth Atty,Attorney,",",615 Centerville Turnpike S,,Chesapeake,VA,23322,True,2024-09-30,250.0,750.0,11222943,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Patricia,,Hart,,,Retired,Retired,",",2929 Sir Walter Cres,,Chesapeake,VA,23321,True,2024-09-09,177.0,177.0,11222944,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Bruce,,Horner,,,Travel Leaders,Vice President,",",919 Shoal Creek Trail,,Chesapeake,VA,23320,True,2024-10-05,250.0,250.0,11222945,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Carol,,Horner,,,Travel Leaders,Travel Agent,",",919 Shoal Creek Trl,,Chesapeake,VA,23320,True,2024-09-26,500.0,500.0,11222946,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,James,,Jackson,,,Real Estate,Real Estate,"Chesapeake, VA",473 East Lake Circle,,Chesapeake,VA,23322,True,2024-09-30,150.0,450.0,11222947,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Michael,,Lamonea,,,CPS,Retired,",",3901 Castaway Ct,,Chesapeake,VA,23321,True,2024-10-14,250.0,250.0,11222948,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Eleaner,,Leftwich,,,retired,retired,",",269 Bridgeview Circle,,Chesapeake,VA,23322,True,2024-09-23,2000.0,4100.0,11222949,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Andrew,,Loposser,,,APL Consulting,Consultant,",",109 GRISTMILL CT,,Stephenson,VA,22656,True,2024-10-04,250.0,250.0,11222950,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Kenneth,,Marsh,,,Retired,Retired,",",512 Sunderland Ter,,Chesapeake,VA,23322,True,2024-09-23,150.0,550.0,11222951,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Richard,,Martin,,,Devito & Martin Optometry,Optometrist,",",1004 Harwich Drive,,Chesapeake,VA,23322,True,2024-10-02,250.0,250.0,11222952,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Dawn,107901,Matheson,,,Matheson Group,Executive,",",732 Eden Way N #E542,,Chesapeake,VA,23320,True,2024-09-18,500.0,1500.0,11222953,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,David,,Mick,,,City Of Chesapeake,Attorney,",",1433 Hunningdon Woods Blvd,,Chesapeake,VA,23320,True,2024-10-05,75.0,300.0,11222954,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Amanda,,Newins,,,Self,Attorney,",",1020 Sherando Ct,,Chesapeake,VA,23320,True,2024-10-05,250.0,500.0,11222955,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Paul,,Obermayer,,,Obermayer Inc.,government contractor,",",605 Dalton Court,,Chesapeake,VA,23322,True,2024-09-25,200.0,950.0,11222956,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Thomas,,Petry,,,Retired,Retired,",",1908 Shillelagh Road,,Chesapeake,VA,23323,True,2024-09-23,500.0,1000.0,11222957,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Donald,James,Plaster,,,Compass Technology Mgt.,IT,",",1305 White Marlin Ln,,Virginia Beach,VA,23464,True,2024-09-28,250.0,350.0,11222958,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Wayne,,Renfrow,,,Commonwealth alcohol & electronic monitoring inc,President,",","4574 Southern Pines Dr., Virgini",,Va Beach,VA,23462,True,2024-10-04,150.0,150.0,11222959,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,C. Edward,,Russell,,,Kaufman & Canoles,Commercial Lawyer,",",222 74th Street,,Virginia Beach,VA,23451,True,2024-09-23,2500.0,4000.0,11222960,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Barbara,,Sgueglia,,,Honey and Hooch,Business Owner,",",500 S Battlefield Blvd.,,Chesapeake,VA,23320,True,2024-10-01,250.0,250.0,11222961,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Kristen,,Shannon,,,"Shannon & Associates, P.C.",Partner,",",1604 Pierside Landing,,Chesapeake,VA,23321,True,2024-10-03,150.0,150.0,11222962,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Michael,Dennis,Sifen,,,"Michael Sifen, Inc.",Business Owner,",","500 Central Dr., Ste 106",,Virginia Beach,VA,23454,True,2024-09-10,1000.0,1000.0,11222963,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Paula,,Slagle,,,Instructor,Yoga Instructor,",",401 Bluewater Court,,Chesapeake,VA,23320,True,2024-09-16,200.0,350.0,11222964,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Paula,,Slagle,,,Instructor,Yoga Instructor,",",401 Bluewater Court,,Chesapeake,VA,23320,True,2024-09-26,200.0,550.0,11222965,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Daniel,,Stahler,,,Retired,Retired Law Enforcement,",",201 Marshwood,,Chesapeake,VA,23322,True,2024-10-05,100.0,100.0,11222966,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Monique,,Tallon,,,Southern Trust,Mortgage Rep,",",909 Walnut Cir,,Chesapeake,VA,23320,True,2024-10-07,150.0,150.0,11222967,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Lucy,L.g.,Varker,,,Retired,Attorney,",",225 Hall Drive,,Chesapeake,VA,23322,True,2024-09-19,100.0,300.0,11222968,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Robert,,Wadsworth,,,Pungo Realty,President,",",2049 Pungo Ridge Ct,,Virginia Beach,VA,23457,True,2024-10-04,250.0,1250.0,11222969,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Steven,89832,Warnecke,,,Self,Business Owner,",",1228 Plantation Lakes Circle,,Chesapeake,VA,23320-8108,True,2024-09-23,100.0,100.0,11222970,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Bonita,,Whitlow,,,retired,retired,",",325 Sign Pine Road,,Chesapeake,VA,23322,True,2024-09-23,100.0,500.0,11222971,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Kirk,,Woodruff,,,"Executive Vice President, Business Development",retired,",",301 Woodards Ford Rd,,Chesapeake,VA,23322,True,2024-09-26,1000.0,2010.0,11222972,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432613,,Shirley,,Wright,,,retired,retired,",",324 Bridgeview Circle,,Chesapeake,VA,23322,True,2024-09-23,250.0,800.0,11222973,,{4608B8F3-EDF7-4F2F-54AA-F9FA3E5541CC}
+432616,958051,Paul,,Higgs,,,,,,110 Springwood Drive,,Fredericksburg,VA,22401,True,2022-10-03,10507.43,10507.43,11222975,,{2D1863A7-063E-A052-26EE-D98F7C284C04}
+432617,1005556,,,Abby Construction Company,,,,Constuction,Fredericksburg Va,1319 Layfayette Blvd.,Suite 100,Fredericksburg,VA,22401,False,2023-02-17,300.0,300.0,11222976,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1005565,,,J.B Thurston Corp.,,,,Plumbing and Electrical,Fredericksburg Va,6 Short Circle.,,Fredericksburg,VA,22407,False,2023-01-12,300.0,300.0,11222977,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1005574,Scott,,Baird,,,Oasis Management,Sales,Ashland Va,12301 Dell Way,,Fredericksburg,VA,22407,True,2023-02-12,400.0,400.0,11222978,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1005574,Scott,,Baird,,,Oasis Management,Sales,Ashland Va,12301 Dell Way,,Fredericksburg,VA,22407,True,2023-05-26,40.0,440.0,11222979,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1005581,,,Wilson Realty LLC,,,,Sales,"Fredericksburg, VA",405 Amelia St,,Fredericksburg,VA,22401,False,2023-03-08,300.0,300.0,11222980,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1005583,,,Carter Automotive,,,,Automotive repair,"Colonial Beach,VA",903 Colonial Ave.,,Colonial Beach,VA,22443,False,2023-03-23,1000.0,1000.0,11222981,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1005586,,,All About Wood,,,,Construction,Colonial Beach VA,1404 Bancroft Ave.,,Colonial Beach,VA,22443,False,2023-03-22,700.0,700.0,11222982,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1005589,,,"Reveille Systems, LLC",,,,Computer support and services,"Fredericksburg, VA",Po Box 825,,Fredericksburg,VA,22404,False,2023-03-03,1000.0,1000.0,11222983,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1005594,,,"Lees Trucking,, LLC",,,,Trucking Company,Spotsylvania VA,10708 Sunrise Lane,,Fredericksburg,VA,22407,False,2023-03-23,1000.0,1000.0,11222984,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1005597,,,Mid-Atlantic Communications Inc,,,,Electronics / Communications Installer,Stafford VA,Po Box 7074,,Fredericksburg,VA,22404,False,2023-03-15,1000.0,1000.0,11222985,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1005606,Clifford,,Eichholz,,,Retired,Retired,,113 Turnstone Lane,,Frederick,VA,22630,True,2023-03-22,500.0,500.0,11222986,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1005640,,,Brocks Riverside Grill,,,,Restaurant/ Food service,Fredericksburg Va,503 Sophia St,,Fredericksburg,VA,22401,False,2023-05-24,200.0,200.0,11222987,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1005646,Jason,,Dring,,,Fredericksburg Sheriff,Deputy Sheriff,Fredericksburg VA,4621 Lakeview Parkway,,Locust Grove,VA,22508,True,2023-05-22,500.0,500.0,11222988,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1005653,Tim,,Trivett,,,Federal Government,Federal,"Richmond, VA",3407 Wakefield St,,Colonial Beach,VA,22443,True,2023-05-26,200.0,200.0,11222989,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1007348,Jeh,,Hicks,,,Jerrell Properties,Real estate,VA,1005 Sophia St,,Fredericksburg,VA,22401,True,2023-05-26,300.0,300.0,11222990,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1007351,,,"Pallet Machinery Group, INC",,,,Equipment Sales,"Tappahannock, VA",250 Commerce Dr.,Unit A,Tappahannock,VA,22560,False,2023-05-24,400.0,400.0,11222991,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1007353,,,T.T & C. ONE LLC,,,,Furniture Sales,"Fredericksburg, VA",9351 Northeast Dr,,Fredericksburg,VA,22408,False,2023-05-22,400.0,400.0,11222992,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1007354,,,PV Enterprises INC,,,,Landscape Designs,Fredericksburg VA,5087 Blarney St.,,Fredericksburg,VA,22407,False,2023-05-25,400.0,400.0,11222993,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1007358,,,Shepheards Heating and Air,,,,Heating and Air Sales,Spotsylvania VA,13113 Post Oak Rd,,Spotsylvania,VA,22551,False,2023-05-26,500.0,500.0,11222994,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1007362,Steve,,Johnson,,,McClung-Logan Equipment Company,Sales,Stafford Va,7325 Chapel Heights Rd.,,Fredericksburg,VA,22407,True,2023-04-10,400.0,400.0,11222995,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1007363,Mark,,Purcell,,,Retired,Retired,"Fredericksburg, VA",1414 Preserve Lane,,Fredericksburg,VA,22401,True,2023-05-26,120.0,120.0,11222996,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1007385,Dana,,Foster,,,White and Case,Lawyer,Washington DC,2428 Branch Ave SE,,Washington,DC,20020,True,2023-05-26,520.0,520.0,11222997,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1007387,,,Communication Specialist INC,,,,Sales,"Stafford ,VA",35 Commerce Parkway,,Fredericksburg,VA,22406,False,2023-05-24,400.0,400.0,11222998,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1007556,Tom,,Cooper,,,Broadcasting INC.,General Mgr. Telemedia,Fredericksburg VA,13107 Cherub Way,,Fredericksburg,VA,22408,True,2023-05-26,120.0,120.0,11222999,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1007561,Michael,,Cavanagh,,,Retired,Retired,,338 BirchsideCircle,,Locust Grove,VA,22508,True,2023-05-26,120.0,120.0,11223000,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1007566,Ryan,,Merrell,,,City of Fredericksburg,Police Officer,Fredericksburg Va,1006 Eastern View Dr.,,Fredericksburg,VA,22405,True,2023-05-26,120.0,120.0,11223001,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1007630,Danny,,Mastin,,,,Retired,,1305 Hearthstone Dr,,Fredericksburg,VA,22401,True,2023-05-26,240.0,240.0,11223002,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1007631,Robert,,Medairos,,,Federal Government,TSA,"Washington, DC",8205 Musket Ridge Lane,,Fredericksburg,VA,22407,True,2023-05-26,240.0,240.0,11223003,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1007654,Jeremy,,Jack,,,Spotsylvania County Schools,Teacher,Spotsylvania Va,4307 Bridlepath CT,,Fredericksburg,VA,22408,True,2023-05-26,120.0,120.0,11223004,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1007669,Travis,,Bird,,,County of Spotsylvania,Commonwealth Attorney,Spotsylvania VA,11910 Ziyad Dr,,Fredericksburg,VA,22407,True,2023-05-26,120.0,120.0,11223005,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1007680,Rashawn,,Cowles,,,City of Fredericksburg,Police Officer,Fredericksburg Va,10801 Samantha Pl.,,Fredericksburg,VA,22408,True,2023-05-26,120.0,120.0,11223006,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1008459,,,G.L. Herndon Insurance Agency,,,,Insurance Agency,Spotsylvania VA,12022 Old Salem Church RD,,Fredericksburg,VA,22407,False,2023-05-26,400.0,400.0,11223007,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1009517,Danny,,Williams,,,,Retired,,11905 Legacy Woods Dr,,Fredericksburg,VA,22407,True,2023-05-26,120.0,120.0,11223008,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1009524,James,,McGhee,,,,Retired,,309 Butternut Dr.,,Fredericksburg,VA,22408,True,2023-05-26,120.0,120.0,11223009,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1009685,Kevin,,Sparks,,,Home Depot,Sales,Fredericksburg VA,11801 Berwick Ct,,Fredericksburg,VA,22408,True,2023-05-26,120.0,120.0,11223010,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1009695,Jonathon,,Moneyhon,,,Grump Monkey Custom Shoes,Sales,Fredericksburg Va,1729 Idlewild Blvd,,Fredericksburg,VA,22401,True,2023-05-26,120.0,120.0,11223011,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1009700,Kerry,,Lundin,,,,Retired,,9703 Danford Ct,,Fredericksburg,VA,22407,True,2023-05-26,120.0,120.0,11223012,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432617,1009705,Ryan,,Menaffy,,,Spotsylvania County,Lawyer,Spotsylvania VA,8010 Second Corps Dr,,Fredericksburg,VA,22407,True,2023-05-26,120.0,120.0,11223013,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432683,477439,Ron,,Feinman,,,"Law Offices of Ron Feinman, Esq.",attorney,Lynchburg,1900 Parkland Dr.,,Lynchburg,VA,24503,True,2018-05-14,200.0,200.0,11223199,,{D33087C3-F96A-CB6C-93C5-38E26F8238A5}
+432713,1164438,,,RADFORD CITY REPUBLICANS,,,,ORGANIZATION,RADFORD VA,1012 WEST MAIN ST,,RADFORD,VA,24141,False,2024-07-22,1500.0,1500.0,11223395,,{7B3D8A15-616A-C6FD-7A73-932C4A31100D}
+432781,1147587,Candy,,Hayes,Mrs.,,,Retired,,106 Turberry,,Smithfield,VA,23430,True,2024-10-07,100.0,200.0,11223684,,{743C3B8A-CC0E-7AE5-8A52-111188486C67}
+432781,1183026,Garland,,Alexander,,,Retired,Retired,Portsmouth,2913 Tanbark Lane,,Portsmouth,VA,23703,True,2024-10-16,125.0,125.0,11223685,,{743C3B8A-CC0E-7AE5-8A52-111188486C67}
+432782,1147564,Portsmouth Firefighters,,IAFF,,,,Firefighters Union,,3704  Winchester Drive,,Portsmouth,VA,23707,True,2024-09-13,340.0,440.0,11223686,,{76CA8637-7E76-70FF-8A69-931571646355}
+432782,1179098,Fargo,,wells,,,,,,900 Frederick Blvd.,,"Portsmouth,",VA,23704,True,2024-09-23,1125.0,1125.0,11223687,,{76CA8637-7E76-70FF-8A69-931571646355}
+432782,1183096,,,Firefighters,,,,Firefighters,,3704 Winchester Drive,,Portsmouth,VA,23707,False,2024-09-16,1000.0,1000.0,11223688,,{76CA8637-7E76-70FF-8A69-931571646355}
+432784,1147564,Portsmouth Firefighters,,IAFF,,,,Firefighters Union,,3704  Winchester Drive,,Portsmouth,VA,23707,True,2024-09-13,340.0,440.0,11223692,,{76CA8637-7E76-70FF-8A69-931571646355}
+432784,1179098,Fireman Association,,IAFF,,,,Retired Firefighters Assoc.,,3704 Winchester Drive,,"Portsmouth,",VA,23704,True,2024-09-23,1125.0,1125.0,11223693,,{76CA8637-7E76-70FF-8A69-931571646355}
+432784,1183096,,,Firefighters,,,,Firefighters,,3704 Winchester Drive,,Portsmouth,VA,23707,False,2024-09-16,1000.0,1000.0,11223694,,{76CA8637-7E76-70FF-8A69-931571646355}
+432790,936915,,,Identity Culpeper,,,,Public Affairs / Promotion / Consulting,"Culpeper, Va",405 Sperryville Pike,,Culpeper,VA,22701,False,2024-09-07,3000.0,0.0,11223699,,{9EFCBEFA-5516-2DB2-7010-2726EB7F7D38}
+432792,,,,Progressive Virginians for Alex Bastani,,,,,Falls Church VA,2809 Lee Oaks Ct,Unit 102,Falls Church,VA,22046-7334,False,2025-02-14,20000.0,20000.0,11223744,,{4400A229-69DB-91E1-62AE-87FEA38E5469}
+432794,160168,,,Laborers Dist. Council Trust 2,,,,labor union trust,Columbia MD,10440 Little Patuxent Pkwy. #700,,Columbia,MD,21044,False,2025-02-18,30000.0,0.0,11223748,,{877519EB-E5ED-04BD-FE74-AD7D6F770987}
+432795,,,,Progressive Virginians for Alex Bastani,,,,Candidate Committee,Falls Church VA,2809 Lee Oaks Ct,Unit 102,Falls Church,VA,22046-7334,False,2025-02-14,20000.0,20000.0,11223749,,{4400A229-69DB-91E1-62AE-87FEA38E5469}
+432797,1134566,John,,Prabhudoss,,,"JVP Enterprises, Inc.",Candidate for Congress,"Richmond, VA",4419 West Broad Street,,Richmond,WA,23230,True,2024-03-08,1200.0,0.0,11223758,,{ADC2115C-298D-F26C-5B4F-5B10975822BC}
+432799,1134559,,,Hamilton for Congress,,,,Political Campaign,"Alexandria, VA",P.O. Box 26141,,Alexandria,VA,22313,False,2024-03-20,1200.0,0.0,11223759,,{C47C1C7D-8D53-F7A6-F3B1-D1F269DD1C7A}
+432803,1181523,,,America First Patriots,,,,Non-profit,"Culpeper, Virginia",402 Main Street,,Culpeper,VA,22701,False,2024-10-25,9087.22,0.0,11223761,,{5AD552FE-46C6-0A62-1B8E-9A764EE57705}
+432805,1176742,Howard,,Sullens,Mr,,,Retired,,15295 Quail Ridge Drive,,Amissville,VA,20106,True,2024-09-23,500.0,0.0,11223762,,{7BABD112-2E89-FA83-575E-AF3E9188E7BA}
+432806,1176753,Robin,,Whyte,Ms,,,Retired,,19109 Ferguson Road,,Jeffersonton,VA,22724,True,2024-09-30,600.0,0.0,11223763,,{9B546353-F868-737D-59E1-44746095099F}
+432809,980000,Cass,,Aucoin,,,Retired,Retired,Retired,1111 Round Pebble Lane,,Reston,VA,20194,True,2025-02-14,10000.0,10000.0,11223778,,{D1C0AC45-2308-23E3-82B5-AEA917E62FC9}
+432809,980000,Cass,,Aucoin,,,Retired,Retired,Retired,1111 Round Pebble Lane,,Reston,VA,20194,True,2025-02-14,2500.0,12500.0,11223779,,{D1C0AC45-2308-23E3-82B5-AEA917E62FC9}
+432809,980000,Cass,,Aucoin,,,Retired,Retired,Retired,1111 Round Pebble Lane,,Reston,VA,20194,True,2025-02-14,1010.11,13510.11,11223780,,{D1C0AC45-2308-23E3-82B5-AEA917E62FC9}
+432809,980000,Cass,,Aucoin,,,Retired,Retired,Retired,1111 Round Pebble Lane,,Reston,VA,20194,True,2025-02-14,147.0,13657.11,11223781,,{D1C0AC45-2308-23E3-82B5-AEA917E62FC9}
+432860,1199120,,,New River Recycling Inc,,,,Recycling,Radford,840 Auburn Ave,,Radford,VA,24141,False,2025-02-14,10000.0,0.0,11223875,,{88FEC6BA-7478-FB6F-008E-86214CF7EFF1}
+432861,1199121,,,Shelor Motor Mile Inc,,,,Auto Dealership,Christiansburg,PO BOX 1499,,Christiansburg,VA,24068,False,2025-02-14,10000.0,0.0,11223876,,{EF5BD867-71A9-67E9-1A9A-26FC801B5B31}
+432862,1199122,Price,H,William,Mr,,Price Real Estate,Real Estate Broker,Blacksburg,1108 North Main Street,,Blacksburg,VA,24060,True,2025-02-14,900.0,0.0,11223877,,{646D4BE4-BA3B-6B32-96B6-9532CF716CA2}
+432863,1199123,,,Norwood Development Inc,,,,Paving Company,Radford,PO BOX 3189,,Radford,VA,24141,False,2025-02-14,500.0,0.0,11223878,,{826BD5C1-5AF3-780D-B2D3-05927F6A49ED}
+432871,,Susan,G,Anderson,,,Blacksburg Town Council,Senior Instructor,Blacksburg VA,700 Preston Ave,,Blacksburg,VA,24060-4621,True,2024-12-16,250.0,250.0,11223883,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Bob,,Beckman,,,Not Employed,Not Employed,Blacksburg VA,413 Dunton Dr,,Blacksburg,VA,24060-5129,True,2024-12-30,50.0,150.0,11223884,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Shana,,Carrico,,,Self,Self,Abingdon VA,368 Beverly Dr,,Abingdon,VA,24210-2460,True,2024-12-11,183.0,183.0,11223885,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,,,Clean Virginia,,,,PAC,Charlottesville VA,213 7th St NE,,Charlottesville,VA,22902-5306,False,2024-12-15,10000.0,10000.0,11223886,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Steve,C,Cochran,,,Not Employed,Not Employed,Blacksburg VA,2175 Maple Ln,,Blacksburg,VA,24060-9241,True,2024-12-11,183.0,183.0,11223887,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Alford,,Cooley,,,Not Employed,Not Employed,Mclean VA,1902 Poole Ln,,Mclean,VA,22101-5520,True,2024-12-30,125.0,125.0,11223888,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Laurie,,Duker,,,Not Employed,Not Employed,Silver Spring MD,1112 Noyes Dr,,Silver Spring,MD,20910-4125,True,2024-12-19,125.0,125.0,11223889,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Judith,,Edstrom,,,Not Employed,Not Employed,Washington DC,4900 W St NW,,Washington,DC,20007-1520,True,2024-12-22,250.0,250.0,11223890,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,,,Elect Elizabeth Bennett-Parker,,,,,Alexandria VA,107 S West St,# 152,Alexandria,VA,22314-2824,False,2024-12-31,500.0,500.0,11223891,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Sharon,,Lazar,,,Not Employed,Not Employed,Roanoke VA,1901 Carter Rd SW,,Roanoke,VA,24015-2647,True,2024-12-31,500.0,500.0,11223914,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Robert,,Leonard,,,VA Tech,Teacher/ TheatreArtist,Blacksburg VA,305 Bishop Rd,,Blacksburg,VA,24060-1215,True,2024-12-04,50.0,150.0,11223915,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Christopher,,Marin,,,Not Employed,Not Employed,Blacksburg VA,501 Rucker Rd,,Blacksburg,VA,24060-3662,True,2024-12-17,183.0,233.0,11223916,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Samuel,,Maruca,,,Covington,Lawyer,Washington DC,3432 34th St NW,,Washington,DC,20008-3229,True,2024-12-21,250.0,250.0,11223917,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Kurt,,Navratil,,,Not Employed,Not Employed,Roanoke VA,1877 Arlington Rd SW,,Roanoke,VA,24015-2858,True,2024-11-21,183.0,183.0,11223918,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Carleton,,Reed,,,Not Employed,Not Employed,Roanoke VA,1329 Biscayne Rd,,Roanoke,VA,24019-4409,True,2024-12-31,200.0,200.0,11223919,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Jeraldine,,Rogers,,,Retired,Retired,Floyd VA,966 Huckleberry Ridge Rd NE,,Floyd,VA,24091-2090,True,2024-12-16,500.0,500.0,11223920,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Jimmy,,Rogers,,,DPVA,Organizer,Woodbridge VA,5517 Mapledale Plz,,Woodbridge,VA,22193-4527,True,2024-11-18,414.0,414.0,11223921,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,,,Sage Media Planning & Placement,,,,TV placement,Washington DC,1322 G St SE,,Washington,DC,20003-3021,False,2024-12-16,369.07,369.07,11223922,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,,,Save Democracy PAC,,,,,Washington DC,499 S Capitol St SW,Ste 407,Washington,DC,20003-4016,False,2024-12-31,1000.0,1000.0,11223923,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,David,,Sears,,,Not Employed,Not Employed,Bethesda MD,4407 Rosedale Ave,,Bethesda,MD,20814-4752,True,2024-12-19,125.0,125.0,11223924,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,,,Secure Progress,,,,PAC,Fairfax Station VA,PO Box 7267,,Fairfax Station,VA,22039-7267,False,2024-12-20,1000.0,1000.0,11223925,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Rees,,Shearer,,,Retired,Not Employed,Emory VA,PO Box 117,,Emory,VA,24327-0117,True,2024-12-31,1000.0,1000.0,11223926,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,James,,Shelton,,,Retired,Retired,Boyds MD,20616 Top Ridge Dr,,Boyds,MD,20841-8918,True,2024-12-18,1000.0,1000.0,11223927,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Sonjia,,Smith,,,Self,Self,Charlottesville VA,815 Broomley Rd,,Charlottesville,VA,22901-7821,True,2024-12-31,20000.0,20000.0,11223928,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Harriet,H.,Snead,,,Not Employed,Not Employed,Roanoke VA,2224 Brookfield Dr,,Roanoke,VA,24018-2748,True,2024-12-30,100.0,200.0,11223929,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Harriet,H.,Snead,,,Not Employed,Not Employed,Roanoke VA,2224 Brookfield Dr,,Roanoke,VA,24018-2748,True,2024-12-30,100.0,200.0,11223930,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,,,The Impact Center,,,,PAC,Roanoke VA,PO Box 13842,,Roanoke,VA,24037-3842,False,2024-12-19,1000.0,1000.0,11223931,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Lisa,,Vedernikova Khanna,,,IC,COS,Richmond VA,1108 N 28th St,,Richmond,VA,23223-6625,True,2024-11-21,200.0,200.0,11223932,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Karen,H.,Waldron,,,Fralin&Waldron Inc,Real estate developer,Daleville VA,290 Boners Run Rd,,Shawsville,VA,24162-1840,True,2024-11-18,500.0,500.0,11223933,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,lee,,Williams,,,Not employed,Not employed,Richmond VA,1511 Hampton St,,Richmond,VA,23220-6815,True,2024-12-30,183.0,183.0,11223934,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Tina,,Younger,,,Tina Younger,Self employed,South Boston VA,1406 Irish St,,South Boston,VA,24592-2604,True,2024-11-19,1000.0,1000.0,11223935,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432872,1199122,Price,H,William,Mr,,Price Real Estate,Real Estate Broker,Blacksburg,1108 North Main Street,,Blacksburg,VA,24060,True,2025-02-14,900.0,0.0,11223936,,{646D4BE4-BA3B-6B32-96B6-9532CF716CA2}
+427573,1175674,,,"Prince Michel, LLC",,,,Winery,"Leon, VA",154 Winery Lane,,Leon,VA,22725,False,2024-08-27,200.0,200.0,11057150,,{C0794B9C-CEA9-C348-B57A-30B95CEDED88}
+427573,1176742,Howard,,Sullins,Mr,,,Retired,,15295 Quail Ridge Drive,,Amissville,VA,20106,True,2024-09-23,500.0,500.0,11057151,,{C0794B9C-CEA9-C348-B57A-30B95CEDED88}
+427573,1176753,Robin,,Whyte,Ms,,,Retired,,19109 Ferguson,,Jeffersonton,VA,22724,True,2024-09-30,600.0,600.0,11057152,,{C0794B9C-CEA9-C348-B57A-30B95CEDED88}
+428068,361824,,,Bishard Homes,,,,Home Builder,"Virginia Beach, VA",4104 Holly Rd.,,Virginia Beach,VA,23451,False,2024-10-14,1000.0,3500.0,11095955,,{E2A88813-10F1-44CC-743D-91263915B79B}
+428068,361839,Scott,,Williams,,,"Crescent Development Group, LLC",Developer,"Charlottesville, VA",485 Gillums Ridge Road,,Charlottesville,VA,22903,True,2024-11-07,60.0,660.0,11095956,,{E2A88813-10F1-44CC-743D-91263915B79B}
+428068,361839,Scott,,Williams,,,"Crescent Development Group, LLC",Developer,"Charlottesville, VA",485 Gillums Ridge Road,,Charlottesville,VA,22903,True,2024-12-07,60.0,720.0,11095957,,{E2A88813-10F1-44CC-743D-91263915B79B}
+428068,459383,,,Dominion Energy,,,,Electrical Power,Virginia,980 Warrenton Rd.,,Fredericksburg,VA,22406,False,2024-12-03,1500.0,1500.0,11095958,,{E2A88813-10F1-44CC-743D-91263915B79B}
+428068,493835,,,Home Builders Association of Virginia,,,,Non-Profit,Richmond,1051 E. Cary Street,1400,Richmond,VA,23219,False,2024-10-15,2000.0,57500.0,11095959,,{E2A88813-10F1-44CC-743D-91263915B79B}
+428068,493835,,,Home Builders Association of Virginia,,,,Non-Profit,Richmond,1051 E. Cary Street,1400,Richmond,VA,23219,False,2024-11-15,2000.0,59500.0,11095960,,{E2A88813-10F1-44CC-743D-91263915B79B}
+428068,493835,,,Home Builders Association of Virginia,,,,Non-Profit,Richmond,1051 E. Cary Street,1400,Richmond,VA,23219,False,2024-12-09,8100.0,67600.0,11095961,,{E2A88813-10F1-44CC-743D-91263915B79B}
+428068,493835,,,Home Builders Association of Virginia,,,,Non-Profit,Richmond,1051 E. Cary Street,1400,Richmond,VA,23219,False,2024-12-16,2000.0,69600.0,11095962,,{E2A88813-10F1-44CC-743D-91263915B79B}
+428068,506014,Scott,,Gandy,,,Kempsville Building Materials,Building Material Supplier,"Chesapeake, VA",PO Box 746,,Virginia Beach,VA,23451,True,2024-10-14,1000.0,1000.0,11095963,,{E2A88813-10F1-44CC-743D-91263915B79B}
+432396,1089929,Evan,,Fleming,,,Target,General Retail,"Culpeper, Va",13442 Dachshund Run,,Culpeper,VA,22701,True,2024-12-12,50.0,300.0,11221658,,{4F12E478-AD62-E9D5-C63B-545AFA479B51}
+432396,1151612,DeWayne,,Payne,Mr.,,"Team Payne Hay & Straw, Inc.",Farmer,"Culpeper, Virginia",17461 Greens Corner Road,,Culpeper,VA,22701,True,2024-12-12,150.0,175.0,11221659,,{4F12E478-AD62-E9D5-C63B-545AFA479B51}
+432396,1175674,,,"Prince Michel, LLC",,,,Winery,"Leon, VA",154 Winery Lane,,Leon,VA,22725,False,2024-12-12,350.0,550.0,11221660,,{4F12E478-AD62-E9D5-C63B-545AFA479B51}
+432396,1181523,,,America First Patriots,,,,Non-profit,"Culpeper, Virginia",402 Main Street,,Culpeper,VA,22701,False,2024-10-25,9087.22,9087.22,11221661,,{4F12E478-AD62-E9D5-C63B-545AFA479B51}
+432396,1181525,Robin,,Whyte,Ms.,,,Retired,,19109 Ferguson Road,,Jeffersonton,VA,22724,True,2024-10-25,400.0,400.0,11221662,,{4F12E478-AD62-E9D5-C63B-545AFA479B51}
+432396,1192532,Edward,B.,Jones,Mr.,,,Retired,,16314 Belleview Drive,,Culpeper,VA,22701,True,2024-12-12,350.0,350.0,11221663,,{4F12E478-AD62-E9D5-C63B-545AFA479B51}
+432436,,,,Abbott Laboratories Employee PAC,,,,Medical Devices,Abbott Park IL,100 Abbott Park Rd,,Abbott Park,IL,60064-3502,False,2024-10-21,1000.0,1500.0,11221843,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,"Accel Entertainment Gaming, LLC",,,,Gaming,Bolingbrook IL,PO Box 1218,,Bolingbrook,IL,60440-1086,False,2024-11-20,25000.0,25000.0,11221844,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Alison,,Adair,,,Not Employed,Not Employed,Alexandria VA,432 Argyle Dr,,Alexandria,VA,22305-1603,True,2024-08-10,20.0,120.0,11221845,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Alison,,Adair,,,Not Employed,Not Employed,Alexandria VA,432 Argyle Dr,,Alexandria,VA,22305-1603,True,2024-09-10,20.0,140.0,11221846,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Alison,,Adair,,,Not Employed,Not Employed,Alexandria VA,432 Argyle Dr,,Alexandria,VA,22305-1603,True,2024-10-10,20.0,160.0,11221847,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Alison,,Adair,,,Not Employed,Not Employed,Alexandria VA,432 Argyle Dr,,Alexandria,VA,22305-1603,True,2024-11-10,20.0,180.0,11221848,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Alison,,Adair,,,Not Employed,Not Employed,Alexandria VA,432 Argyle Dr,,Alexandria,VA,22305-1603,True,2024-12-10,20.0,200.0,11221849,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Altria Client Services LLC,,,,Business Services,Richmond VA,PO Box 85088,,Richmond,VA,23285-5088,False,2024-07-25,5000.0,15000.0,11221850,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Altria Client Services LLC,,,,Business Services,Richmond VA,PO Box 85088,,Richmond,VA,23285-5088,False,2024-10-25,5000.0,20000.0,11221851,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Altria Client Services LLC,,,,Business Services,Richmond VA,PO Box 85088,,Richmond,VA,23285-5088,False,2024-12-27,5000.0,25000.0,11221852,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Amazon.com Services LLC,,,,Business,Seattle WA,PO Box 80683,,Seattle,WA,98108-0683,False,2024-08-20,5000.0,6000.0,11221853,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,American Electric Power Company - Virginia Committee for Responsible Government,,,,Energy,Richmond VA,1051 E Cary St,Ste 1100,Richmond,VA,23219-4044,False,2024-12-27,5000.0,5000.0,11221854,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,AT&T,,,,Telecommunications,Saint Louis MO,1010 Pine St,,Saint Louis,MO,63101-2015,False,2024-10-17,1500.0,1500.0,11221855,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Boyd-Pamunkey Casino PAC,,,,Gaming,Norfolk VA,112 Granby St,Ste 300,Norfolk,VA,23510-1656,False,2024-11-19,10000.0,10000.0,11221856,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Broad Street Group,,,,Government Relations,Richmond VA,3913 Seminary Ave,,Richmond,VA,23227-4107,False,2024-12-11,500.0,500.0,11221857,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,Linda,,Brooks,,,Not Employed,Not Employed,Newport News VA,70 Park Hill Cir,,Newport News,VA,23602-6262,True,2024-09-09,120.0,120.0,11221858,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Capital One,,,,Financial Services,Richmond VA,1717 E Cary St,,Richmond,VA,23223-7024,False,2024-07-03,2500.0,2500.0,11221859,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Care Advantage INC.,,,,In-Home Care,North Chesterfield VA,10041 Midlothian Tpke,,North Chesterfield,VA,23235-4815,False,2024-10-14,2500.0,5000.0,11221860,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,"CareFirst Management Co., LLC",,,,Health Insurance,Owings Mills MD,10455 Mill Run Cir,,Owings Mills,MD,21117-4208,False,2024-12-27,1500.0,1500.0,11221861,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,"CCBCC Operations, LLC",,,,"Beverage, Soft Drink",Charlotte NC,4100 Coca Cola Plz,,Charlotte,NC,28211-3588,False,2024-10-15,1000.0,1000.0,11221862,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Cedar Mountain Stone Corp,,,,Construction,Pine City NY,2105 S Broadway,,Pine City,NY,14871-9700,False,2024-11-20,500.0,500.0,11221863,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Chemung Contracting Group,,,,Construction,Pine City NY,2105 S Broadway,,Pine City,NY,14871-9700,False,2024-11-20,500.0,500.0,11221864,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432436,,,,Chesapeake Utilities Corporation,,,,Energy,Dover DE,500 Energy Ln,Ste 400,Dover,DE,19901-4989,False,2024-09-23,2000.0,2000.0,11221865,,{5F970176-37B8-A268-F9FC-3F9EA47B942A}
+432439,1009695,Jonathon,,Moneyhon,,,Grump Monkey Custom Shoes,Sales,Fredericksburg Va,1729 Idlewild Blvd,,Fredericksburg,VA,22401,True,2023-05-26,120.0,120.0,11222022,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1009700,Kerry,,Lundin,,,,Retired,,9703 Danford Ct,,Fredericksburg,VA,22407,True,2023-05-26,120.0,120.0,11222023,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1009705,Ryan,,Menaffy,,,Spotsylvania County,Lawyer,Spotsylvania VA,8010 Second Corps Dr,,Fredericksburg,VA,22407,True,2023-05-26,120.0,120.0,11222024,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1198328,Lou,,Woolner,,,Retired,Retired,Spotsylvania Va,6614 Twin Cedar Ct,,Fredericksburg,VA,22407,True,2023-05-26,120.0,120.0,11222025,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432439,1198339,Jeff,,Adams,,,Spotsylvania County,Lawyer,Spotsylvania Va,8314 12th Corps,,Fredericksburg,VA,22407,True,2023-05-26,120.0,120.0,11222026,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432441,1198296,Joe,,Amberger,,,Joe Amberger,Self Employed,Fredericksburg Virginia,4022 Bonnie Brae Ct.,,Fredericksburg,VA,22407,True,2023-08-04,1000.0,1000.0,11222027,,{6CD64D21-425D-1FD7-9774-B6DDABB1F798}
+432446,1129483,Jon,Scott,Foster,,,Fredericksburg Sheriffs Office,Law Enforcement,Virginia,701 Princess Anne St.,Suite B,Fredericksburg,VA,22401,True,2024-01-19,151.35,151.35,11222028,,{6CF59066-9A88-0821-610F-FC54486C97E1}
+432449,1198608,Suzanne,,Osborne,,,Retired,Retired,"Roanoke, VA",1702 Blair Rd SW,,Roanoke,VA,24015,True,2025-02-03,2000.0,0.0,11222030,,{A5E2E681-51D8-57CA-C1B2-170DF4515269}
+432450,958051,Paul,,Higgs,,,,,,110 Springwood Drive,,Fredericksburg,VA,22401,True,2022-10-03,10507.43,10507.43,11222031,,{2D1863A7-063E-A052-26EE-D98F7C284C04}
+432451,1005556,,,Abby Construction Company,,,,Constuction,Fredericksburg Va,1319 Layfayette Blvd.,Suite 100,Fredericksburg,VA,22401,False,2023-02-17,300.0,300.0,11222032,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1005565,,,J.B Thurston Corp.,,,,Plumbing and Electrical,Fredericksburg Va,6 Short Circle.,,Fredericksburg,VA,22407,False,2023-01-12,300.0,300.0,11222033,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1005574,Scott,,Baird,,,Oasis Management,Sales,Ashland Va,12301 Dell Way,,Fredericksburg,VA,22407,True,2023-02-12,400.0,400.0,11222034,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1005574,Scott,,Baird,,,Oasis Management,Sales,Ashland Va,12301 Dell Way,,Fredericksburg,VA,22407,True,2023-05-26,40.0,440.0,11222035,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1005581,,,Wilson Realty LLC,,,,Sales,"Fredericksburg, VA",405 Amelia St,,Fredericksburg,VA,22401,False,2023-03-08,300.0,300.0,11222036,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1005583,,,Carter Automotive,,,,Automotive repair,"Colonial Beach,VA",903 Colonial Ave.,,Colonial Beach,VA,22443,False,2023-03-23,1000.0,1000.0,11222037,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1005586,,,All About Wood,,,,Construction,Colonial Beach VA,1404 Bancroft Ave.,,Colonial Beach,VA,22443,False,2023-03-22,700.0,700.0,11222038,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1005589,,,"Reveille Systems, LLC",,,,Computer support and services,"Fredericksburg, VA",Po Box 825,,Fredericksburg,VA,22404,False,2023-03-03,1000.0,1000.0,11222039,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1005594,,,"Lees Trucking,, LLC",,,,Trucking Company,Spotsylvania VA,10708 Sunrise Lane,,Fredericksburg,VA,22407,False,2023-03-23,1000.0,1000.0,11222040,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1005597,,,Mid-Atlantic Communications Inc,,,,Electronics / Communications Installer,Stafford VA,Po Box 7074,,Fredericksburg,VA,22404,False,2023-03-15,1000.0,1000.0,11222041,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1005606,Clifford,,Eichholz,,,Retired,Retired,,113 Turnstone Lane,,Frederick,VA,22630,True,2023-03-22,500.0,500.0,11222042,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1005640,,,Brocks Riverside Grill,,,,Restaurant/ Food service,Fredericksburg Va,503 Sophia St,,Fredericksburg,VA,22401,False,2023-05-24,200.0,200.0,11222043,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1005646,Jason,,Dring,,,Fredericksburg Sheriff,Deputy Sheriff,Fredericksburg VA,4621 Lakeview Parkway,,Locust Grove,VA,22508,True,2023-05-22,500.0,500.0,11222044,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1005653,Tim,,Trivett,,,Federal Government,Federal,"Richmond, VA",3407 Wakefield St,,Colonial Beach,VA,22443,True,2023-05-26,200.0,200.0,11222045,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432451,1007348,Jeh,,Hicks,,,Jerrell Properties,Real estate,VA,1005 Sophia St,,Fredericksburg,VA,22401,True,2023-05-26,300.0,300.0,11222046,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432536,361839,Scott,,Williams,,,"Crescent Development Group, LLC",Developer,"Charlottesville, VA",485 Gillums Ridge Road,,Charlottesville,VA,22903,True,2024-08-07,60.0,480.0,11222257,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,361856,Summer,,Gruber,,,Peak Builders,Contractor,Charlottesville,2180 Owensville Rd.,,Charlottesville,VA,22901,True,2024-07-11,500.0,500.0,11222258,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,395569,Andrew,,Painter,,,"Walsh, Colucci, Lubeley & Walsh, P.C.",Attorney,"Leesburg, VA",2823 Marshall Street,,Falls Church,VA,22042,True,2024-06-24,250.0,250.0,11222259,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,467734,,,Perry Engineering,,,,Engineering,"Winchester, Va",1945 Millwood Pike,,Winchester,VA,22602,False,2024-07-09,5000.0,5000.0,11222260,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,493832,Tracey,,Jameson,,,TowneBank & Mortgage,Senior Vice President,"Richmond, VA",4355 Innslake Dr.,Suite 325,Glen Allen,VA,23060,True,2024-07-30,250.0,250.0,11222261,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,493835,,,Home Builders Association of Virginia,,,,Non-Profit,Richmond,1051 E. Cary Street,1400,Richmond,VA,23219,False,2024-06-17,2000.0,29000.0,11222262,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,493835,,,Home Builders Association of Virginia,,,,Non-Profit,Richmond,1051 E. Cary Street,1400,Richmond,VA,23219,False,2024-07-10,3000.0,32000.0,11222263,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,493835,,,Home Builders Association of Virginia,,,,Non-Profit,Richmond,1051 E. Cary Street,1400,Richmond,VA,23219,False,2024-07-15,2000.0,34000.0,11222264,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,493835,,,Home Builders Association of Virginia,,,,Non-Profit,Richmond,1051 E. Cary Street,1400,Richmond,VA,23219,False,2024-08-13,8000.0,42000.0,11222265,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,493835,,,Home Builders Association of Virginia,,,,Non-Profit,Richmond,1051 E. Cary Street,1400,Richmond,VA,23219,False,2024-08-15,2000.0,44000.0,11222266,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,494028,,,"R-CI Builders, Inc.",,,,Home Builder,"Richmond, VA",9245 Shady Grove Rd.,,Mechanicsville,VA,23116,False,2024-06-28,2500.0,2500.0,11222267,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,531961,Christopher,,Brement,,,Bramante Homes Inc,Home Builder,"Waynesboro, VA",1835 Rosser Ave,Suite 2,Waynesboro,VA,22980,True,2024-06-21,45.0,270.0,11222268,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,531961,Christopher,,Brement,,,Bramante Homes Inc,Home Builder,"Waynesboro, VA",1835 Rosser Ave,Suite 2,Waynesboro,VA,22980,True,2024-07-21,45.0,315.0,11222269,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,531961,Christopher,,Brement,,,Bramante Homes Inc,Home Builder,"Waynesboro, VA",1835 Rosser Ave,Suite 2,Waynesboro,VA,22980,True,2024-08-21,45.0,360.0,11222270,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,649275,,,Kee Construction,,,,Residential Construction,"Winchester, VA",420 W. Jubal Early Dr.,100,Winchester,VA,22601,False,2024-07-19,500.0,500.0,11222271,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,699569,,,"Ashdon Builders,Inc.",,,,Residential Builder,"Chesapeake, VA",321 Great Bridge Blvd,,Chesapeake,VA,23320,False,2024-07-03,2500.0,2500.0,11222272,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,721060,,,Foundation Homes,,,,Residential Construction,"Fredericksburg, VA",1003 Bragg Rd.,,Fredericksburg,VA,22407,False,2024-07-16,2500.0,2500.0,11222273,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,745410,,,Land Planning Solutions,,,,Land development,"Chesapeake, VA",1403 Greenbrier Pkwy,,Chesapeake,VA,23320,False,2024-07-10,500.0,500.0,11222274,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,858136,,,CD West & Company,,,,Remodeler/builder,"Newport News, VA",753 Thimble Shoals Blvd.,Suite C,Newport News,VA,23606,False,2024-06-28,1000.0,1000.0,11222275,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,897325,Mike,,Sandkuhler,,,Van Metre Homes,Residential Construction,"Fairfax, VA",9900 Main St.,Suite 500,Fairfax,VA,22031,True,2024-07-11,500.0,500.0,11222276,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,912508,Scott,,Hine,,,Union Home Mortgage,Mortgage Lender,"Fredericksburg, VA",3006 Lafayette Blvd.,,Fredericksburg,VA,22408-4121,True,2024-06-01,150.0,300.0,11222277,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432536,956018,Carmela,,Patrick,,,"Weber Rector Commercial Real Estate Services, Inc.",Real Estate,"Manassas, VA",9401 Battle Street,,Manassas,VA,20110,True,2024-07-12,250.0,250.0,11222278,,{80E7A4E9-9D87-6790-8AD7-F3A17F5F4E9B}
+432600,1094285,,,Capital Results LLC,,,,Consulting Firm,"Richmond, VA",50 Pear Street,,Richmond,VA,23223,False,2024-08-26,250.0,250.0,11222797,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1094285,,,Capital Results LLC,,,,Consulting Firm,"Richmond, VA",50 Pear Street,,Richmond,VA,23223,False,2024-10-11,500.0,750.0,11222798,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1094687,Jas,,Singh,,,Retreat Hotels & Resorts,President,"Reston, VA",42275 Riggins Ridge Ter,,Ashburn,VA,20148,True,2024-10-25,500.0,500.0,11222799,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1107164,,,Realtor Political Action Committee of Virginia,,,,PAC,"Glen Allen, VA",10231 Telegraphic Road,,Glen Allen,VA,23059,False,2024-10-08,1000.0,1000.0,11222800,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1107513,MJ,,Zuckerman,,,Not Employed,Not Employed,"Round Hill, VA",20300 Woodtrail Road,,Round Hill,VA,20141,True,2024-10-11,250.0,250.0,11222801,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1118655,,,Capital One Services LLC,,,,Banking,"Reston, VA",1950 Roland Clarke Pl,300,Reston,VA,20191,False,2024-10-08,500.0,500.0,11222802,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1126851,,,Transurban USA Inc,,,,Highway,"Tysons, VA","7900 Westpark Drive, Suite T500",,Tysons,VA,22102,False,2024-10-15,250.0,250.0,11222803,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1153843,Cathy,,Dalrymple,,,Chemung Contracting Corporation,Office Manager,"Mineral, VA",6217 Bills Rd,,Mineral,VA,23117,True,2024-07-01,1000.0,6000.0,11222804,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183684,,,EYE PAC,,,,PAC,"Richmond, VA",1205 E Main St,1E,Richmond,VA,23219,False,2024-07-23,250.0,250.0,11222805,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183685,,,Virginia Radiology PAC,,,,PAC,"Richmond, VA",2821 Emerywood Parkway,200,Richmond,VA,23294,False,2024-08-12,500.0,500.0,11222806,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183686,,,Rip Sullivan for Delegate,,,,Political,"Mclean, VA",6305 Chesterbrook Road,,Mclean,VA,22101,False,2024-08-12,134.91,134.91,11222807,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183687,,,Virginia Association of Healthcare Plans PAC,,,,PAC,"Richmond, VA",1111 E Main St,910,Richmond,VA,23219,False,2024-08-26,500.0,500.0,11222808,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183691,,,Cherayil Family Trust,,,,Trust,"Chantilly, VA",27514 Paddock Trail Pl,,Chantilly,VA,20152,False,2024-08-29,500.0,500.0,11222809,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183694,Sindhu,,Srivatsa,,,Workday,Attorney,"Pleasanton, CA",22752 PORTICO PLACE,,Ashburn,VA,20148,True,2024-09-09,700.0,700.0,11222810,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183697,,,CloudHQ,,,,Information Technology,"Washington, DC",1212 New York Avenue,1000,Washington,DC,20005,False,2024-09-18,1000.0,1000.0,11222811,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183698,,,Doordash,,,,Food Delivery,"San Francisco, CA",303 2nd St,,San Francisco,VA,94107,False,2024-09-18,500.0,500.0,11222812,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183699,Nupur,,Panjabi,,,Retired,Retired,"Sterling, VA",20610 Quarterpath Terrace,,Sterling,VA,20165,True,2024-09-24,10000.0,10000.0,11222813,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183700,,,Baltimore Washington Construction,,,,Construction,"Reston, VA",11951 Freedom Dr,310,Reston,VA,20190,False,2024-10-08,1000.0,1000.0,11222814,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183701,,,VADPAC,,,,PAC,"Richmond, VA",3460 Mayland Ct,110,Richmond,VA,23233,False,2024-10-08,1000.0,1000.0,11222815,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183702,Susan,,Carroll,,,INOVA Loudoun,President,"Ashburn, VA",42452 Holly Knoll Ct,,Ashburn,VA,20148,True,2024-10-08,500.0,500.0,11222816,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183703,,,CRNA PAC,,,,PAC,"Richmond, VA",800 East Canal Street,,Richmond,VA,23219,False,2024-10-08,500.0,500.0,11222817,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183704,,,Virginia Optometric Association,,,,PAC,"Henrico, VA",P.O. Box 29069,,Henrico,VA,23242,False,2024-10-08,500.0,500.0,11222818,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183705,,,Service Corporation International PAC,,,,PAC,"Houston, TX",PO Box 130548,,Houston,TX,77219,False,2024-10-08,500.0,500.0,11222819,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432600,1183706,,,Metro Virginia PAC,,,,PAC,"Washington, DC",1025 Connecticut Ave NW,1005,Washington,DC,20036,False,2024-10-08,250.0,250.0,11222820,,{7DF985A5-9198-BC41-11F6-E6617DAFF42B}
+432617,1198339,Jeff,,Adams,,,Spotsylvania County,Lawyer,Spotsylvania Va,8314 12th Corps,,Fredericksburg,VA,22407,True,2023-05-26,120.0,120.0,11223014,,{E2433CA7-6015-11DD-5ECB-43DF229C5F2C}
+432619,1198296,Joe,,Amberger,,,Joe Amberger,Self Employed,Fredericksburg Virginia,4022 Bonnie Brae Ct.,,Fredericksburg,VA,22407,True,2023-08-04,1000.0,1000.0,11223015,,{6CD64D21-425D-1FD7-9774-B6DDABB1F798}
+432624,1129483,Jon,Scott,Foster,,,Fredericksburg Sheriffs Office,Law Enforcement,Virginia,701 Princess Anne St.,Suite B,Fredericksburg,VA,22401,True,2024-01-19,151.35,151.35,11223016,,{6CF59066-9A88-0821-610F-FC54486C97E1}
+432628,,LAURAN PATEN,,HUGHES,,,COWBOY + COUGAR ENTERTAINMENT,ACTOR /  PRODUCER,"BROOKLYN,NY","242 HENRY STREET, #4",,BROOKLYN,NY,11201,True,2025-02-10,10000.0,10000.0,11223020,,{25CCF0BD-8D62-223E-6182-E3DAA9A1358A}
+432629,,KEVIN,,KINSELLA,,,AVALON VENTURES,VENTURE CAPITALIST,"SAN DIEGO COUNTY,CA",1735 CASTELLANA ROAD,,LA JOLLA,CA,92037,True,2025-02-10,10000.0,10000.0,11223021,,{1F633E1D-A360-B82B-BA65-2FD0644352AA}
+432630,,ABID RIAZ,,QURESHI,,,LATHAM & WATKINS LLP,ATTORNEY,"WASHINGTON,DC",555 11TH STREET NW,,WASHINGTON,DC,20004,True,2025-02-10,10000.0,10000.0,11223022,,{B80DABF8-9F86-6955-5846-9920E6DEC68F}
+432631,,MICHAEL,,SCHEWEL,,,NOT EMPLOYED,NOT EMPLOYED,"RICHMOND,VA",318 GREENWAY LANE,,RICHMOND,VA,23226,True,2025-02-10,10000.0,10250.0,11223023,,{F0B1940C-386A-D4AA-DB6A-D23372BE13A8}
+432673,156903,,,Laborers District Council Check-Off Fund,,,,labor fund,"Columbia, MD",7130 Columbia Gateway Drive,Suite A,Columbia,MD,21046,False,2025-02-12,20000.0,0.0,11223107,,{A259C9D9-42DE-1BA1-B9FE-CA3234C7589B}
+432677,,FRANK,,CONNER,,,COVINGTON,LAWYER,"WASHINGTON,DC",412 PRINCE STREET,,ALEXANDRIA,VA,22314,True,2025-02-12,10000.0,10000.0,11223108,,{41672B27-9DFC-9C47-82D8-3E82A0B44A13}
+432681,471632,,,Lynchburg Democratic Committee,,,,Political Party Committee,Lynchburg,PO Box 1363,,Lynchburg,VA,24505,False,2018-02-22,475.0,475.0,11223181,,{AD88C1BF-CF92-18EF-33C0-98A51C2632EE}
+432681,471780,Daniel,,Tuck,,,Department of Veterans Affairs,Senior Veterans Service Representative,"Roanoke, Virginia",400 VES Road,,Lynchburg,VA,24503,True,2018-03-09,250.0,250.0,11223182,,{AD88C1BF-CF92-18EF-33C0-98A51C2632EE}
+432681,471860,Carolyn,,Bell,,,not employed,not employed,not employed,42 North Princeton Circle,,Lynchburg,VA,24503,True,2018-03-16,350.0,350.0,11223183,,{AD88C1BF-CF92-18EF-33C0-98A51C2632EE}
+432681,472105,Sandra,,Knodel,,,retired,retired,retired,3712 Otter Place,,Lynchburg,VA,24503-3206,True,2018-03-09,138.0,138.0,11223184,,{AD88C1BF-CF92-18EF-33C0-98A51C2632EE}
+432682,471739,Patricia,,Webb,,,Lynchburg City Schools,teacher,Lynchburg,3308 Woodridge Place,,Lynchburg,VA,24503,True,2018-04-03,500.0,600.0,11223185,,{0C3660C3-7893-8477-C8B5-A298F2D6CFED}
+432682,471739,Patricia,,Webb,,,Lynchburg City Schools,teacher,Lynchburg,3308 Woodridge Place,,Lynchburg,VA,24503,True,2018-04-15,100.0,700.0,11223186,,{0C3660C3-7893-8477-C8B5-A298F2D6CFED}
+432682,471739,Patricia,,Webb,,,Lynchburg City Schools,teacher,Lynchburg,3308 Woodridge Place,,Lynchburg,VA,24503,True,2018-04-19,100.0,800.0,11223187,,{0C3660C3-7893-8477-C8B5-A298F2D6CFED}
+432682,471780,Daniel,,Tuck,,,Department of Veterans Affairs,Senior Veterans Service Representative,"Roanoke, Virginia",400 VES Road,,Lynchburg,VA,24503,True,2018-04-17,100.0,350.0,11223188,,{0C3660C3-7893-8477-C8B5-A298F2D6CFED}
+432682,472100,Lauren,,Alexander,,,Bedford Area Chamber of Commerce,Director of Communications,"Forest, Virginia",510 Old Forest Road,,Lynchburg,VA,24501,True,2018-04-19,50.0,150.0,11223189,,{0C3660C3-7893-8477-C8B5-A298F2D6CFED}
+432682,473524,George,E.,Becker,,Jr.,Welco Diamond Tool,sales manager,"Oldsmar, Florida",816 Trents Ferry Road,,Lynchburg,VA,24503,True,2018-04-15,200.0,200.0,11223190,,{0C3660C3-7893-8477-C8B5-A298F2D6CFED}
+432682,473525,Elizabeth,,Doucette,,,not employed,not employed,not employed,2140 Rivermont Ave.,,Lynchburg,VA,24503,True,2018-04-17,250.0,250.0,11223191,,{0C3660C3-7893-8477-C8B5-A298F2D6CFED}
+432682,473566,Scott,,Surovell,,,Surovell Isaacs & Levy PLC,attorney,"Alexandria, Virginia",7739 Tauxemont Rd.,,Alexandria,VA,22308,True,2018-04-19,250.0,250.0,11223192,,{0C3660C3-7893-8477-C8B5-A298F2D6CFED}
+432683,471875,Andrew,,Webb,,,get info,get info,get info,606 Cullum Road,,West Point,NY,10996,True,2018-05-02,100.0,190.0,11223193,,{D33087C3-F96A-CB6C-93C5-38E26F8238A5}
+432683,477425,Philip,F.,Kusiak,,,Pirtek Piedmont Triad,general manager,"Greensboro, North Carolina",PO Box 19425,,Greensboro,NC,27419-9425,True,2018-04-23,125.0,125.0,11223194,,{D33087C3-F96A-CB6C-93C5-38E26F8238A5}
+432683,477428,Louise,P.,Gregory,,,retired,retired,retired,4115 Peakland Place,,Lynchburg,VA,24503,True,2018-04-25,300.0,300.0,11223195,,{D33087C3-F96A-CB6C-93C5-38E26F8238A5}
+432683,477431,Ryant,,Washington,,,Commonwealth of Virginia,policy advisor,"Richmond, Virginia",PO Box 194,,Palmyra,VA,22963,True,2018-05-02,250.0,250.0,11223196,,{D33087C3-F96A-CB6C-93C5-38E26F8238A5}
+432683,477431,Ryant,,Washington,,,Commonwealth of Virginia,policy advisor,"Richmond, Virginia",PO Box 194,,Palmyra,VA,22963,True,2018-05-02,250.0,500.0,11223197,,{D33087C3-F96A-CB6C-93C5-38E26F8238A5}
+432683,477437,George,,Walker,,,self employe,self employed,self employed,1220 Norvell House Court,,Lynchburg,VA,24503,True,2018-05-14,250.0,250.0,11223198,,{D33087C3-F96A-CB6C-93C5-38E26F8238A5}
+432871,,Lynn,,Fletcher,,,Self,Attorney,Falls Church VA,6960 Birch St,,Falls Church,VA,22046-2201,True,2024-12-15,200.0,200.0,11223892,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Carol,,Fox,,,Retired,Retired,Blacksburg VA,1750 E Ridge Dr,,Blacksburg,VA,24060-8568,True,2024-12-30,500.0,500.0,11223893,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Keith,,Franklin,,,Hudson payne Electronics,Sales Engineer,Madison Heights VA,5174 S Amherst Hwy,,Madison Heights,VA,24572-2482,True,2024-11-18,250.0,350.0,11223894,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Keith,,Franklin,,,Hudson payne Electronics,Sales Engineer,Madison Heights VA,5174 S Amherst Hwy,,Madison Heights,VA,24572-2482,True,2024-12-19,250.0,600.0,11223895,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Lily,,Franklin,,,Town of Christiansburg,Operation Assistant,Blacksburg VA,1020 Turner St NE,,Blacksburg,VA,24060-3110,True,2024-07-15,200.0,200.0,11223896,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Lily,,Franklin,,,Town of Christiansburg,Operation Assistant,Blacksburg VA,1020 Turner St NE,,Blacksburg,VA,24060-3110,True,2024-10-28,10.0,210.0,11223897,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Lily,,Franklin,,,Town of Christiansburg,Operation Assistant,Blacksburg VA,1020 Turner St NE,,Blacksburg,VA,24060-3110,True,2024-10-29,10.0,220.0,11223898,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Lily,,Franklin,,,Town of Christiansburg,Operation Assistant,Blacksburg VA,1020 Turner St NE,,Blacksburg,VA,24060-3110,True,2024-11-04,10.0,230.0,11223899,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Donald,,Hague,,,Don Hague,Consultant,Silver Spring MD,1009 Orchard Way,,Silver Spring,MD,20904-6237,True,2024-12-16,125.0,125.0,11223900,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,John,,Hall,,,Community Housing Partners,Manager,Christiansburg VA,801 Kentwood Dr,,Blacksburg,VA,24060-5316,True,2024-11-20,500.0,600.0,11223901,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,John,,Hall,,,Community Housing Partners,Manager,Christiansburg VA,801 Kentwood Dr,,Blacksburg,VA,24060-5316,True,2024-11-20,100.0,600.0,11223902,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,John,,Hall,,,Community Housing Partners,Manager,Christiansburg VA,801 Kentwood Dr,,Blacksburg,VA,24060-5316,True,2024-12-20,100.0,700.0,11223903,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Nancy,,Hall,,,Not Employed,Not Employed,Annandale VA,4515 Ravensworth Rd,,Annandale,VA,22003-5727,True,2024-11-22,250.0,250.0,11223904,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Nancy,,Hall,,,Not Employed,Not Employed,Annandale VA,4515 Ravensworth Rd,,Annandale,VA,22003-5727,True,2024-12-22,25.0,275.0,11223905,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Kenneth,B.,Hannsgen,,,Not Employed,Not Employed,Blacksburg VA,1006 Oak Pointe Ct,,Blacksburg,VA,24060-3675,True,2024-11-20,300.0,300.0,11223906,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Hona,,Harrington,,,Duke University,Researcher,Durham NC,1220 Bishop Rd,,Blacksburg,VA,24060-1200,True,2024-12-18,10.0,110.0,11223907,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Will,,Harvey,,,Not Employed,Not Employed,Charlottesville VA,2721 Timberlake Rd,,Charlottesville,VA,22901-9558,True,2024-11-20,125.0,125.0,11223908,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Will,,Harvey,,,Not Employed,Not Employed,Charlottesville VA,2721 Timberlake Rd,,Charlottesville,VA,22901-9558,True,2024-12-30,50.0,175.0,11223909,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Megan,,Hull,,,Self,Activist,Washington DC,1 Washington Cir NW,,Washington,DC,20037-2347,True,2024-12-20,250.0,250.0,11223910,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Patricia,B,Hyer,,,Not employed,Not employed,Blacksburg VA,703 Willard Dr,,Blacksburg,VA,24060-5218,True,2024-11-18,250.0,250.0,11223911,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Peter,,Kelly,,,Not Employed,Not Employed,Middle Haddam CT,PO Box 283,,Middle Haddam,CT,06456-0283,True,2024-11-25,250.0,250.0,11223912,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}
+432871,,Ryan,,LaFountain,,,City of Roanoke,Commissioner of the Revenue,Roanoke VA,215 Church Ave SW,Ste 251,Roanoke,VA,24011-1519,True,2024-11-18,250.0,250.0,11223913,,{E61DA6CF-0D01-512A-A935-03DECCEA30DF}

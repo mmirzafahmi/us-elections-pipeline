@@ -1,11 +1,15 @@
-from dagster import Definitions, load_assets_from_modules
-from virginia_elections_pipeline import assets
-from virginia_elections_pipeline.schedule import weekly_update_schedule
+from dagster import Definitions
+from .schedule import weekly_update_schedule
+from dagster_dbt import DbtCliResource
+from .assets import get_data, combine_data, ingest_to_dwh
+from .dbt import virginia_dbt_assets
+from .project import virginia_elections_project
 
-
-all_assets = load_assets_from_modules([assets])
 
 defs = Definitions(
-    assets=all_assets,
-
+    assets=[get_data, combine_data, ingest_to_dwh, virginia_dbt_assets],
+    schedules=[weekly_update_schedule],
+    resources={
+        "dbt": DbtCliResource(project_dir=virginia_elections_project),
+    }
 )

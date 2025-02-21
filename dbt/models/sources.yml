@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: virginia_elections
+    schema: default  
+    tables:
+      - name: schedule_a
+        meta:
+          dagster:
+            asset_key: ["ingest_to_dwh"]

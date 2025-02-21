@@ -1,0 +1,19 @@
+virginia_elections_pipeline:
+  target: dev
+  outputs:
+    dev:
+      type: clickhouse
+      schema: default
+      host: localhost
+      port: 8123
+      user: default
+      password: 'indonesia'
+      secure: False
+
+jaffle_shop:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: tutorial.duckdb
+      threads: 24
