@@ -5,8 +5,8 @@
     "static_analysis_parsed_path_count": 0,
     "is_partial_parse_enabled": true,
     "is_static_analysis_enabled": true,
-    "read_files_elapsed": 0.057061599999999935,
-    "load_all_elapsed": 0.1931073999999997,
+    "read_files_elapsed": 0.04663240000000002,
+    "load_all_elapsed": 0.15365949999999984,
     "projects": [
         {
             "project_name": "virginia_elections_pipeline",

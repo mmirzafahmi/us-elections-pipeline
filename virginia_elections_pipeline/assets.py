@@ -7,10 +7,7 @@ from selenium import webdriver
 from bs4 import BeautifulSoup, SoupStrainer
 from sqlalchemy import create_engine, text
 from datetime import datetime
-from .dbt import virginia_dbt_assets
-from dagster import AssetExecutionContext
-from dagster_dbt import get_asset_key_for_model
-from .project import virginia_elections_project
+
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 
