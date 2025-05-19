@@ -50,20 +50,3 @@ Once your Dagster Daemon is running, you can start turning on schedules and sens
 The easiest way to deploy your Dagster project is to use Dagster+.
 
 Check out the [Dagster+ documentation](https://docs.dagster.io/dagster-plus/) to learn more.
-
-
-### Answers to Final Questions
-1. What are the drawbacks of the Dagster + DBT + ClickHouse approach?
-```
-Dagster + DBT + Clickhouse currently have a less mature community which based on my latest experience could cause a quite steeper learning curve for me and quite complex to maintain the framework which could become potential burden. Despite of this drawbacks, Dagster offers several advantages such as lineage tracking and data observability.
-```
-
-2. What would you do differently regarding how you spent your time on this project?
-```
-I usually do my side projects before or after working hours, and to improve my productivity, its important to setup a daily target and allocate a time to learn something new to enhance my knowledge to tackle unknown issue.
-```
-
-3. What challenges or concerns do you foresee in scaling this solution to handle data from 50 states, ultimately aggregating everything into a single final asset/table in ClickHouse?
-```
-Upcoming issue if we want to scale this solution from my perspective mainly will be performance and data management issues. Performance could be handle by horizontal or vertical scaling and implementing effective data governance to manage diversified data.    
-```
